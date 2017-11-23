@@ -1,0 +1,65 @@
+Name        Wabbit~
+Race        35
+Evolve      -1
+Classes     65535
+Str_Plus    0
+Dex_Plus    0
+Wis_Plus    0
+Int_Plus    0
+Con_Plus    0
+Cha_Plus    0
+Lck_Plus    0
+Hit         30
+Mana        100
+Affected    128
+Resist      0
+Suscept     0
+Language    0
+Align       -999
+Min_Align  -1000
+Max_Align	-999
+AC_Plus    0
+Exp_Mult   100
+Attacks    0
+Defenses   0
+Height     10
+Weight     20
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  0
+HP_Regen    0
+Race_Recall 0
+WhereName  &B<&cused as light&B>     ~
+WhereName  &B<&cworn on finger&B>    ~
+WhereName  &B<&cworn on finger&B>    ~
+WhereName  &B<&cworn around neck&B>  ~
+WhereName  &B<&cworn around neck&B>  ~
+WhereName  &B<&cworn on body&B>      ~
+WhereName  &B<&cworn on head&B>      ~
+WhereName  &B<&cworn on legs&B>      ~
+WhereName  &B<&cworn on feet&B>      ~
+WhereName  &B<&cworn on hands&B>     ~
+WhereName  &B<&cworn on arms&B>      ~
+WhereName  &B<&cworn as shield&B>    ~
+WhereName  &B<&cworn about body&B>   ~
+WhereName  &B<&cworn about waist&B>  ~
+WhereName  &B<&cworn around wrist&B> ~
+WhereName  &B<&cworn around wrist&B> ~
+WhereName  &B<&cwielded&B>           ~
+WhereName  &B<&cheld&B>              ~
+WhereName  &B<&cdual wielded&B>      ~
+WhereName  &B<&cworn on ears&B>      ~
+WhereName  &B<&cworn on eyes&B>      ~
+WhereName  &B<&cmissile wielded&B>   ~
+WhereName  &B<&cworn on back&B>      ~
+WhereName  &B<&cworn over face&B>    ~
+WhereName  &B<&cworn around ankle&B> ~
+WhereName  &B<&cworn around ankle&B> ~
+WhereName  &B<&cfloating nearby&B>   ~
+WhereName  &B<&cinsignia&B>          ~
+WhereName  &B<&clodged in arm&B>     ~
+WhereName  &B<&clodged in leg&B>     ~
+WhereName  &B<&clodged in rib&B>     ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  (null)~
+End

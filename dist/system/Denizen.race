@@ -1,0 +1,67 @@
+Name        Denizen~
+Race        17
+Evolve      -1
+Classes     65531
+Str_Plus    1
+Dex_Plus    4
+Wis_Plus    0
+Int_Plus    -2
+Con_Plus    -1
+Cha_Plus    -2
+Lck_Plus    2
+Hit         40
+Mana        0
+Affected    552
+Resist      1
+Suscept     2
+Language    0
+Align       -500
+Min_Align  -1000
+Max_Align	200
+AC_Plus    -20
+Exp_Mult   40
+Exp_tnl    1450
+Attacks    0
+Defenses   0
+Height     70
+Weight     170
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -2880
+HP_Regen    2104
+Race_Recall 0
+Cweight    0
+WhereName  <used as light>     ~
+WhereName  <worn on finger>    ~
+WhereName  <worn on finger>    ~
+WhereName  <worn around neck>  ~
+WhereName  <worn around neck>  ~
+WhereName  <worn on body>      ~
+WhereName  <worn on head>      ~
+WhereName  <worn on legs>      ~
+WhereName  <worn on feet>      ~
+WhereName  <worn on hands>     ~
+WhereName  <worn on arms>      ~
+WhereName  <worn as shield>    ~
+WhereName  <worn about body>   ~
+WhereName  <worn about waist>  ~
+WhereName  <worn around wrist> ~
+WhereName  <worn around wrist> ~
+WhereName  <wielded>           ~
+WhereName  <held>              ~
+WhereName  <dual wielded>      ~
+WhereName  <worn on ears>      ~
+WhereName  <worn on eyes>      ~
+WhereName  <missile wielded>   ~
+WhereName  <worn on back>  ~
+WhereName  <worn over face>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  ~
+WhereName  &B<&clodged in rib&B>     ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  Not set.~
+End

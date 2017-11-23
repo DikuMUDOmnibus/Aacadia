@@ -1,0 +1,5060 @@
+#SKILL
+Name         reserved~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         95
+Code         spell_null
+Dammsg       ~
+Wearoff      ???~
+Minlevel     800
+End
+
+#SKILL
+Name         ablution~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       112
+Mana         200
+Rounds       10
+Code         spell_ablution
+Dammsg       ~
+Wearoff      !Ablution!~
+Minlevel     100
+End
+
+#SKILL
+Name         acetum primus~
+Type         Spell
+Info         909
+Flags        0
+Target       1
+Minpos       109
+Slot         302
+Mana         15
+Rounds       3
+Code         spell_acetum_primus
+Dammsg       Acetum Primus~
+Wearoff      !WEAROFF!~
+Minlevel     37
+End
+
+#SKILL
+Name         acid blast~
+Type         Spell
+Info         5
+Flags        0
+Target       1
+Minpos       109
+Slot         70
+Mana         20
+Rounds       3
+Code         spell_acid_blast
+Dammsg       acid blast~
+Wearoff      !Acid Blast!~
+Minlevel     30
+End
+
+#SKILL
+Name         acid breath~
+Type         Spell
+Info         5
+Flags        0
+Target       1
+Minpos       109
+Slot         200
+Mana         20
+Rounds       3
+Code         spell_acid_breath
+Dammsg       blast of acid~
+Wearoff      !Acid Breath!~
+Minlevel     43
+End
+
+#SKILL
+Name         animate dead~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         231
+Mana         220
+Rounds       3
+Code         spell_animate_dead
+Dammsg       ~
+Wearoff      !Animate Dead!~
+Minlevel     800
+End
+
+#SKILL
+Name         aquabreath~
+Type         Spell
+Info         0
+Flags        1024
+Target       2
+Minpos       109
+Slot         236
+Mana         50
+Rounds       3
+Code         spell_aquabreath
+Dammsg       ~
+Wearoff      Your lungs revert to their original state.~
+Minlevel     28
+End
+
+#SKILL
+Name         armor~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         20
+Rounds       3
+Code         spell_armor
+Dammsg       ~
+Wearoff      Your armor stops glowing.~
+Minlevel     8
+End
+
+#SKILL
+Name         astral walk~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         90
+Mana         60
+Rounds       3
+Code         spell_astral_walk
+Dammsg       ~
+Wearoff      !Astral Walk!~
+Minlevel     30
+End
+
+#SKILL
+Name         avalanche~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         30
+Rounds       3
+Code         spell_avalanche
+Dammsg       avalanche~
+Wearoff      !Avalanche!~
+Minlevel     80
+End
+
+#SKILL
+Name         barkskin~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         30
+Rounds       3
+Code         spell_barkskin
+Dammsg       ~
+Wearoff      Your skin returns to normal.~
+Minlevel     45
+End
+
+#SKILL
+Name         battle plan~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         25
+Rounds       3
+Code         spell_battleplan
+Dammsg       ~
+Wearoff      Your knowledge of killing fades...~
+Minlevel     20
+End
+
+#SKILL
+Name         biofeedback~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         40
+Rounds       3
+Code         spell_biofeedback
+Dammsg       ~
+Wearoff      Your pulse returns to normal.~
+Minlevel     3
+End
+
+#SKILL
+Name         black lightning~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         303
+Mana         15
+Rounds       3
+Code         spell_black_lightning
+Dammsg       Black Lightning~
+Wearoff      !WEAROFF!~
+Minlevel     90
+End
+
+#SKILL
+Name         blackflame~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         60
+Rounds       3
+Code         spell_blackflame
+Dammsg       blackflame~
+Wearoff      The heat dissipates slowly.~
+Minlevel     100
+End
+
+#SKILL
+Name         bless~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         20
+Rounds       3
+Code         spell_bless
+Dammsg       ~
+Wearoff      Your blessing fades.~
+Minlevel     4
+End
+
+#SKILL
+Name         blindness~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         4
+Mana         5
+Rounds       3
+Code         spell_blindness
+Dammsg       ~
+Wearoff      You can see again.~
+Minlevel     8
+End
+
+#SKILL
+Name         burning hands~
+Type         Spell
+Info         1
+Flags        0
+Minpos       109
+Slot         5
+Mana         15
+Rounds       3
+Code         spell_burning_hands
+Dammsg       burning hands~
+Wearoff      !Burning Hands!~
+Minlevel     20
+End
+
+#SKILL
+Name         calcify flesh~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         30
+Rounds       3
+Code         spell_calcify_flesh
+Dammsg       ~
+Wearoff      Your skin softens.~
+Minlevel     20
+End
+
+#SKILL
+Name         call lightning~
+Type         Spell
+Info         3
+Flags        0
+Minpos       109
+Slot         6
+Mana         15
+Rounds       3
+Code         spell_call_lightning
+Dammsg       lightning bolt~
+Wearoff      !Call Lightning!~
+Minlevel     12
+End
+
+#SKILL
+Name         callmount~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         40
+Rounds       5
+Code         spell_callmount
+Dammsg       ~
+Minlevel     38
+End
+
+#SKILL
+Name         calltohades~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         120
+Rounds       3
+Code         spell_calltohades
+Dammsg       call to hades~
+Wearoff      !Calltohades!~
+Minlevel     800
+End
+
+#SKILL
+Name         cause critical~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         63
+Mana         20
+Rounds       3
+Code         spell_cause_critical
+Dammsg       spell~
+Wearoff      !Cause Critical!~
+Minlevel     800
+End
+
+#SKILL
+Name         cause light~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         62
+Mana         15
+Rounds       3
+Code         spell_cause_light
+Dammsg       spell~
+Wearoff      !Cause Light!~
+Minlevel     1
+End
+
+#SKILL
+Name         cause serious~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         64
+Mana         17
+Rounds       3
+Code         spell_cause_serious
+Dammsg       spell~
+Wearoff      !Cause Serious!~
+Minlevel     800
+End
+
+#SKILL
+Name         caustic fount~
+Type         Spell
+Info         909
+Flags        0
+Target       1
+Minpos       109
+Slot         313
+Mana         15
+Rounds       3
+Code         spell_caustic_fount
+Dammsg       Caustic Fount~
+Wearoff      !WEAROFF!~
+Minlevel     34
+End
+
+#SKILL
+Name         chainlightning~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         25
+Rounds       3
+Code         spell_chainlightning
+Dammsg       chainlightning~
+Minlevel     800
+End
+
+#SKILL
+Name         change sex~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         82
+Mana         15
+Rounds       3
+Code         spell_change_sex
+Dammsg       ~
+Wearoff      Your body feels familiar again.~
+Hitchar      $N cries out as $S gender is changed.~
+Hitvict      A chill runs through you as your gender changes.~
+Hitroom      $N cries out as $S gender is changed.~
+Affect       'l*230' 6 '1' -1
+Minlevel     800
+End
+
+#SKILL
+Name         charm person~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         7
+Mana         5
+Rounds       3
+Code         spell_charm_person
+Dammsg       ~
+Wearoff      You feel more self-confident.~
+Minlevel     800
+End
+
+#SKILL
+Name         chill touch~
+Type         Spell
+Info         2
+Flags        0
+Target       1
+Minpos       109
+Slot         8
+Mana         15
+Rounds       3
+Code         spell_chill_touch
+Dammsg       chilling touch~
+Wearoff      You feel less cold.~
+Minlevel     3
+End
+
+#SKILL
+Name         colour spray~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         10
+Mana         15
+Rounds       3
+Code         spell_colour_spray
+Dammsg       colour spray~
+Wearoff      !Colour Spray!~
+Minlevel     60
+End
+
+#SKILL
+Name         comfort~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         400
+Rounds       3
+Code         spell_comfort
+Dammsg       ~
+Wearoff      !Comfort!~
+Minlevel     400
+End
+
+#SKILL
+Name         continual light~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Slot         57
+Mana         7
+Rounds       3
+Code         spell_continual_light
+Dammsg       ~
+Wearoff      !Continual Light!~
+Minlevel     4
+End
+
+#SKILL
+Name         control weather~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         11
+Mana         25
+Rounds       3
+Code         spell_control_weather
+Dammsg       ~
+Wearoff      !Control Weather!~
+Minlevel     13
+End
+
+#SKILL
+Name         correlate~
+Type         Spell
+Info         0
+Flags        0
+Target       4
+Minpos       112
+Mana         200
+Rounds       12
+Code         spell_correlate
+Dammsg       ~
+Wearoff      !Correlate!~
+Minlevel     70
+End
+
+#SKILL
+Name         create fire~
+Type         Spell
+Info         521
+Flags        16384
+Minpos       109
+Slot         85
+Mana         10
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Wearoff      !Create Fire!~
+Hitchar      A small cloud of vaporous flame bursts forth before you.~
+Hitroom      A small cloud of vaporous flame bursts forth before $n.~
+Dice         L~
+Value        30
+Minlevel     6
+End
+
+#SKILL
+Name         create food~
+Type         Spell
+Info         520
+Flags        16384
+Minpos       109
+Slot         12
+Mana         5
+Rounds       3
+Code         spell_create_food
+Dammsg       ~
+Wearoff      !Create Food!~
+Hitchar      A magic mushroom appears in your hands.~
+Hitroom      A magic mushroom appears in $n's hands.~
+Dice         0~
+Value        20
+Minlevel     800
+End
+
+#SKILL
+Name         create spring~
+Type         Spell
+Info         520
+Flags        16384
+Minpos       109
+Slot         80
+Mana         20
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Wearoff      !Create Spring!~
+Hitchar      Tracing a ring before you, the graceful flow of a mystical spring emerges.~
+Hitroom      As $n traces a ring through the air, the flow of a mystical spring emerges.~
+Dice         L~
+Value        22
+Minlevel     800
+End
+
+#SKILL
+Name         create symbol~
+Type         Spell
+Info         520
+Flags        16384
+Minpos       109
+Slot         101
+Mana         35
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Hitchar      A shining symbol of faith appears in your hands!~
+Hitroom      $n has invoked a holy symbol!~
+Dice         0~
+Value        43
+Minlevel     10
+End
+
+#SKILL
+Name         create water~
+Type         Spell
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Slot         13
+Mana         5
+Rounds       3
+Code         spell_create_water
+Dammsg       ~
+Wearoff      !Create Water!~
+Minlevel     800
+End
+
+#SKILL
+Name         creeping doom~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         100
+Rounds       3
+Code         spell_creeping_doom
+Dammsg       creeping doom~
+Wearoff      !Creeping Doom!~
+Minlevel     85
+End
+
+#SKILL
+Name         cure blindness~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         14
+Mana         5
+Rounds       3
+Code         spell_cure_blindness
+Dammsg       ~
+Wearoff      !Cure Blindness!~
+Minlevel     4
+End
+
+#SKILL
+Name         cure critical~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         15
+Mana         20
+Rounds       3
+Code         spell_cure_critical
+Dammsg       ~
+Wearoff      !Cure Critical!~
+Minlevel     25
+End
+
+#SKILL
+Name         cure light~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         16
+Mana         10
+Rounds       3
+Code         spell_cure_light
+Dammsg       ~
+Wearoff      !Cure light!~
+Minlevel     1
+End
+
+#SKILL
+Name         cure plague~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         15
+Rounds       3
+Code         spell_cure_plague
+Dammsg       ~
+Wearoff      !Cure Plague!~
+Minlevel     14
+End
+
+#SKILL
+Name         cure poison~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         43
+Mana         5
+Rounds       3
+Code         spell_cure_poison
+Dammsg       ~
+Wearoff      !Cure Poison!~
+Minlevel     14
+End
+
+#SKILL
+Name         cure serious~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         61
+Mana         15
+Rounds       3
+Code         spell_cure_serious
+Dammsg       ~
+Wearoff      !Cure Serious!~
+Minlevel     5
+End
+
+#SKILL
+Name         curse~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         17
+Mana         20
+Rounds       3
+Code         spell_curse
+Dammsg       curse~
+Wearoff      The curse wears off.~
+Minlevel     12
+End
+
+#SKILL
+Name         dangle~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         20
+Rounds       3
+Code         spell_dangle
+Dammsg       ~
+Wearoff      You fall to the ground.~
+Minlevel     25
+End
+
+#SKILL
+Name         delirium~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         100
+Rounds       3
+Code         spell_delirium
+Dammsg       ~
+Wearoff      The strange affects subside...~
+Minlevel     60
+End
+
+#SKILL
+Name         demi~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         45
+Rounds       3
+Code         spell_demi
+Dammsg       ~
+Wearoff      The field evaperates...~
+Minlevel     45
+End
+
+#SKILL
+Name         demistrike~
+Type         Spell
+Info         7
+Flags        0
+Target       1
+Minpos       109
+Mana         25
+Rounds       3
+Code         spell_demistrike
+Dammsg       demistrike~
+Wearoff      !Demistrike!~
+Minlevel     8
+End
+
+#SKILL
+Name         demonfire~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         65
+Rounds       3
+Code         spell_demonfire
+Dammsg       ~
+Wearoff      The flames subside from around you.~
+Minlevel     95
+End
+
+#SKILL
+Name         detect evil~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         18
+Mana         5
+Rounds       3
+Code         spell_detect_evil
+Dammsg       ~
+Wearoff      The red outlines fade from your vision.~
+Minlevel     3
+End
+
+#SKILL
+Name         detect hidden~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         44
+Mana         5
+Rounds       3
+Code         spell_detect_hidden
+Dammsg       ~
+Wearoff      You feel less aware of your surroundings.~
+Minlevel     5
+End
+
+#SKILL
+Name         detect invis~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         19
+Mana         5
+Rounds       3
+Code         spell_detect_invis
+Dammsg       ~
+Wearoff      You no longer see invisible objects.~
+Minlevel     5
+End
+
+#SKILL
+Name         detect magic~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         20
+Mana         5
+Rounds       3
+Code         spell_detect_magic
+Dammsg       ~
+Wearoff      The blue outlines disappear from your vision.~
+Minlevel     5
+End
+
+#SKILL
+Name         detect poison~
+Type         Spell
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Slot         21
+Mana         5
+Rounds       3
+Code         spell_detect_poison
+Dammsg       ~
+Wearoff      !Detect Poison!~
+Minlevel     5
+End
+
+#SKILL
+Name         detect traps~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         86
+Mana         15
+Rounds       3
+Code         spell_detect_traps
+Dammsg       ~
+Wearoff      You feel less aware of the dangers about you.~
+Minlevel     3
+End
+
+#SKILL
+Name         dispel evil~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         22
+Mana         15
+Rounds       3
+Code         spell_dispel_evil
+Dammsg       dispel evil~
+Wearoff      !Dispel Evil!~
+Minlevel     10
+End
+
+#SKILL
+Name         dispel magic~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         59
+Mana         15
+Rounds       3
+Code         spell_dispel_magic
+Dammsg       ~
+Wearoff      !Dispel Magic!~
+Minlevel     25
+End
+
+#SKILL
+Name         displacement~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         45
+Rounds       3
+Code         spell_displacement
+Dammsg       ~
+Wearoff      You shift back into one.~
+Minlevel     800
+End
+
+#SKILL
+Name         disruption~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         305
+Mana         15
+Rounds       3
+Code         spell_disruption
+Dammsg       Disruption ~
+Wearoff      !WEAROFF!~
+Minlevel     8
+End
+
+#SKILL
+Name         divinity~
+Type         Spell
+Info         0
+Flags        6144
+Target       2
+Minpos       109
+Slot         112
+Mana         115
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Hitchar      You allow a divine presence to flow through $N.~
+Hitvict      You are filled with a divine presence.~
+Components   V@43~
+Affect       '' 13 '200' -1
+Minlevel     42
+End
+
+#SKILL
+Name         dream~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         233
+Mana         5
+Rounds       3
+Code         spell_dream
+Dammsg       ~
+Wearoff      !Dream!~
+Minlevel     800
+End
+
+#SKILL
+Name         earthquake~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         23
+Mana         15
+Rounds       3
+Code         spell_earthquake
+Dammsg       earthquake~
+Wearoff      !Earthquake!~
+Minlevel     7
+End
+
+#SKILL
+Name         enchant armor~
+Type         Spell
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Mana         100
+Rounds       12
+Code         spell_enchant_armor
+Dammsg       ~
+Wearoff      !Enchant Armor!~
+Minlevel     12
+End
+
+#SKILL
+Name         enchant weapon~
+Type         Spell
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Slot         24
+Mana         100
+Rounds       12
+Code         spell_enchant_weapon
+Dammsg       ~
+Wearoff      !Enchant Weapon!~
+Minlevel     12
+End
+
+#SKILL
+Name         energy drain~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         25
+Mana         35
+Rounds       3
+Code         spell_energy_drain
+Dammsg       energy drain~
+Wearoff      !Energy Drain!~
+Minlevel     17
+End
+
+#SKILL
+Name         ethereal fist~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         312
+Mana         15
+Rounds       3
+Code         spell_ethereal_fist
+Dammsg       Ethereal Fist~
+Wearoff      !WEAROFF!~
+Minlevel     32
+End
+
+#SKILL
+Name         expurgation~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         340
+Mana         25
+Rounds       3
+Code         spell_expurgation
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         extradimensional portal~
+Type         Spell
+Info         1544
+Flags        16384
+Minpos       109
+Slot         95
+Mana         40
+Rounds       3
+Code         spell_acadia
+Dammsg       !EXTRADIMENSIONAL_PORTAL!~
+Wearoff      !EXTRADIMENSIONAL_PORTAL!~
+Value        64
+Minlevel     30
+End
+
+#SKILL
+Name         faerie fire~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         72
+Mana         5
+Rounds       3
+Code         spell_faerie_fire
+Dammsg       faerie fire~
+Wearoff      The pink aura around you fades away.~
+Minlevel     2
+End
+
+#SKILL
+Name         faerie fog~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         73
+Mana         12
+Rounds       3
+Code         spell_faerie_fog
+Dammsg       faerie fog~
+Wearoff      !Faerie Fog!~
+Minlevel     800
+End
+
+#SKILL
+Name         farsight~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         222
+Mana         15
+Rounds       3
+Code         spell_farsight
+Dammsg       ~
+Wearoff      !Farsight!~
+Minlevel     16
+End
+
+#SKILL
+Name         fire breath~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Minpos       109
+Slot         201
+Mana         15
+Rounds       3
+Code         spell_fire_breath
+Dammsg       blast of flame~
+Wearoff      !Fire Breath!~
+Minlevel     100
+End
+
+#SKILL
+Name         fireball~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Minpos       109
+Slot         26
+Mana         15
+Rounds       3
+Code         spell_fireball
+Dammsg       fireball~
+Wearoff      !Fireball!~
+Minlevel     15
+End
+
+#SKILL
+Name         firechain~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         25
+Rounds       3
+Code         spell_firechain
+Dammsg       firechain~
+Minlevel     800
+End
+
+#SKILL
+Name         fireshield~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         88
+Mana         85
+Rounds       3
+Code         spell_fireshield
+Dammsg       ~
+Wearoff      The mystical flames are quelled by a sudden rush of air.~
+Minlevel     800
+End
+
+#SKILL
+Name         firestorm~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         30
+Rounds       3
+Code         spell_firestorm
+Dammsg       firestorm~
+Wearoff      !Firestorm!~
+Minlevel     100
+End
+
+#SKILL
+Name         flamestrike~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Minpos       109
+Slot         65
+Mana         20
+Rounds       3
+Code         spell_flamestrike
+Dammsg       flamestrike~
+Wearoff      !Flamestrike!~
+Minlevel     5
+End
+
+#SKILL
+Name         flare~
+Type         Spell
+Info         393
+Flags        0
+Target       1
+Minpos       109
+Slot         60
+Mana         15
+Rounds       3
+Code         spell_fireball
+Dammsg       shield of flame~
+Missroom     supress~
+Minlevel     800
+End
+
+#SKILL
+Name         float~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         292
+Mana         8
+Rounds       18
+Code         spell_acadia
+Dammsg       ~
+Wearoff      Your feet float slowly to the surface.~
+Hitchar      $N begins to float in mid-air...~
+Hitvict      You begin to float in mid-air...~
+Hitroom      $N begins to float in mid-air...~
+Affect       'l*24' 26 'float' 21
+Minlevel     5
+End
+
+#SKILL
+Name         fly~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         56
+Mana         10
+Rounds       18
+Code         spell_fly
+Dammsg       ~
+Wearoff      You slowly float to the ground.~
+Minlevel     10
+End
+
+#SKILL
+Name         force choke~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         20
+Rounds       3
+Code         spell_force_choke
+Dammsg       ~
+Wearoff      !Force Choke!~
+Minlevel     35
+End
+
+#SKILL
+Name         force heal~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         25
+Rounds       3
+Code         spell_force_heal
+Dammsg       ~
+Wearoff      !Force Heal!~
+Minlevel     30
+End
+
+#SKILL
+Name         force levitation~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Mana         15
+Rounds       3
+Code         spell_force_levitation
+Dammsg       ~
+Wearoff      You slowly allow yourself to land.~
+Minlevel     25
+End
+
+#SKILL
+Name         force lightning~
+Type         Spell
+Info         1932
+Flags        0
+Target       1
+Mana         85
+Rounds       3
+Code         spell_force_lightning
+Dammsg       Force Lightning~
+Wearoff      !WEAROFF!~
+Minlevel     45
+End
+
+#SKILL
+Name         frenzy~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         45
+Rounds       3
+Code         spell_frenzy
+Dammsg       ~
+Wearoff      You relax as you come out of your rage.~
+Minlevel     5
+End
+
+#SKILL
+Name         frost breath~
+Type         Spell
+Info         2
+Flags        0
+Target       1
+Minpos       109
+Slot         202
+Mana         95
+Rounds       3
+Code         spell_frost_breath
+Dammsg       blast of frost~
+Wearoff      !Frost Breath!~
+Minlevel     41
+End
+
+#SKILL
+Name         galvanic whip~
+Type         Spell
+Info         907
+Flags        0
+Target       1
+Minpos       109
+Slot         304
+Mana         15
+Rounds       3
+Code         spell_galvanic_whip
+Dammsg       Galvanic Whip~
+Wearoff      !WEAROFF!~
+Minlevel     800
+End
+
+#SKILL
+Name         gas breath~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         203
+Mana         15
+Rounds       3
+Code         spell_gas_breath
+Dammsg       blast of gas~
+Wearoff      !Gas Breath!~
+Minlevel     45
+End
+
+#SKILL
+Name         gate~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         83
+Mana         50
+Rounds       3
+Code         spell_gate
+Dammsg       ~
+Wearoff      !Gate!~
+Minlevel     800
+End
+
+#SKILL
+Name         godspell~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Code         spell_godspell
+Dammsg       ~
+Wearoff      The light of the gods vanishes abruptly.~
+Minlevel     800
+End
+
+#SKILL
+Name         gpc~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         70
+Rounds       5
+Code         spell_gpc
+Dammsg       ~
+Wearoff      !Gpc!~
+Minlevel     800
+End
+
+#SKILL
+Name         hades armor~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         25
+Rounds       3
+Code         spell_hadesarmor
+Dammsg       ~
+Wearoff      Hades pulls his cloak away.~
+Minlevel     14
+End
+
+#SKILL
+Name         hand of chaos~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         307
+Mana         15
+Rounds       3
+Code         spell_hand_of_chaos
+Dammsg       Hand of Chaos~
+Wearoff      !WEAROFF!~
+Minlevel     800
+End
+
+#SKILL
+Name         harm~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         27
+Mana         35
+Rounds       3
+Code         spell_harm
+Dammsg       harm spell~
+Wearoff      !Harm!~
+Minlevel     800
+End
+
+#SKILL
+Name         headache~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         30
+Rounds       3
+Code         spell_headache
+Dammsg       ~
+Wearoff      The pain subsides...~
+Minlevel     22
+End
+
+#SKILL
+Name         heal~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       105
+Slot         28
+Mana         50
+Rounds       3
+Code         spell_heal_i
+Dammsg       ~
+Wearoff      !Heal!~
+Minlevel     15
+End
+
+#SKILL
+Name         heal ii~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       105
+Mana         100
+Rounds       3
+Code         spell_heal_ii
+Dammsg       ~
+Wearoff      !heal ii!~
+Minlevel     100
+End
+
+#SKILL
+Name         heal iii~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       105
+Mana         150
+Rounds       3
+Code         spell_heal_iii
+Dammsg       ~
+Wearoff      !heal iii!~
+Minlevel     200
+End
+
+#SKILL
+Name         heal iv~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       105
+Mana         200
+Rounds       3
+Code         spell_heal_iv
+Dammsg       ~
+Wearoff      !heal iv!~
+Minlevel     300
+End
+
+#SKILL
+Name         heal v~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       105
+Mana         250
+Rounds       3
+Code         spell_heal_v
+Dammsg       ~
+Wearoff      !heal v!~
+Minlevel     400
+End
+
+#SKILL
+Name         holy~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         30
+Rounds       3
+Code         spell_holy
+Dammsg       holy~
+Wearoff      !Holy!~
+Minlevel     100
+End
+
+#SKILL
+Name         holyaura~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Code         spell_holyaura
+Dammsg       ~
+Wearoff      Your aura relaxes back to its original strength.~
+Minlevel     800
+End
+
+#SKILL
+Name         holysight~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         90
+Rounds       3
+Code         spell_holysight
+Dammsg       ~
+Wearoff      Your eyes return to normal.~
+Minlevel     100
+End
+
+#SKILL
+Name         home~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Rounds       20
+Code         spell_home
+Dammsg       ~
+Wearoff      !Home!~
+Minlevel     100
+End
+
+#SKILL
+Name         hurricane~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         30
+Rounds       3
+Code         spell_hurricane
+Dammsg       hurricane~
+Wearoff      !Hurricane!~
+Minlevel     100
+End
+
+#SKILL
+Name         icechain~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         25
+Rounds       3
+Code         spell_icechain
+Dammsg       icechain~
+Minlevel     800
+End
+
+#SKILL
+Name         iceshard~
+Type         Spell
+Info         394
+Flags        0
+Target       1
+Minpos       109
+Slot         299
+Mana         15
+Rounds       3
+Code         spell_chill_touch
+Dammsg       hail of ice~
+Missroom     supress~
+Minlevel     800
+End
+
+#SKILL
+Name         iceshield~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         221
+Mana         85
+Rounds       3
+Code         spell_iceshield
+Dammsg       ~
+Wearoff      The hail of ice rapidly melts and evaporates into nothingness.~
+Minlevel     800
+End
+
+#SKILL
+Name         identify~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         53
+Mana         12
+Rounds       3
+Code         spell_identify
+Dammsg       ~
+Wearoff      !Identify!~
+Minlevel     2
+End
+
+#SKILL
+Name         improved invis~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         55
+Rounds       3
+Code         spell_impinvis
+Dammsg       ~
+Wearoff      You slowly become visible.~
+Minlevel     100
+End
+
+#SKILL
+Name         infravision~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         77
+Mana         5
+Rounds       18
+Code         spell_infravision
+Dammsg       ~
+Wearoff      You no longer see in the dark.~
+Minlevel     5
+End
+
+#SKILL
+Name         invincibility~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         80
+Rounds       3
+Code         spell_invincibility
+Dammsg       ~
+Wearoff      The light fades from arround you.~
+Minlevel     35
+End
+
+#SKILL
+Name         invis~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         29
+Mana         5
+Rounds       3
+Code         spell_invis
+Dammsg       ~
+Wearoff      You are no longer invisible.~
+Minlevel     4
+End
+
+#SKILL
+Name         invocation~
+Type         Spell
+Info         0
+Flags        8192
+Target       2
+Minpos       112
+Mana         120
+Rounds       120
+Code         spell_acadia
+Dammsg       ~
+Wearoff      &BYour blessing fades as the ritual ends.' ok~
+Participants 2
+Affect       '300' 18 '120' -1
+Minlevel     800
+End
+
+#SKILL
+Name         ironhand~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         30
+Rounds       3
+Code         spell_ironhand
+Dammsg       ~
+Wearoff      Your hands return to normal.~
+Minlevel     55
+End
+
+#SKILL
+Name         ironskin~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         45
+Rounds       3
+Code         spell_ironskin
+Dammsg       ~
+Wearoff      Your skin softens...~
+Minlevel     35
+End
+
+#SKILL
+Name         jedi mind trick~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         10
+Rounds       3
+Code         spell_jedi_mind_trick
+Dammsg       ~
+Wearoff      You feel more self-confident.~
+Minlevel     40
+End
+
+#SKILL
+Name         jer~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         600
+Rounds       20
+Code         spell_jer
+Dammsg       ~
+Wearoff      You stop shining.~
+Minlevel     95
+End
+
+#SKILL
+Name         jir~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         500
+Rounds       20
+Code         spell_jir
+Dammsg       ~
+Wearoff      You slowly dim and stop glowing...~
+Minlevel     95
+End
+
+#SKILL
+Name         jur~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Mana         500
+Rounds       20
+Code         spell_jur
+Dammsg       ~
+Wearoff      You turn dark and stop luminesing.~
+Minlevel     95
+End
+
+#SKILL
+Name         knock~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         234
+Mana         10
+Rounds       3
+Code         spell_knock
+Dammsg       ~
+Wearoff      !Knock!~
+Minlevel     32
+End
+
+#SKILL
+Name         know alignment~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         58
+Mana         9
+Rounds       3
+Code         spell_know_alignment
+Dammsg       ~
+Wearoff      !Know Alignment!~
+Minlevel     5
+End
+
+#SKILL
+Name         kyahu~
+Type         Spell
+Info         2
+Flags        0
+Target       1
+Minpos       109
+Mana         62
+Rounds       3
+Code         spell_kyahu
+Dammsg       kyahu~
+Wearoff      !Kyahu!~
+Minlevel     80
+End
+
+#SKILL
+Name         lightning bolt~
+Type         Spell
+Info         3
+Flags        0
+Target       1
+Slot         30
+Mana         15
+Rounds       3
+Code         spell_lightning_bolt
+Dammsg       lightning bolt~
+Wearoff      !Lightning Bolt!~
+Minlevel     9
+End
+
+#SKILL
+Name         lightning breath~
+Type         Spell
+Info         3
+Flags        0
+Target       1
+Minpos       109
+Slot         204
+Mana         15
+Rounds       3
+Code         spell_lightning_breath
+Dammsg       blast of lightning~
+Wearoff      !Lightning Breath!~
+Minlevel     800
+End
+
+#SKILL
+Name         locate object~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         31
+Mana         40
+Rounds       18
+Code         spell_locate_object
+Dammsg       ~
+Wearoff      !Locate Object!~
+Minlevel     6
+End
+
+#SKILL
+Name         magic missile~
+Type         Spell
+Info         340
+Flags        0
+Minpos       109
+Slot         32
+Mana         7
+Rounds       3
+Range        2
+Code         spell_acadia
+Dammsg       magic missile~
+Wearoff      !Magic Missile!~
+Minlevel     800
+End
+
+#SKILL
+Name         magnetic thrust~
+Type         Spell
+Info         907
+Flags        0
+Target       1
+Minpos       109
+Slot         311
+Mana         15
+Rounds       3
+Code         spell_magnetic_thrust
+Dammsg       Magnetic Thrust~
+Wearoff      !WEAROFF!~
+Minlevel     27
+End
+
+#SKILL
+Name         mana~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         84
+Mana         20
+Rounds       3
+Code         spell_mana
+Dammsg       ~
+Wearoff      !Restore Mana!~
+Minlevel     800
+End
+
+#SKILL
+Name         mass invis~
+Type         Spell
+Info         0
+Flags        8192
+Target       2
+Minpos       109
+Slot         69
+Mana         20
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Wearoff      You are no longer invisible.~
+Hitvict      You fade from existence.~
+Hitroom      $N fades from existence.~
+Affect       'l*11' 26 'mass invis' 1
+Minlevel     17
+End
+
+#SKILL
+Name         meteor~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         50
+Rounds       3
+Code         spell_meteor
+Dammsg       meteor~
+Wearoff      !Meteor!~
+Minlevel     100
+End
+
+#SKILL
+Name         midas touch~
+Type         Spell
+Info         1552
+Flags        0
+Target       4
+Minpos       109
+Slot         95
+Mana         30
+Rounds       20
+Code         spell_midas_touch
+Dammsg       !MIDAS_TOUCH!~
+Wearoff      !MIDAS_TOUCH!~
+Minlevel     13
+End
+
+#SKILL
+Name         mindblast~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         60
+Rounds       3
+Code         spell_mindblast
+Dammsg       mindblast~
+Wearoff      !Mindblast!~
+Minlevel     100
+End
+
+#SKILL
+Name         mistwalk~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         35
+Rounds       3
+Code         spell_mistwalk
+Dammsg       ~
+Wearoff      !Mistwalk!~
+Minlevel     30
+End
+
+#SKILL
+Name         niaver~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         450
+Rounds       20
+Code         spell_niaver
+Dammsg       ~
+Wearoff      !Niaver!~
+Minlevel     200
+End
+
+#SKILL
+Name         pass door~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         74
+Mana         50
+Rounds       3
+Code         spell_pass_door
+Dammsg       ~
+Wearoff      You feel solid again.~
+Minlevel     800
+End
+
+#SKILL
+Name         plague~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         20
+Rounds       3
+Code         spell_plague
+Dammsg       plague~
+Wearoff      You feel better.~
+Minlevel     8
+End
+
+#SKILL
+Name         plasmastrike~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Mana         40
+Rounds       3
+Code         spell_plasmastrike
+Dammsg       plasmastrike~
+Wearoff      !Plasmastrike!~
+Minlevel     20
+End
+
+#SKILL
+Name         poison~
+Type         Spell
+Info         0
+Flags        131072
+Target       1
+Minpos       109
+Slot         33
+Mana         10
+Rounds       3
+Code         spell_poison
+Dammsg       poison~
+Wearoff      You feel less sick.~
+Minlevel     8
+End
+
+#SKILL
+Name         polymorph~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         294
+Mana         60
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Wearoff      !Polymorph!~
+Minlevel     800
+End
+
+#SKILL
+Name         portal~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         220
+Mana         70
+Rounds       3
+Code         spell_portal
+Dammsg       ~
+Wearoff      !Portal!~
+Minlevel     25
+End
+
+#SKILL
+Name         possess~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         232
+Mana         120
+Rounds       3
+Code         spell_possess
+Dammsg       possess~
+Wearoff      You return to your body.~
+Components   v+13~
+Minlevel     800
+End
+
+#SKILL
+Name         protect~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         35
+Rounds       3
+Code         spell_protect
+Dammsg       ~
+Wearoff      You feel less protected...~
+Minlevel     20
+End
+
+#SKILL
+Name         psiblast~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         35
+Rounds       3
+Code         spell_psiblast
+Dammsg       psiblast~
+Wearoff      !Psiblast!~
+Minlevel     35
+End
+
+#SKILL
+Name         psibolt~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         25
+Rounds       3
+Code         spell_psibolt
+Dammsg       psibolt~
+Wearoff      !Psibolt!~
+Minlevel     25
+End
+
+#SKILL
+Name         psidance~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         35
+Rounds       3
+Code         spell_psidance
+Dammsg       psidance~
+Wearoff      !Psidance!~
+Minlevel     5
+End
+
+#SKILL
+Name         psiwave~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         15
+Rounds       3
+Code         spell_psiwave
+Dammsg       psiwave~
+Wearoff      !Psiwave!~
+Minlevel     10
+End
+
+#SKILL
+Name         purity~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Rounds       3
+Code         spell_purity
+Dammsg       ~
+Wearoff      Your sense of purity whithers...~
+Minlevel     95
+End
+
+#SKILL
+Name         quantum spike~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         314
+Mana         15
+Rounds       3
+Code         spell_quantum_spike
+Dammsg       Quantum Spike~
+Wearoff      !WEAROFF!~
+Minlevel     800
+End
+
+#SKILL
+Name         quickness~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         40
+Rounds       3
+Code         spell_quickness
+Dammsg       ~
+Wearoff      You get slugish.~
+Minlevel     14
+End
+
+#SKILL
+Name         recharge~
+Type         Spell
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Slot         229
+Mana         100
+Rounds       3
+Code         spell_recharge
+Dammsg       ~
+Wearoff      !Recharge!~
+Minlevel     800
+End
+
+#SKILL
+Name         refresh~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         81
+Mana         12
+Rounds       18
+Code         spell_acadia
+Dammsg       refresh~
+Wearoff      !Refresh!~
+Hitchar      You allow blooming vitality to flow from you to $N.~
+Hitvict      Blooming vitality flows through you.~
+Affect       '' 14 'l' -1
+Minlevel     3
+End
+
+#SKILL
+Name         regeneration~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         130
+Rounds       3
+Code         spell_regeneration
+Dammsg       ~
+Wearoff      Your body relaxes back to normal.~
+Minlevel     65
+End
+
+#SKILL
+Name         remove curse~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         35
+Mana         5
+Rounds       3
+Code         spell_remove_curse
+Dammsg       ~
+Wearoff      !Remove Curse!~
+Minlevel     20
+End
+
+#SKILL
+Name         remove invis~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         230
+Mana         10
+Rounds       3
+Code         spell_remove_invis
+Dammsg       ~
+Wearoff      !Remove Invis!~
+Minlevel     6
+End
+
+#SKILL
+Name         remove trap~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         87
+Mana         35
+Rounds       3
+Code         spell_remove_trap
+Dammsg       ~
+Wearoff      !Remove trap!~
+Minlevel     15
+End
+
+#SKILL
+Name         restoration~
+Type         Spell
+Info         0
+Flags        14336
+Minpos       109
+Slot         113
+Mana         80
+Rounds       20
+Code         spell_acadia
+Dammsg       ~
+Hitvict      A warm feeling flows through you.~
+Hitroom      A warm feeling flows through $N.~
+Participants 2
+Components   V@43~
+Affect       '' 13 '125' -1
+Minlevel     30
+End
+
+#SKILL
+Name         sacral divinity~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         345
+Mana         100
+Rounds       3
+Code         spell_sacral_divinity
+Dammsg       ~
+Components   V@65~
+Minlevel     800
+End
+
+#SKILL
+Name         sanctuary~
+Type         Spell
+Info         336
+Flags        0
+Target       2
+Minpos       109
+Slot         36
+Mana         75
+Rounds       3
+Code         spell_sanctuary
+Dammsg       ~
+Wearoff      The luminous aura about your body fades away.~
+Minlevel     28
+End
+
+#SKILL
+Name         sanctuary ii~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         50
+Rounds       15
+Code         spell_sanctuary
+Dammsg       ~
+Wearoff      Shimmers.~
+Participants 2
+Minlevel     800
+End
+
+#SKILL
+Name         sandstorm~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Mana         30
+Rounds       3
+Code         spell_sandstorm
+Dammsg       sandstorm~
+Wearoff      !Sandstorm!~
+Minlevel     100
+End
+
+#SKILL
+Name         scorching surge~
+Type         Spell
+Info         1
+Flags        0
+Target       1
+Minpos       109
+Slot         296
+Mana         25
+Rounds       3
+Code         spell_scorching_surge
+Dammsg       scorching surge~
+Wearoff      !Scorching Surge!~
+Minlevel     800
+End
+
+#SKILL
+Name         scry~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         91
+Mana         20
+Rounds       3
+Code         spell_scry
+Dammsg       ~
+Wearoff      Your clairvoyance slowly disintegrates...~
+Minlevel     15
+End
+
+#SKILL
+Name         seluthiary~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Mana         100
+Rounds       3
+Code         spell_seluthiary
+Dammsg       seluthiary~
+Minlevel     90
+End
+
+#SKILL
+Name         shield~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Slot         67
+Mana         12
+Rounds       18
+Code         spell_shield
+Dammsg       ~
+Wearoff      Your force shield shimmers then fades away.~
+Minlevel     2
+End
+
+#SKILL
+Name         shocking grasp~
+Type         Spell
+Info         3
+Flags        0
+Target       1
+Minpos       109
+Slot         51
+Mana         15
+Rounds       3
+Code         spell_shocking_grasp
+Dammsg       shocking grasp~
+Wearoff      !Shocking Grasp!~
+Minlevel     7
+End
+
+#SKILL
+Name         shockshield~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         89
+Mana         95
+Rounds       3
+Code         spell_shockshield
+Dammsg       ~
+Wearoff      The torrents of cascading energy suddenly fade away.~
+Minlevel     800
+End
+
+#SKILL
+Name         sith fury~
+Type         Spell
+Info         4
+Flags        0
+Target       1
+Minpos       109
+Slot         999
+Mana         55
+Rounds       3
+Code         spell_sith_fury
+Dammsg       sith fury~
+Wearoff      !Sith Fury!~
+Minlevel     60
+End
+
+#SKILL
+Name         sleep~
+Type         Spell
+Info         0
+Flags        131072
+Minpos       109
+Slot         38
+Mana         15
+Rounds       3
+Code         spell_sleep
+Dammsg       ~
+Wearoff      You feel less tired.~
+Minlevel     12
+End
+
+#SKILL
+Name         solomonic invocation~
+Type         Spell
+Info         520
+Flags        16384
+Minpos       109
+Slot         344
+Mana         50
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Hitchar      A brilliant sphere of light coalesces into a gleaming silver cross.~
+Hitroom      A brilliant sphere of light coalesces into a gleaming silver cross in $n's hands.~
+Value        65
+Minlevel     800
+End
+
+#SKILL
+Name         sonic resonance~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         309
+Mana         15
+Rounds       3
+Code         spell_sonic_resonance
+Dammsg       Sonic Resonance~
+Wearoff      !WEAROFF!~
+Minlevel     800
+End
+
+#SKILL
+Name         spectral furor~
+Type         Spell
+Info         908
+Flags        0
+Target       1
+Minpos       109
+Slot         306
+Mana         15
+Rounds       3
+Code         spell_spectral_furor
+Dammsg       Spectral Furor~
+Wearoff      !WEAROFF!~
+Minlevel     13
+End
+
+#SKILL
+Name         spiral blast~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         295
+Mana         35
+Rounds       3
+Code         spell_spiral_blast
+Dammsg       spiral blast~
+Wearoff      !Spiral Blast!~
+Minlevel     800
+End
+
+#SKILL
+Name         spiritual wrath~
+Type         Spell
+Info         396
+Flags        6160
+Minpos       109
+Slot         115
+Mana         120
+Rounds       3
+Code         spell_acadia
+Dammsg       spiritual wrath~
+Dice         44*W~
+Participants 2
+Components   V@43~
+Affect       '6' 26 'blindness' 0
+Minlevel     48
+End
+
+#SKILL
+Name         steel skin~
+Type         Spell
+Info         0
+Flags        0
+Target       2
+Mana         140
+Rounds       3
+Code         spell_steel_skin
+Dammsg       ~
+Minlevel     75
+End
+
+#SKILL
+Name         stone skin~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         66
+Mana         12
+Rounds       18
+Code         spell_stoneskin
+Dammsg       ~
+Wearoff      Your skin feels soft again.~
+Minlevel     22
+End
+
+#SKILL
+Name         sulfurous spray~
+Type         Spell
+Info         909
+Flags        0
+Target       1
+Minpos       109
+Slot         308
+Mana         15
+Rounds       3
+Code         spell_sulfurous_spray
+Dammsg       Sulfurous spray~
+Wearoff      !WEAROFF!~
+Minlevel     18
+End
+
+#SKILL
+Name         summon~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         40
+Mana         50
+Rounds       3
+Code         spell_summon
+Dammsg       ~
+Wearoff      !Summon!~
+Minlevel     800
+End
+
+#SKILL
+Name         teleport~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         2
+Mana         35
+Rounds       3
+Code         spell_teleport
+Dammsg       ~
+Wearoff      !Teleport!~
+Minlevel     15
+End
+
+#SKILL
+Name         terrashift~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         200
+Rounds       20
+Code         spell_terrashift
+Dammsg       ~
+Wearoff      !Terrashift!~
+Minlevel     100
+End
+
+#SKILL
+Name         torrent~
+Type         Spell
+Info         395
+Flags        0
+Target       1
+Minpos       109
+Slot         300
+Mana         15
+Rounds       3
+Code         spell_lightning_bolt
+Dammsg       tendril of lightning~
+Missroom     supress~
+Minlevel     800
+End
+
+#SKILL
+Name         transport~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         219
+Mana         70
+Rounds       3
+Code         spell_transport
+Dammsg       ~
+Wearoff      !Transport!~
+Minlevel     17
+End
+
+#SKILL
+Name         true sight~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Slot         235
+Mana         70
+Rounds       3
+Code         spell_true_sight
+Dammsg       ~
+Wearoff      Your vision descends to the material plane.~
+Minlevel     5
+End
+
+#SKILL
+Name         unknown~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         95
+Code         spell_acadia
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         ventriloquate~
+Type         Spell
+Info         0
+Flags        0
+Minpos       109
+Slot         41
+Mana         5
+Rounds       3
+Code         spell_ventriloquate
+Dammsg       ~
+Wearoff      !Ventriloquate!~
+Minlevel     1
+End
+
+#SKILL
+Name         warp~
+Type         Spell
+Info         0
+Flags        0
+Minpos       112
+Mana         10
+Rounds       3
+Code         spell_warp
+Dammsg       ~
+Wearoff      !Warp!~
+Minlevel     8
+End
+
+#SKILL
+Name         weaken~
+Type         Spell
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         68
+Mana         20
+Rounds       3
+Code         spell_weaken
+Dammsg       spell~
+Wearoff      You feel stronger.~
+Minlevel     800
+End
+
+#SKILL
+Name         word of recall~
+Type         Spell
+Info         0
+Flags        0
+Target       3
+Minpos       106
+Slot         42
+Mana         5
+Rounds       3
+Code         spell_word_of_recall
+Dammsg       ~
+Wearoff      !Word of Recall!~
+Minlevel     30
+End
+
+#SKILL
+Name         aggressive style~
+Type         Skill
+Info         0
+Flags        0
+Minpos       195
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Wearoff      !aggressive style!~
+Minlevel     1
+End
+
+#SKILL
+Name         aid~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_aid
+Dammsg       ~
+Wearoff      !Aid!~
+Minlevel     21
+End
+
+#SKILL
+Name         alertness~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       112
+Code         do_alertness
+Dammsg       ~
+Wearoff      You see less of your surroundings.~
+Minlevel     4
+End
+
+#SKILL
+Name         armor lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Armor Lore!~
+Minlevel     4
+End
+
+#SKILL
+Name         assassinate~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_assassinate
+Dammsg       assassinate~
+Wearoff      !Assassinate!~
+Minlevel     100
+End
+
+#SKILL
+Name         backstab~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_backstab
+Dammsg       backstab~
+Wearoff      !Backstab!~
+Minlevel     2
+End
+
+#SKILL
+Name         barbed arrow~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     35
+End
+
+#SKILL
+Name         bash~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Rounds       3
+Code         do_bash
+Dammsg       bash~
+Wearoff      !Bash!~
+Minlevel     30
+End
+
+#SKILL
+Name         berserk~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_berserk
+Dammsg       ~
+Wearoff      You regain your composure...~
+Minlevel     5
+End
+
+#SKILL
+Name         berserk style~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Wearoff      !berserk style!~
+Minlevel     10
+End
+
+#SKILL
+Name         bite~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_bite
+Dammsg       bite~
+Wearoff      !Bite!~
+Minlevel     11
+End
+
+#SKILL
+Name         blitz~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       Blitz~
+Hitchar      You attack $N with a set of furious blows.~
+Dice         l/2 { 40~
+Minlevel     28
+End
+
+#SKILL
+Name         bloodlet~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_bloodlet
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         bowcraft~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_bowcraft
+Dammsg       ~
+Wearoff      !Bowcraft!~
+Minlevel     10
+End
+
+#SKILL
+Name         broach~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         do_broach
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         camouflaged arrow~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     25
+End
+
+#SKILL
+Name         circle~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_circle
+Dammsg       circle~
+Wearoff      !Circle!~
+Minlevel     25
+End
+
+#SKILL
+Name         claw~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_null
+Dammsg       slash~
+Minlevel     800
+End
+
+#SKILL
+Name         climb~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_climb
+Dammsg       climb~
+Wearoff      !climb!~
+Minlevel     8
+End
+
+#SKILL
+Name         cook~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Slot         100
+Rounds       3
+Code         do_cook
+Dammsg       ~
+Misschar     You aren't a very good cook yet.~
+Minlevel     1
+End
+
+#SKILL
+Name         craft~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       20
+Code         do_craft
+Dammsg       ~
+Wearoff      !Craft!~
+Minlevel     13
+End
+
+#SKILL
+Name         cuff~
+Type         Skill
+Info         9096
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       cuff~
+Dice         L/3~
+Minlevel     800
+End
+
+#SKILL
+Name         defensive style~
+Type         Skill
+Info         0
+Flags        0
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Wearoff      !defensive style!~
+Minlevel     2
+End
+
+#SKILL
+Name         detrap~
+Type         Skill
+Info         0
+Flags        0
+Minpos       108
+Rounds       3
+Code         do_detrap
+Dammsg       ~
+Wearoff      !Detrap!~
+Minlevel     16
+End
+
+#SKILL
+Name         dig~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       20
+Code         do_dig
+Dammsg       ~
+Minlevel     2
+End
+
+#SKILL
+Name         disarm~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_disarm
+Dammsg       ~
+Wearoff      !Disarm!~
+Minlevel     10
+End
+
+#SKILL
+Name         dodge~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Dodge!~
+Minlevel     19
+End
+
+#SKILL
+Name         dodgecraft~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     13
+End
+
+#SKILL
+Name         dominate~
+Type         Skill
+Info         2048
+Flags        0
+Target       1
+Minpos       109
+Mana         5
+Rounds       3
+Code         spell_charm_person
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         doorbash~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_bashdoor
+Dammsg       bashdoor~
+Wearoff      !Bash Door!~
+Minlevel     800
+End
+
+#SKILL
+Name         dual wield~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Dual Wield!~
+Minlevel     15
+End
+
+#SKILL
+Name         elbow~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       elbow~
+Hitchar      You raise your elbow and strike out at $N.~
+Dice         l/2 { 25~
+Minlevel     15
+End
+
+#SKILL
+Name         enhanced damage~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Enhanced Damage!~
+Minlevel     5
+End
+
+#SKILL
+Name         evasive style~
+Type         Skill
+Info         0
+Flags        0
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Wearoff      !evasive style!~
+Minlevel     1
+End
+
+#SKILL
+Name         fast healing~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     2
+End
+
+#SKILL
+Name         fast healing ii~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     100
+End
+
+#SKILL
+Name         fast healing iii~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     200
+End
+
+#SKILL
+Name         fast healing iv~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     300
+End
+
+#SKILL
+Name         fast healing v~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     400
+End
+
+#SKILL
+Name         feed~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_feed
+Dammsg       bite~
+Wearoff      !Feed!~
+Minlevel     1
+End
+
+#SKILL
+Name         ferralclaw~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Rounds       3
+Code         do_ferralclaw
+Dammsg       ferralclaw~
+Wearoff      !Ferralclaw!~
+Minlevel     15
+End
+
+#SKILL
+Name         fifth attack~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Fifth Attack!~
+Minlevel     200
+End
+
+#SKILL
+Name         firekick~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       firekick~
+Minlevel     800
+End
+
+#SKILL
+Name         flaming arrow~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     45
+End
+
+#SKILL
+Name         fletch~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_fletch
+Dammsg       ~
+Wearoff      !Fletch!~
+Minlevel     3
+End
+
+#SKILL
+Name         flutecraft~
+Type         Skill
+Info         0
+Flags        0
+Code         do_flutecraft
+Dammsg       ~
+Wearoff      !Flutecraft!~
+Minlevel     2
+End
+
+#SKILL
+Name         force lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Force Lore!~
+Minlevel     12
+End
+
+#SKILL
+Name         forcepush~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_force_push
+Dammsg       force push~
+Wearoff      !Force Push!~
+Minlevel     15
+End
+
+#SKILL
+Name         forcethrow~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_force_throw
+Dammsg       force throw~
+Wearoff      !Force Throw!~
+Minlevel     19
+End
+
+#SKILL
+Name         forest lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Archery Lore!~
+Minlevel     2
+End
+
+#SKILL
+Name         fourth attack~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Fourth Attack!~
+Minlevel     100
+End
+
+#SKILL
+Name         gouge~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_gouge
+Dammsg       gouge~
+Wearoff      !Gouge!~
+Minlevel     800
+End
+
+#SKILL
+Name         grasp suspiria~
+Type         Skill
+Info         8591
+Flags        0
+Target       1
+Minpos       109
+Saves        5
+Mana         15
+Rounds       3
+Code         spell_acadia
+Dammsg       suspiric grasp~
+Hitchar      $N's deathrattle fills the air as you drain $S life...~
+Hitvict      A deathrattle escapes your throat as $n drains your life.~
+Hitroom      A deathrattle escapes $N's throat as $n drains $S life.~
+Misschar     You clench a clawed fist in anger as $N escapes your grasp.~
+Missroom     $n grimaces at $N, clenching a clawed fist in anger...~
+Immchar      $N is unphased by your grasp...~
+Dice         (7d4*i)+20~
+Minlevel     50
+End
+
+#SKILL
+Name         grip~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Grip!~
+Minlevel     25
+End
+
+#SKILL
+Name         guard~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_acadia
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         headbutt~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       headbutt~
+Hitchar      You charge straight into $N and ram $M with your head!~
+Hitvict      $n headbutts you!~
+Dice         l/2 { 35~
+Minlevel     20
+End
+
+#SKILL
+Name         heighten~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_heighten
+Dammsg       ~
+Wearoff      Your senses return to normal.~
+Minlevel     2
+End
+
+#SKILL
+Name         hide~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Rounds       3
+Code         do_hide
+Dammsg       ~
+Wearoff      You are no longer hidden.~
+Hitvict      You attempt to hide.~
+Misschar     You attempt to hide.~
+Affect       'l*23' 26 'hide' 16
+Minlevel     5
+End
+
+#SKILL
+Name         hitall~
+Type         Skill
+Info         0
+Flags        65536
+Minpos       109
+Rounds       3
+Code         do_hitall
+Dammsg       hit~
+Minlevel     800
+End
+
+#SKILL
+Name         icekick~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       icekick~
+Minlevel     800
+End
+
+#SKILL
+Name         jab~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       jab~
+Hitchar      You jab at $N with your fist.~
+Hitvict      $n jabs at you with a fist.~
+Dice         l/2 { 20~
+Minlevel     20
+End
+
+#SKILL
+Name         karaaura~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_kar
+Dammsg       ~
+Wearoff      Kara's Aura leaves your soul feeling empty.~
+Minlevel     1
+End
+
+#SKILL
+Name         kick~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_kick
+Dammsg       kick~
+Minlevel     1
+End
+
+#SKILL
+Name         knee~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       knee~
+Hitchar      You strike out at $N with your knee.~
+Dice         l/2 { 25~
+Minlevel     5
+End
+
+#SKILL
+Name         leap~
+Type         Skill
+Info         904
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       leap~
+Hitchar      You leap into the air and hit $N with your feet!~
+Dice         l/2 { 35~
+Minlevel     800
+End
+
+#SKILL
+Name         lightningkick~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       lightningkick~
+Minlevel     800
+End
+
+#SKILL
+Name         longsight~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Wearoff      !Scan!~
+Minlevel     30
+End
+
+#SKILL
+Name         lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Lore!~
+Minlevel     1
+End
+
+#SKILL
+Name         lunge~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       lunge~
+Hitchar      You lunge toward $N with your weapon.~
+Dice         l/2 { 35~
+Minlevel     22
+End
+
+#SKILL
+Name         magic lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Magic Lore!~
+Minlevel     3
+End
+
+#SKILL
+Name         makepotion~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       20
+Code         do_makepotion
+Dammsg       ~
+Wearoff      !Makepotion!~
+Minlevel     200
+End
+
+#SKILL
+Name         map lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Map Lore!~
+Minlevel     5
+End
+
+#SKILL
+Name         meditation~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     2
+End
+
+#SKILL
+Name         meditation ii~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     100
+End
+
+#SKILL
+Name         meditation iii~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     200
+End
+
+#SKILL
+Name         meditation iv~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     300
+End
+
+#SKILL
+Name         meditation v~
+Type         Skill
+Info         0
+Flags        0
+Minpos       104
+Code         spell_null
+Dammsg       ~
+Minlevel     400
+End
+
+#SKILL
+Name         mistform~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       106
+Mana         40
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Wearoff      Your form becomes once again solid.~
+Hitvict      You assume a lucent form...~
+Hitroom      $N's form grows lucent...~
+Affect       'l*5' 26 'pass_door' 20
+Minlevel     18
+End
+
+#SKILL
+Name         mount~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_mount
+Dammsg       ~
+Wearoff      !Search!~
+Minlevel     7
+End
+
+#SKILL
+Name         move_hidden~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         do_move_hidden
+Dammsg       ~
+Wearoff      Your relentless efforts fail to hide your movements.~
+Minlevel     5
+End
+
+#SKILL
+Name         occulutus visum~
+Type         Skill
+Info         0
+Flags        32768
+Target       3
+Minpos       106
+Mana         30
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Wearoff      The fire in your eyes slowly fades...~
+Hitvict      Your eyes blaze like coals, filling your sight with unseen forms.~
+Hitroom      $N's eyes burn like coals in the darkness.~
+Affect       'l*14' 26 'detect_hidden' 5
+Affect       'l*14' 26 'detect_invis' 3
+Minlevel     12
+End
+
+#SKILL
+Name         parry~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Parry!~
+Minlevel     5
+End
+
+#SKILL
+Name         peek~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Peek!~
+Minlevel     1
+End
+
+#SKILL
+Name         pelt~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       pelt~
+Hitchar      You pelt at $N with a sharp blow!~
+Hitvict      $n pelts you with a sharp blow!~
+Dice         l/2 { 30~
+Minlevel     800
+End
+
+#SKILL
+Name         pick lock~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_pick
+Dammsg       ~
+Wearoff      !Pick!~
+Minlevel     1
+End
+
+#SKILL
+Name         piercing arrow~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Piercing Arrow!~
+Minlevel     15
+End
+
+#SKILL
+Name         poison weapon~
+Type         Skill
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Rounds       3
+Code         do_poison_weapon
+Dammsg       poisonous concoction~
+Wearoff      !Poison Weapon!~
+Minlevel     27
+End
+
+#SKILL
+Name         pummel~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       pummel~
+Hitchar      You pummel $N with your fists!~
+Hitvict      You are pummeled across the room!~
+Dice         l/1 { 40~
+Minlevel     30
+End
+
+#SKILL
+Name         punch~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_punch
+Dammsg       punch~
+Minlevel     25
+End
+
+#SKILL
+Name         punt~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       punt~
+Hitchar      You carefully aim a kick toward $N.~
+Dice         l/2 { 25~
+Minlevel     15
+End
+
+#SKILL
+Name         quiver~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_quiver
+Dammsg       ~
+Wearoff      !Quiver!~
+Minlevel     10
+End
+
+#SKILL
+Name         rescue~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_rescue
+Dammsg       ~
+Wearoff      !Rescue!~
+Minlevel     5
+End
+
+#SKILL
+Name         roundhouse~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       roundhouse~
+Hitchar      You strike at $N with a vicious roundhouse blow!~
+Dice         l/2 { 30~
+Minlevel     25
+End
+
+#SKILL
+Name         scribe~
+Type         Skill
+Info         0
+Flags        0
+Target       4
+Minpos       109
+Rounds       3
+Code         do_scribe
+Dammsg       ~
+Minlevel     48
+End
+
+#SKILL
+Name         search~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       20
+Code         do_search
+Dammsg       ~
+Minlevel     5
+End
+
+#SKILL
+Name         second attack~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Minlevel     3
+End
+
+#SKILL
+Name         shadow arrow~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     100
+End
+
+#SKILL
+Name         sharpen~
+Type         Skill
+Info         0
+Flags        0
+Target       4
+Minpos       112
+Rounds       20
+Code         do_sharpen
+Dammsg       ~
+Wearoff      !Sharpen!~
+Minlevel     15
+End
+
+#SKILL
+Name         shoulder~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       shoulder~
+Hitchar      You lean into $N and hit $M with your shoulder.~
+Dice         l/2 { 25~
+Minlevel     18
+End
+
+#SKILL
+Name         shriek~
+Type         Skill
+Info         392
+Flags        16
+Minpos       109
+Mana         15
+Rounds       3
+Code         spell_acadia
+Dammsg       shriek~
+Hitchar      Unfettered anguish explodes from your throat in an ear piercing wail!~
+Hitroom      The screams of lost souls erupt from $n, shattering all those around!~
+Dice         l~
+Minlevel     35
+End
+
+#SKILL
+Name         sixth attack~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Sixth Attack!~
+Minlevel     200
+End
+
+#SKILL
+Name         slice~
+Type         Skill
+Info         392
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_slice
+Dammsg       ~
+Minlevel     800
+End
+
+#SKILL
+Name         sneak~
+Type         Skill
+Info         0
+Flags        0
+Target       3
+Minpos       109
+Rounds       1
+Code         spell_acadia
+Dammsg       ~
+Hitvict      You attempt to move silently.~
+Misschar     You attempt to move silently.~
+Affect       'l*23' 26 'sneak' 15
+Minlevel     1
+End
+
+#SKILL
+Name         song lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Song Lore!~
+Minlevel     3
+End
+
+#SKILL
+Name         spinkick~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       spinkick~
+Wearoff      !spinkick!~
+Hitchar      You whirl in a circle and hit $N with a kick.~
+Misschar     Your spinkick misses $N.~
+Missvict     $n narrowly misses you with a spinkick.~
+Dice         l/2 { 30~
+Minlevel     800
+End
+
+#SKILL
+Name         spurn~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       spurn~
+Hitchar      You spurn $N with a blow!~
+Dice         l/2 { 35~
+Minlevel     800
+End
+
+#SKILL
+Name         standard style~
+Type         Skill
+Info         0
+Flags        0
+Rounds       3
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         steal~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Rounds       3
+Code         do_steal
+Dammsg       ~
+Minlevel     3
+End
+
+#SKILL
+Name         sting~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_null
+Dammsg       sting~
+Minlevel     800
+End
+
+#SKILL
+Name         stormshift~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Code         do_shapeshift
+Dammsg       ~
+Minlevel     20
+End
+
+#SKILL
+Name         strike~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       strike~
+Hitchar      You strike out at $N.~
+Dice         l/2 { 20~
+Minlevel     1
+End
+
+#SKILL
+Name         stun~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Rounds       3
+Code         do_stun
+Dammsg       stun~
+Wearoff      You regain consciousness.~
+Minlevel     800
+End
+
+#SKILL
+Name         swat~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       swat~
+Hitchar      You swat at $N.~
+Hitvict      $n swats at you with a hand.~
+Dice         l/2 { 15~
+Minlevel     800
+End
+
+#SKILL
+Name         swipe~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       swipe~
+Hitchar      You swipe at $N with your hand.~
+Hitvict      $n swipes at you with $s hand.~
+Dice         l/2 { 20~
+Minlevel     10
+End
+
+#SKILL
+Name         tachienpi~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_enpi
+Dammsg       Tachi: Enpi~
+Minlevel     10
+End
+
+#SKILL
+Name         tachigekko~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_gekko
+Dammsg       Tachi: Gekko~
+Minlevel     55
+End
+
+#SKILL
+Name         tachihaboku~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_haboku
+Dammsg       Tachi: Haboku~
+Minlevel     100
+End
+
+#SKILL
+Name         tachijinpu~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_jinpu
+Dammsg       Tachi: Jinpu~
+Minlevel     30
+End
+
+#SKILL
+Name         tachikagero~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_kagero
+Dammsg       Tachi: Kagero~
+Wearoff      !Tachikagero!~
+Minlevel     200
+End
+
+#SKILL
+Name         tachikashi~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_kashi
+Dammsg       Tachi: Kashi~
+Minlevel     80
+End
+
+#SKILL
+Name         tachikoki~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       105
+Code         do_tachi_koki
+Dammsg       Tachi: Koki~
+Minlevel     100
+End
+
+#SKILL
+Name         tail~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       109
+Slot         95
+Mana         95
+Rounds       3
+Code         do_tail
+Dammsg       tail~
+Wearoff      !Tail!~
+Minlevel     3
+End
+
+#SKILL
+Name         tend~
+Type         Skill
+Info         0
+Flags        0
+Target       2
+Minpos       108
+Mana         60
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Hitchar      You kneel down and tend to $N's wounds.~
+Hitvict      Your wounds are soothed and lessened.~
+Components   V@65~
+Affect       '' 13 'l*2' -1
+Minlevel     800
+End
+
+#SKILL
+Name         third attack~
+Type         Skill
+Info         0
+Flags        0
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Minlevel     20
+End
+
+#SKILL
+Name         throw~
+Type         Skill
+Info         0
+Flags        0
+Code         do_throw
+Dammsg       throw~
+Minlevel     75
+End
+
+#SKILL
+Name         track~
+Type         Skill
+Info         0
+Flags        0
+Minpos       112
+Rounds       5
+Code         do_track
+Dammsg       ~
+Minlevel     10
+End
+
+#SKILL
+Name         trance~
+Type         Skill
+Info         0
+Flags        530432
+Target       3
+Minpos       106
+Rounds       5
+Code         spell_acadia
+Dammsg       ~
+Hitvict      You enter a peaceful trance, collecting mana from the cosmos.~
+Missvict     You spend several minutes in a deep trance, but fail to collect any mana.~
+Affect       '' 12 '50' -1
+Affect       '50' 13 '-50' -1
+Minlevel     100
+End
+
+#SKILL
+Name         tumble~
+Type         Skill
+Info         0
+Flags        0
+Target       2
+Minpos       109
+Code         spell_null
+Dammsg       ~
+Wearoff      !Tumble!~
+Minlevel     800
+End
+
+#SKILL
+Name         uppercut~
+Type         Skill
+Info         8584
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       uppercut~
+Hitchar      You launch your fist upwards, hitting $N.~
+Dice         l/2 { 30~
+Minlevel     800
+End
+
+#SKILL
+Name         vault~
+Type         Skill
+Info         9096
+Flags        6144
+Target       1
+Minpos       109
+Rounds       3
+Code         spell_acadia
+Dammsg       vault~
+Hitchar      You vault into $N!~
+Hitvict      $n vaults into you!~
+Dice         l/2 { 40~
+Minlevel     25
+End
+
+#SKILL
+Name         vomica pravus~
+Type         Skill
+Info         0
+Flags        0
+Target       1
+Minpos       106
+Mana         15
+Rounds       3
+Code         spell_acadia
+Dammsg       ~
+Hitchar      $N convulses as you spread your curse through $S body...~
+Hitvict      You convulse as $n spreads a silent curse through your body.~
+Hitroom      $N convulses as $n inflicts a silent curse...~
+Misschar     There seems to be no effect...~
+Missvict     $n extends a clawed hand toward you...~
+Missroom     $n extends a clawed hand toward $N...~
+Affect       '12' 26 'curse' 10
+Affect       '12' 18 '-(l/8)' -1
+Affect       '12' 19 '-(l/8)' -1
+Affect       '12' 24 'l/18' -1
+Affect       '12' 31 '-1' -1
+Minlevel     13
+End
+
+#SKILL
+Name         weapon lore~
+Type         Skill
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Weapon Lore!~
+Minlevel     4
+End
+
+#SKILL
+Name         archery~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Archery!~
+Minlevel     1
+End
+
+#SKILL
+Name         axes~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Axes!~
+Minlevel     1
+End
+
+#SKILL
+Name         blowguns~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Blowguns!~
+Minlevel     1
+End
+
+#SKILL
+Name         daggers~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Daggers!~
+Minlevel     1
+End
+
+#SKILL
+Name         energy weapons~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Energy Weapons!~
+Minlevel     1
+End
+
+#SKILL
+Name         katana~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Katana!~
+Minlevel     1
+End
+
+#SKILL
+Name         maces and hammers~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Maces!~
+Minlevel     1
+End
+
+#SKILL
+Name         slings~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Slings!~
+Minlevel     1
+End
+
+#SKILL
+Name         spears~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Spears!~
+Minlevel     1
+End
+
+#SKILL
+Name         staves~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Staves!~
+Minlevel     1
+End
+
+#SKILL
+Name         swords~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Swords!~
+Minlevel     1
+End
+
+#SKILL
+Name         whips~
+Type         Weapon
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Wearoff      !Whips!~
+Minlevel     1
+End
+
+#SKILL
+Name         fire threnody~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         35
+Rounds       5
+Code         spell_fire_threnody
+Dammsg       ~
+Wearoff      Your shield of fire dissapates.~
+Minlevel     10
+End
+
+#SKILL
+Name         ice threnody~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         35
+Rounds       5
+Code         spell_ice_threnody
+Dammsg       ~
+Wearoff      Your shield of ice dissapates.~
+Minlevel     10
+End
+
+#SKILL
+Name         knights minne~
+Type         Song
+Info         0
+Flags        0
+Target       2
+Minpos       112
+Mana         15
+Rounds       5
+Code         spell_kn_minne
+Dammsg       ~
+Wearoff      Your minne effect wears off.~
+Minlevel     4
+End
+
+#SKILL
+Name         knights minne ii~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         15
+Rounds       5
+Code         spell_kn_minne2
+Dammsg       ~
+Wearoff      Your minne effect wears off.~
+Minlevel     10
+End
+
+#SKILL
+Name         knights minne iii~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         15
+Rounds       5
+Code         spell_kn_minne3
+Dammsg       ~
+Wearoff      Your minne effect wears off.~
+Minlevel     10
+End
+
+#SKILL
+Name         knights minne iv~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         15
+Rounds       5
+Code         spell_kn_minne4
+Dammsg       ~
+Wearoff      Your minne effect wears off.~
+Minlevel     10
+End
+
+#SKILL
+Name         optical etude~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         30
+Rounds       5
+Code         spell_optic_etude
+Dammsg       ~
+Wearoff      Your vision becomes more cloudy.~
+Minlevel     7
+End
+
+#SKILL
+Name         shock threnody~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         35
+Rounds       5
+Code         spell_shock_threnody
+Dammsg       ~
+Wearoff      Your shield of lightning dissapates.~
+Minlevel     10
+End
+
+#SKILL
+Name         valor minuet~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         25
+Rounds       5
+Code         spell_val_minuet
+Dammsg       ~
+Wearoff      Your minuet effect wears off.~
+Minlevel     10
+End
+
+#SKILL
+Name         valor minuet ii~
+Type         Song
+Info         0
+Flags        0
+Minpos       112
+Mana         25
+Rounds       5
+Code         spell_val_minuet2
+Dammsg       ~
+Wearoff      Your minuet effect wears off.~
+Minlevel     10
+End
+
+#SKILL
+Name         common~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         dwarven~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         elvish~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         gith~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         goblin~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         halfling~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         ogre~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         orcish~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         pixie~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#SKILL
+Name         trollese~
+Type         Tongue
+Info         0
+Flags        0
+Code         spell_null
+Dammsg       ~
+Minlevel     1
+End
+
+#END

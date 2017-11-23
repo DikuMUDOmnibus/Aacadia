@@ -1,0 +1,41 @@
+/************************************************************************/
+
+/*        Acadia code team (C) 2002-2005 Kara Enterprises               */
+/************************************************************************/
+
+
+=== Copyright and License Terms
+
+Diku Mud is copyright (C) 1990, 1991 by Sebastian Hammer, Michael Seifert,
+Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.  Their license agreement
+is in the file 'license.diku'.
+
+Merc Diku Mud is a derivative of the original Diku Mud.  Merc Diku Mud contains
+substantial enhancements to Diku Mud.  These enhancements are copyright 1992,
+1993 by Michael Chastain, Michael Quan, and Mitchell Tse.  Their license
+agreement is in the file 'license.merc'.
+
+SMAUG is a derivative of the version 2.1 distribution of Merc Diku Mud.
+SMAUG contains substantial enhancements to Merc Diku Mud, including some
+features of the original Diku Mud that were removed by the Merc team.
+ ****************************************************************************
+ * [S]imulated [M]edieval [A]dventure multi[U]ser [G]ame      |   \\._.//   *
+ * -----------------------------------------------------------|   (0...0)   *
+ * SMAUG 1.4 (C) 1994, 1995, 1996, 1997, 1998 by Derek Snider |    ).:.(    *
+ * -----------------------------------------------------------|    {o o}    *
+ * SMAUG code team: Thoric, Altrag, Blodkai, Narn, Haus,      |   / ' ' \   *
+ * Scryn, Rennard, Swordbearer, Gorog, Grishnakh, Nivek,      |~'~.VxvxV.~'~*
+ * Tricops and Fireblade                                      |             *
+ * ------------------------------------------------------------------------ *
+Their license agreement is in the file 'license.smaug'.
+
+Acadia is a derivative of the version 1.4a distribution of the SMAUG MUD.
+Acadia contains enhancements upon and new features to SMAUG.
+The Acadia code team: 
+Nicole, Shinobi, Evii, Proteus, Kinson, SwiftSword, Kianen, Janus, Zha and Skyrazor.
+
+        -- No resale or operation for profit.
+        -- Original author's names must appear in login sequence.
+        -- The 'credits' command must report original authors.
+        -- Copyrights must remain in original source.
+        -- 'Help acadia' must report our help text, as shipped.

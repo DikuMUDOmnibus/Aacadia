@@ -1,0 +1,67 @@
+Name        Kitsune~
+Race        6
+Evolve      18
+Classes     65535
+Str_Plus    1
+Dex_Plus    -2
+Wis_Plus    -1
+Int_Plus    2
+Con_Plus    1
+Cha_Plus    -2
+Lck_Plus    0
+Hit         5
+Mana        20
+Affected    512
+Resist      1048591
+Suscept     288
+Language    0
+Align       -500
+Min_Align  -1000
+Max_Align	750
+AC_Plus    20
+Exp_Mult   80
+Exp_tnl    990
+Attacks    0
+Defenses   0
+Height     70
+Weight     120
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -8560
+HP_Regen    2100
+Race_Recall 0
+Cweight    0
+WhereName  <used as light>     ~
+WhereName  <worn on finger>    ~
+WhereName  <worn on finger>    ~
+WhereName  <worn around neck>  ~
+WhereName  <worn around neck>  ~
+WhereName  <worn on body>      ~
+WhereName  <worn on head>      ~
+WhereName  <worn on legs>      ~
+WhereName  <worn on feet>      ~
+WhereName  <worn on hands>     ~
+WhereName  <worn on arms>      ~
+WhereName  <worn as shield>    ~
+WhereName  <worn about body>   ~
+WhereName  <worn about waist>  ~
+WhereName  <worn around wrist> ~
+WhereName  <worn around wrist> ~
+WhereName  <wielded>           ~
+WhereName  <held>              ~
+WhereName  <dual wielded>      ~
+WhereName  <worn on ears>      ~
+WhereName  <worn on eyes>      ~
+WhereName  <missile wielded>   ~
+WhereName  <worn on back>  ~
+WhereName  <worn over face>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  ‚˜~
+WhereName  &B<&clodged in rib&B>     ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  Not set.~
+End

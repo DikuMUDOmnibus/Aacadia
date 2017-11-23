@@ -1,0 +1,6 @@
+Name		   Note System~
+Owner		   None~
+Status		   No update.~
+Date		   Sun Jul 14 12:33:38 2002~
+Description         ~
+End

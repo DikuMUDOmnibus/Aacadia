@@ -1,0 +1,47 @@
+Morph           	dracoliche
+Vnum              1000
+Description     	A dragon skeleton.
+~
+Keywords        	dracoliche~
+Mamfin            appears in a shimmer of light.~
+Mamfout           shimmers and fades from view.~
+MorphOther      	$n poses in a guarding position as $e shimmers darkly.~
+MorphSelf       	You shimmer darkly and transform into a dracoliche.~
+ShortDesc       	An ancient dracoliche~
+UnmorphOther    	$n stops shimmering.~
+UnmorphSelf     	You return to your own form.~
+Class           	Sorcerer~
+Race        	Drow Ghoul~
+Used       	6
+Sex		1
+Armor        	-1000
+Height		154
+Level        	100
+Weight		215
+End
+
+Morph           	snow
+Vnum              1001
+Description     	A beautiful snow owl.
+~
+Help            	This is a snow owl form.
+~
+Keywords        	snow owl~
+Mamfin            appears in a shimmer of light.~
+Mamfout           shimmers and fades from view.~
+MorphOther      	$n floats up and slowly shimmers into a new form.~
+MorphSelf       	You jump and shift to that of a snow owl.~
+ShortDesc       	A snow owl~
+UnmorphOther    	$n stops shimmering.~
+UnmorphSelf     	You return to your true form.~
+Affected        	524288
+Class           	Jedika~
+Race        	Uvwyrn~
+Used       	5
+Sex		1
+Height		14
+Level        	100
+Weight		11
+End
+
+#END

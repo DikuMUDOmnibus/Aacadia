@@ -1,0 +1,67 @@
+Name        Kzinti~
+Race        12
+Evolve      6
+Classes     16
+Str_Plus    2
+Dex_Plus    3
+Wis_Plus    -3
+Int_Plus    1
+Con_Plus    1
+Cha_Plus    -1
+Lck_Plus    -2
+Hit         7
+Mana        15
+Affected    98816
+Resist      2
+Suscept     384
+Language    2
+Align       -600
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    -30
+Exp_Mult   108
+Exp_tnl    990
+Attacks    0
+Defenses   0
+Height     72
+Weight     250
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -21416
+HP_Regen    2104
+Race_Recall 0
+Cweight    0
+WhereName  <used as light>     ~
+WhereName  <worn on finger>    ~
+WhereName  <worn on finger>    ~
+WhereName  <worn around neck>  ~
+WhereName  <worn around neck>  ~
+WhereName  <worn on body>      ~
+WhereName  <worn on head>      ~
+WhereName  <worn on legs>      ~
+WhereName  <worn on feet>      ~
+WhereName  <worn on hands>     ~
+WhereName  <worn on arms>      ~
+WhereName  <worn as shield>    ~
+WhereName  <worn about body>   ~
+WhereName  <worn about waist>  ~
+WhereName  <worn around wrist> ~
+WhereName  <worn around wrist> ~
+WhereName  <wielded>           ~
+WhereName  <held>              ~
+WhereName  <dual wielded>      ~
+WhereName  <worn on ears>      ~
+WhereName  <worn on eyes>      ~
+WhereName  <missile wielded>   ~
+WhereName  <worn on back>  ~
+WhereName  <worn over face>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  (null)~
+WhereName  &B<&clodged in rib&B>     ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  Not set.~
+End

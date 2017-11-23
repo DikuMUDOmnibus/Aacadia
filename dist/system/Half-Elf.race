@@ -1,0 +1,67 @@
+Name        Half-Elf~
+Race        9
+Evolve      1
+Classes     16
+Str_Plus    -1
+Dex_Plus    1
+Wis_Plus    0
+Int_Plus    1
+Con_Plus    -1
+Cha_Plus    1
+Lck_Plus    -1
+Hit         3
+Mana        3
+Affected    512
+Resist      2
+Suscept     0
+Language    2
+Align       0
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    0
+Exp_Mult   104
+Exp_tnl    1250
+Attacks    0
+Defenses   0
+Height     66
+Weight     150
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -2976
+HP_Regen    2100
+Race_Recall 0
+Cweight    0
+WhereName  &B<&cused as light&B>     ~
+WhereName  &B<&cworn on finger&B>    ~
+WhereName  &B<&cworn on finger&B>    ~
+WhereName  &B<&cworn around neck&B>  ~
+WhereName  &B<&cworn around neck&B>  ~
+WhereName  &B<&cworn on body&B>      ~
+WhereName  &B<&cworn on head&B>      ~
+WhereName  &B<&cworn on legs&B>      ~
+WhereName  &B<&cworn on feet&B>      ~
+WhereName  &B<&cworn on hands&B>     ~
+WhereName  &B<&cworn on arms&B>      ~
+WhereName  &B<&cworn as shield&B>    ~
+WhereName  &B<&cworn about body&B>   ~
+WhereName  &B<&cworn about waist&B>  ~
+WhereName  &B<&cworn around wrist&B> ~
+WhereName  &B<&cworn around wrist&B> ~
+WhereName  &B<&cwielded&B>           ~
+WhereName  &B<&cheld&B>              ~
+WhereName  &B<&cdual wielded&B>      ~
+WhereName  &B<&cworn on ears&B>      ~
+WhereName  &B<&cworn on eyes&B>      ~
+WhereName  &B<&cmissile wielded&B>   ~
+WhereName  &B<&cworn on back&B>      ~
+WhereName  &B<&cworn over face&B>    ~
+WhereName  &B<&cworn around ankle&B> ~
+WhereName  &B<&cworn around ankle&B> ~
+WhereName  &B<&cfloating nearby&B>   ~
+WhereName  &B<&cinsignia&B>          ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  (null)~
+WhereName  &B<&clodged in rib&B>     ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  Not set.~
+End

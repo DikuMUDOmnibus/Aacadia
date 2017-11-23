@@ -1,0 +1,88 @@
+#SYSTEM
+LastCommand    say~
+MudName	     Kara's Storm~
+Highplayers    55
+Highplayertime Sun May  9 16:28:16 2004~
+CheckImmHost   1
+Nameresolving  1
+Waitforauth    0
+Readallmail    920
+Readmailfree   800
+Writemailfree  800
+Takeothersmail 920
+IMCMailVnum    0
+Muse           920
+Think          940
+MaxHP          1000000
+MaxMove          1000000
+MaxMana          1000000
+MaxPrac          10000
+Imp          0
+Exp1         3
+Exp2         4
+Exp3         4
+Exp4         6
+Exp5         6
+Exp6         6
+Exp7         6
+Exp8         10
+Exp9         12
+Impmsg          ~
+Dsq          0
+Kaura        0
+Bsql          12
+Dmud         0
+Debug        0
+Manualb          0
+Warmboot          1
+Salltime Thu May  5 16:48:32 2005
+~
+Cver          11
+TransLock          0
+FightLock          0
+SpellLock          0
+PKillLock          1
+MaxGlory          10000
+Build          970
+Log            970
+Protoflag      920
+Overridepriv   970
+MsetAuto     1
+Msetplayer     960
+Stunplrvsplr   0
+Stunregular    15
+Gougepvp       0
+Gougenontank   0
+Bashpvp        0
+Bashnontank    0
+Dodgemod       8
+Parrymod       8
+Tumblemod      8
+Damplrvsplr    100
+Damplrvsmob    100
+Dammobvsplr    100
+Dammobvsmob    100
+Forcepc        980
+Guildoverseer  ~
+Guildadvisor   ~
+Saveflags      69117
+Savefreq       10
+Bestowdif      40
+BanSiteLevel   850
+BanRaceLevel   970
+BanClassLevel  970
+MorphOpt       0
+PetSave	     1
+IdentTries     0
+ImmuneIdle     300
+Pkloot	     0
+Newbie_purge	7
+Regular_purge	120
+Autopurge		1
+Rent		0
+Profanity         0
+Rname		SwiftSword~
+Showhitgains  0
+End
+
+#END

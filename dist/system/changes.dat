@@ -1,0 +1,1576 @@
+315
+Added changes~
+Nicole~
+04/11/02~
+1018521629
+
+Fixed connect to allow jigsaw items~
+Nicole~
+04/11/02~
+1018523808
+
+Added a Admin function~
+Nicole~
+04/11/02~
+1018530671
+
+Added land command~
+Nicole~
+04/11/02~
+1018531009
+
+Added assassinate skill to thieves~
+Nicole~
+04/11/02~
+1018531987
+
+Mort command for Immortals~
+Nicole~
+04/11/02~
+1018555316
+
+Changed recall slightly.~
+Nicole~
+04/11/02~
+1018557352
+
+New Affected command~
+Nicole~
+04/12/02~
+1018602846
+
+Made a command to call old affect list if so desired.~
+Nicole~
+04/12/02~
+1018603400
+
+Added ablution, help file comming soon...~
+Nicole~
+04/12/02~
+1018653592
+
+Added spell. Named jir. Hero affects spell~
+Nicole~
+04/13/02~
+1018692800
+
+Added spell. Named jur. Hero macro spell~
+Nicole~
+04/13/02~
+1018699424
+
+Reimped mud-aliases. See help alias.~
+Nicole~
+04/14/02~
+1018823292
+
+Rewritten the restore command.~
+Nicole~
+04/15/02~
+1018884721
+
+Did v0.1 of my new cset function.~
+Nicole~
+04/16/02~
+1018990805
+
+Did v0.2 of my new cset function.~
+Nicole~
+04/17/02~
+1019056353
+
+Added a level info echo.~
+Nicole~
+04/17/02~
+1019056386
+
+Made an advanced immortalize command~
+Nicole~
+04/17/02~
+1019056408
+
+Added autotitle config option.~
+Nicole~
+04/17/02~
+1019067404
+
+Planes are in as well as a command to traverse them. See help terrashift.~
+Nicole~
+04/18/02~
+1019160843
+
+Added aexit command for Acolytes.~
+Nicole~
+04/19/02~
+1019242907
+
+Added a vnum display for Acolytes and up to the look. Also made colors a little softer (hopefully).~
+Nicole~
+04/19/02~
+1019245128
+
+Made a change to sall command~
+Nicole~
+04/23/02~
+1019581213
+
+Added the dice command for random number generation~
+Nicole~
+04/23/02~
+1019581354
+
+Added dual class system for Avatar level and up chars.~
+Nicole~
+04/25/02~
+1019718520
+
+Fixed who to display tier rank if char above level 99~
+Nicole~
+04/25/02~
+1019718569
+
+Fixed group display abit~
+Nicole~
+04/25/02~
+1019718582
+
+Yet another who change.~
+Nicole~
+04/25/02~
+1019728410
+
+Finalized the group display.~
+Nicole~
+04/25/02~
+1019731596
+
+Changed sacrifice.~
+Nicole~
+04/25/02~
+1019780207
+
+Changed identify to display weapon type.~
+Nicole~
+04/25/02~
+1019780227
+
+Added a newpass command for immortals to help players.~
+Nicole~
+04/25/02~
+1019780431
+
+Updated exits command.~
+Nicole~
+04/25/02~
+1019784408
+
+Added 2 value assumpts for drink containers. See help itemvalues.~
+Nicole~
+04/26/02~
+1019806429
+
+Added dualclass display in whois and group.~
+Nicole~
+04/28/02~
+1020007703
+
+Redid who display.~
+Nicole~
+04/28/02~
+1020007718
+
+Fixed the config command so it doesn't crash the mud.~
+Nicole~
+04/29/02~
+1020077735
+
+Added a plane display on look for Hero and above.~
+Nicole~
+04/29/02~
+1020078155
+
+Changed recall. See help recall.~
+Nicole~
+04/29/02~
+1020078177
+
+Added beep.~
+Nicole~
+04/30/02~
+1020141237
+
+Added object type ghost and wear loc float.~
+Nicole~
+05/01/02~
+1020249261
+
+Changed the eq condition to a percentage.~
+Nicole~
+05/02/02~
+1020331275
+
+Added eq slots showing on equipment list~
+Nicole~
+05/02/02~
+1020346852
+
+Added a meeting snip.~
+Nicole~
+05/02/02~
+1020381257
+
+Took out immortal idle time-outs~
+Nicole~
+05/02/02~
+1020387191
+
+Fixed a few bugs hopefully.~
+Nicole~
+05/04/02~
+1020497859
+
+Got clans working.~
+Nicole~
+05/06/02~
+1020673403
+
+Made pretitle available to all authed chars, and you'll see your pretitle on most chans.~
+Nicole~
+05/06/02~
+1020688884
+
+Added a longname for clans so clan name is only a 'badge'~
+Nicole~
+05/07/02~
+1020757754
+
+Removed mentalstate.~
+Nicole~
+05/07/02~
+1020757773
+
+Fixed up char creation so it equips, sets up start cond for pretitle and sets recall and default.~
+Nicole~
+05/07/02~
+1020757986
+
+Added a finger, email, icq commands for mortals and a immortal contact thingy.~
+Nicole~
+05/08/02~
+1020831834
+
+Took out neutral sex.~
+Nicole~
+05/10/02~
+1021003275
+
+Added fountain value assignments~
+Nicole~
+05/10/02~
+1021003295
+
+Added IC channel. For In Character rules, please read help ic~
+Nicole~
+05/11/02~
+1021146497
+
+Changed the info messages to be on a channel.~
+Nicole~
+05/11/02~
+1021146573
+
+Fixed the note system to save notes finally!~
+Nicole~
+05/13/02~
+1021299378
+
+Added a compass on look. Turn on via config~
+Nicole~
+05/13/02~
+1021310650
+
+Added a sayto command~
+Nicole~
+05/13/02~
+1021310728
+
+Added a flame channel.~
+Nicole~
+05/13/02~
+1021310857
+
+Added clset for clan leaders~
+Nicole~
+05/13/02~
+1021315708
+
+Added news for non coding info~
+Nicole~
+05/13/02~
+1021315722
+
+Added a formating option for the editor~
+Nicole~
+05/13/02~
+1021315755
+
+Added junk command~
+Nicole~
+05/14/02~
+1021405733
+
+Changed the affect tokens, see help affect.~
+Nicole~
+05/14/02~
+1021428593
+
+Fixed up look abit for compass and non-compass displays~
+Nicole~
+05/15/02~
+1021442870
+
+Changed eq flag tokens, see help eq_affect.~
+Nicole~
+05/15/02~
+1021464144
+
+Changed channel displays to be more like IC and Flame~
+Nicole~
+05/16/02~
+1021594740
+
+Added holysight spell.~
+Nicole~
+05/17/02~
+1021648222
+
+Added class Werewolf~
+Nicole~
+05/17/02~
+1021680016
+
+Fixed murder to stop on non-pk players~
+Nicole~
+05/17/02~
+1021680030
+
+Added slearn command.~
+Nicole~
+05/17/02~
+1021680041
+
+Took out mana reqs for immortals~
+Nicole~
+05/18/02~
+1021720519
+
+Added tap command.~
+Nicole~
+05/18/02~
+1021723711
+
+Changed currency denomination from gold to Katyr~
+Nicole~
+05/19/02~
+1021783414
+
+Fixed deposit and withdraw to allow 'all' as amount arg~
+Nicole~
+05/19/02~
+1021784035
+
+Changed bamfin and bamfout so it doesn't require your name~
+Nicole~
+05/19/02~
+1021848161
+
+Fixed iwhere.~
+Nicole~
+05/19/02~
+1021850704
+
+Added steel skin~
+Nicole~
+05/20/02~
+1021940582
+
+Added marry and home commands~
+Nicole~
+05/20/02~
+1021940591
+
+Added a few helps and socials imm level commands~
+Nicole~
+05/22/02~
+1022113599
+
+Fixed holysight slightly~
+Nicole~
+05/23/02~
+1022187800
+
+Fixed score format for clan data~
+Nicole~
+05/23/02~
+1022187816
+
+Fixed last command~
+Nicole~
+05/23/02~
+1022187824
+
+Added Hero, Neophtye, and Acolyte channels~
+Nicole~
+05/25/02~
+1022304056
+
+Did a fixup on the shortscore option~
+Nicole~
+05/27/02~
+1022473494
+
+Fixed group display and peek line~
+Nicole~
+05/28/02~
+1022568486
+
+Added a CoE only command that allows certain clan info not to be displayed~
+Nicole~
+06/07/02~
+1023422701
+
+Changed time command display~
+Nicole~
+06/07/02~
+1023422734
+
+Fixed the note sent to all info message~
+Nicole~
+06/07/02~
+1023458666
+
+Added an automated quest system, questmaster at recall.~
+Nicole~
+06/08/02~
+1023545193
+
+Added a config condition option to toggle item condition~
+Nicole~
+06/09/02~
+1023623114
+
+Did some minor enhancements~
+Nicole~
+06/09/02~
+1023623132
+
+Added affect config options for affected command~
+Nicole~
+06/09/02~
+1023626024
+
+Added a midscore option~
+Nicole~
+06/10/02~
+1023702427
+
+Fixed max mortal level gaining~
+Nicole~
+06/10/02~
+1023745734
+
+Added a config option to toggle a position display for pc's~
+Nicole~
+06/10/02~
+1023755094
+
+Changed the way the system records when the mud was saved~
+Nicole~
+06/11/02~
+1023790587
+
+Added a build version numbers when compiled. (note that version numbers will not change until the next codebase release)~
+Nicole~
+06/11/02~
+1023790639
+
+Added condition to inventory, same toggle as equipment condition~
+Nicole~
+06/12/02~
+1023886302
+
+Fixed version and build identities~
+Nicole~
+06/13/02~
+1023944433
+
+Changed class selection on creation~
+Nicole~
+06/13/02~
+1023944497
+
+Redid olist and mlist~
+Nicole~
+06/13/02~
+1023964178
+
+Added a freevnum checker~
+Nicole~
+06/13/02~
+1023964207
+
+Added a way to permanently set weapon and armor levels on resets via value 5~
+Nicole~
+06/13/02~
+1023964262
+
+Aliases are back in, please try to follow the guidelines in the help~
+Nicole~
+06/14/02~
+1024056443
+
+Added values 6 and 7 on objects for future use~
+Nicole~
+06/15/02~
+1024115133
+
+Fixed the reset level so it uses value 7~
+Nicole~
+06/15/02~
+1024118241
+
+Made a Holyaura spell and made value 6 apply it.~
+Nicole~
+06/15/02~
+1024145039
+
+Fixed skill/spell exp gain.~
+Nicole~
+06/17/02~
+1024314278
+
+Made some cosmetic changes to areas command for mortals, zones and vnums for imms~
+Nicole~
+06/18/02~
+1024382978
+
+Added pscore command for Acolyte and higher players.~
+Nicole~
+06/18/02~
+1024387687
+
+Fixed a bug in pscore~
+Nicole~
+06/18/02~
+1024418277
+
+Fixed a bug in restore~
+Nicole~
+06/18/02~
+1024435241
+
+Fixed bug in spell jir~
+Nicole~
+06/19/02~
+1024512372
+
+Added a vnum display for sex bug~
+Nicole~
+06/19/02~
+1024512390
+
+Added deaf command.~
+Nicole~
+06/19/02~
+1024534027
+
+Added a fight lock~
+Nicole~
+06/20/02~
+1024583590
+
+Losened the fight chances abit~
+Nicole~
+06/20/02~
+1024583608
+
+Changed imm level system~
+Nicole~
+06/20/02~
+1024613694
+
+Tightied up fight code a bit more~
+Nicole~
+06/20/02~
+1024613713
+
+Took out alias code again, sorry all. Looks like it will be out for the long haul.~
+Nicole~
+06/21/02~
+1024688659
+
+Fixed a minor bug in the code.~
+Nicole~
+06/21/02~
+1024688684
+
+Added abjucate command for Angels~
+Nicole~
+06/22/02~
+1024755574
+
+Added a pquit command~
+Nicole~
+06/22/02~
+1024802939
+
+Redid eq flags shown full instead what is said in help eq_affect~
+Nicole~
+06/24/02~
+1024966253
+
+Added ofha to help maintain number of holyaura items~
+Nicole~
+06/24/02~
+1024973553
+
+Fixed the layout of the slearn command~
+Nicole~
+06/25/02~
+1025031145
+
+Added an affstrip command for immortals to strip mortals if neccessary~
+Nicole~
+06/26/02~
+1025105839
+
+Added a simple eq registry system, see a builder or up to register~
+Nicole~
+06/26/02~
+1025121202
+
+Added sith fury~
+Nicole~
+06/29/02~
+1025326662
+
+Changed who to also show record number on at one time~
+Nicole~
+06/29/02~
+1025326692
+
+Teirs are in, as well as some other minor changes~
+Nicole~
+06/30/02~
+1025487663
+
+Fixed a few bugs, such as a missing check in tier and a level check in pscore~
+Nicole~
+07/02/02~
+1025635030
+
+Added a new finger option for Imms~
+Nicole~
+07/02/02~
+1025663861
+
+Added a warmboot feature~
+Nicole~
+07/04/02~
+1025766026
+
+Fixed Auto Reboot feature~
+Nicole~
+07/04/02~
+1025766045
+
+Fixed recall bug and also made it so recall cannot be reset or set on planes other than Terra~
+Nicole~
+07/06/02~
+1025949752
+
+Fixed up area and where commands~
+Nicole~
+07/08/02~
+1026178687
+
+Added ascend for angels and did some cosmetic fixes.~
+Nicole~
+07/09/02~
+1026268675
+
+Fixed pscore again~
+Nicole~
+07/12/02~
+1026529393
+
+Added jedi skill~
+Nicole~
+07/15/02~
+1026730121
+
+Fixed some bugs~
+Nicole~
+07/17/02~
+1026898723
+
+Warm boot back in~
+Nicole~
+08/04/02~
+1028506702
+
+Added a you are mounted on line in score~
+Nicole~
+08/04/02~
+1028517073
+
+Added blocker mob act flag, that will prevent one from leaving a room if on a mob in that room~
+Nicole~
+08/04/02~
+1028519079
+
+Changed the format for look.~
+Nicole~
+08/11/02~
+1029054732
+
+Added in a little thing to save last command in case of crash~
+Nicole~
+08/11/02~
+1029054766
+
+Alias code upgraded~
+Nicole~
+08/11/02~
+1029054779
+
+Changed the auth system abit.~
+Nicole~
+08/11/02~
+1029119739
+
+Added mudschool command~
+Nicole~
+08/12/02~
+1029129089
+
+Changed room flags to ext_bits and added noteleport and noportal flags~
+Nicole~
+08/12/02~
+1029150482
+
+Donation now saves the items donated~
+Nicole~
+08/12/02~
+1029183351
+
+Added sanctuary command~
+Nicole~
+08/13/02~
+1029218064
+
+Added a warm boot on/off toggle~
+Nicole~
+08/13/02~
+1029218113
+
+Did away with each item being shown on wear and remove, replaced with a one line less spam version.~
+Nicole~
+08/15/02~
+1029426326
+
+Added move hidden and improved invis~
+Nicole~
+08/16/02~
+1029537897
+
+Made a few other adjustments~
+Nicole~
+08/16/02~
+1029537913
+
+Added a bug report system simular to the changes system~
+Nicole~
+08/18/02~
+1029677293
+
+Practice changed to practice to your adept, also train cost for hp/mana/moves changed~
+Nicole~
+08/20/02~
+1029880936
+
+Changed bps to an actual blood variable~
+Nicole~
+08/21/02~
+1029910072
+
+Fixed hero + tier exp problem~
+Nicole~
+08/24/02~
+1030207749
+
+Sublevel assignment of skills/spells done.~
+Nicole~
+08/28/02~
+1030548418
+
+Classes updated to fit change~
+Nicole~
+08/28/02~
+1030548485
+
+hlist changed to helplist so hlist can now be for hero spells/skills.~
+Nicole~
+08/28/02~
+1030548524
+
+Exp bug at first hero level fixed~
+Nicole~
+08/28/02~
+1030590065
+
+Added motd command~
+Nicole~
+08/30/02~
+1030739762
+
+Changed how train works.~
+Nicole~
+08/30/02~
+1030742338
+
+Added idle command for imms~
+Nikore~
+09/01/02~
+1030902282
+
+Made idle active after 800 idle points~
+Nicole~
+09/02/02~
+1030995408
+
+Added noscrap obj flag~
+Nicole~
+09/02/02~
+1030995427
+
+Added object maker to objects, big bug fixed by Kinson~
+Nicole~
+09/02/02~
+1031004374
+
+Removed object maker field, will replace with something better.~
+Kinson~
+09/02/02~
+1031024711
+
+Fixed get_trust, so now can warmboot without problems~
+Kinson~
+09/02/02~
+1031024735
+
+Fixed 99% of the compile changes~
+Kinson~
+09/03/02~
+1031036843
+
+Fixed furniture settings.~
+Nicole~
+09/04/02~
+1031180680
+
+Added highest damage level~
+Nicole~
+09/06/02~
+1031369828
+
+Added regeneration spell~
+Nicole~
+09/07/02~
+1031421741
+
+Changed score abit~
+Nicole~
+09/07/02~
+1031421772
+
+Note System Fixed (warmboot)~
+Proteus~
+09/07/02~
+1031446736
+
+Fixed resets, in objects resets now work correctly~
+Kinson~
+09/10/02~
+1031652822
+
+Fixed resets, multiple instance bug~
+Kinson~
+09/11/02~
+1031733598
+
+Added pracset and gloryset commands~
+Nicole~
+09/14/02~
+1031977964
+
+Made some bugfixes in mset~
+Nicole~
+09/14/02~
+1031977980
+
+Fixed Imm Idle Disconnect~
+Kinson~
+09/25/02~
+1032971961
+
+Users now show actual IP address instead of Base-10 address~
+Kinson~
+09/25/02~
+1032971995
+
+Made login less spammy.~
+Nicole~
+10/02/02~
+1033599695
+
+Small score tweaking~
+Nicole~
+10/02/02~
+1033599713
+
+Added autos command~
+Nicole~
+10/03/02~
+1033675316
+
+Made wearing objects one at a time shows where you wore it, wear all still displays the compact version.~
+Nicole~
+10/14/02~
+1034623799
+
+Fixed death crash, getting items from corpse afterward is still iffy.~
+Nicole~
+10/14/02~
+1034648050
+
+Added avlist, nelist, and aclist. They are spell/skill list commands for the top three tiers.~
+Nicole~
+10/23/02~
+1035376644
+
+Added a rebuild command.~
+Nicole~
+10/23/02~
+1035376666
+
+Fixed parry and dodge.~
+Nicole~
+10/26/02~
+1035609059
+
+Added midscore and shortscore commands that quickly toggle score display modes.~
+Nicole~
+10/30/02~
+1035990417
+
+Switched the way score displays stats, base stats are before the parenths and modified is in the parenths.~
+Nicole~
+10/30/02~
+1035990592
+
+Fixed stats so that it affects a character right.~
+Nicole~
+10/30/02~
+1036007307
+
+Changed the way katyr will load on a mob. Money will not be as attainable as before~
+Nicole~
+10/31/02~
+1036101275
+
+Addes urna, the rename command for Neophytes and up.~
+Nicole~
+11/10/02~
+1036919067
+
+Evolve code is in!!!~
+Nicole~
+11/18/02~
+1037620782
+
+Meeting code fixed~
+Nicole~
+11/24/02~
+1038157728
+
+Fixed stats, also made it unneccessary to type new for a new char.~
+Nicole~
+11/26/02~
+1038314628
+
+Redid formats on practice list and train list~
+Nicole~
+12/01/02~
+1038801955
+
+Changed look for slist, nlist, avlist, nelist, and aclist~
+Nicole~
+12/02/02~
+1038868659
+
+Added sky argument to look.~
+Janus~
+12/10/02~
+1039550732
+
+Fixed several bugs.~
+Nicole~
+12/10/02~
+1039550755
+
+Redid board display.~
+Nicole~
+12/10/02~
+1039550771
+
+Added double exp.~
+Janus~
+12/10/02~
+1039570844
+
+Tiered exp system in, tweaking will be neccessary.~
+Nicole~
+12/13/02~
+1039817071
+
+Fixed some compile bugs~
+Nicole~
+12/23/02~
+1040651377
+
+Added the possibility for mobs to come back as spirits and attack you~
+Nicole~
+12/23/02~
+1040651416
+
+Added rpemote, a nameless emote~
+Nicole~
+12/23/02~
+1040651434
+
+Added an undertaker program to help with corpse retrieval~
+Nicole~
+12/23/02~
+1040651468
+
+Added a simular help file thing.~
+Nicole~
+12/23/02~
+1040690335
+
+Changed weapon proficiency, in the next few days all weapons will be fixed.~
+Nicole~
+12/23/02~
+1040690376
+
+Added improved archery, including lodging projectiles~
+Nicole~
+12/24/02~
+1040766211
+
+Altered terrashift so that you need an argument.~
+Nicole~
+12/26/02~
+1040879382
+
+Added home command that returns you to Terra shift point.~
+Nicole~
+12/26/02~
+1040879411
+
+Made old home command homebound. For marriage code.~
+Nicole~
+12/26/02~
+1040879447
+
+Increased the regen rates.~
+Nicole~
+12/26/02~
+1040880075
+
+Changed weapon damage settings to allow for future improvements~
+Nicole~
+12/26/02~
+1040882291
+
+Added sharpen skill~
+Nicole~
+12/26/02~
+1040889909
+
+Added nohome and noshift flags, soon some places will not be able to home or terrashift from~
+Nicole~
+12/26/02~
+1040962777
+
+Added a tfind command to find types of objects. Imm Only~
+Nicole~
+12/28/02~
+1041061501
+
+Fixed pc corpse extracting so after you get all from it, it will dissappear 1 tick after~
+Nicole~
+12/28/02~
+1041063132
+
+Added jir affect allowing all to cast jir. Old check prevented it if the target had pass door.~
+Nicole~
+12/31/02~
+1041352610
+
+Fixed spell damage.~
+Nicole~
+12/31/02~
+1041354656
+
+Fixed a gain_exp bug.~
+Nicole~
+12/31/02~
+1041355090
+
+Added purity spell, see help purity for further info.~
+Nicole~
+01/01/03~
+1041416189
+
+New enchant armor and enchant weapon spells added.~
+Nicole~
+01/02/03~
+1041551439
+
+Added equipment registration for crash and dt's~
+Nicole~
+01/02/03~
+1041553121
+
+Added meditation i through v~
+Nicole~
+01/03/03~
+1041652054
+
+Made jur into a code spell which now has its own aff position~
+Nicole~
+01/06/03~
+1041886645
+
+Fixed spells command~
+Nicole~
+01/07/03~
+1041990232
+
+Removed alot of wait states and sped up ticks abit~
+Nicole~
+01/08/03~
+1042055305
+
+Did some cosmetic and funtionality changes to scan~
+Nicole~
+01/12/03~
+1042396588
+
+Added skill longsight, right now, only one selectable at build class gets it.~
+Nicole~
+01/12/03~
+1042433748
+
+Redid slist, hlist, avlist, nelist, aclist argument controls, see help spell_lists~
+Nicole~
+01/13/03~
+1042518210
+
+Force choke is in~
+Nicole~
+01/15/03~
+1042622647
+
+Fixed some bugs~
+Nicole~
+01/15/03~
+1042628473
+
+Added lore, magic lore, armor lore, weapon lore, and force lore~
+Nicole~
+01/15/03~
+1042668297
+
+Added force heal spell for Jedi and redid assassinate for Thieves~
+Nicole~
+01/19/03~
+1043014100
+
+Added craft skill for Jedi~
+Nicole~
+01/19/03~
+1043016550
+
+Added weapon skill energy weapons for Jedi~
+Nicole~
+01/19/03~
+1043032791
+
+Changed the worth display.~
+Nicole~
+01/20/03~
+1043093039
+
+Added count command~
+Nicole~
+01/21/03~
+1043188149
+
+Made a new improved bounty system. To see who is bountied type bountylist~
+Nicole~
+02/25/03~
+1046227816
+
+Made a change to the prompt, see help prompt and promptclass.~
+Nicole~
+02/25/03~
+1046227849
+
+Added a skill that will be available upon the next class.~
+Nicole~
+02/25/03~
+1046228016
+
+Made a fhelp command for immortals to help mortals see certain helpfiles.~
+Nicole~
+02/25/03~
+1046228056
+
+Version brought to 2.0~
+Nicole~
+02/25/03~
+1046228462
+
+Added 4 spells for the new class comming soon.~
+Nicole~
+03/02/03~
+1046586959
+
+Added nosleep room flag and sleepdam area flag~
+Nicole~
+03/02/03~
+1046649145
+
+Added Taedien class code specifics~
+Nicole~
+03/03/03~
+1046705729
+
+Altered minvoke to allow for multiple mob loading~
+Nicole~
+03/09/03~
+1047198838
+
+Made invincibility affect type~
+Nicole~
+03/10/03~
+1047276613
+
+Added barkskin affect location~
+Nicole~
+03/10/03~
+1047278214
+
+Added alertness skill and aff location~
+Nicole~
+03/12/03~
+1047519089
+
+Changed movement to allow for future implementation of movein and moveout.~
+Nicole~
+03/12/03~
+1047519143
+
+Movein and moveout added, it will start with name.~
+Nicole~
+03/13/03~
+1047617747
+
+Made movein and moveout show their values when no argument is used if there is a value to them.~
+Nicole~
+03/14/03~
+1047646384
+
+Added avalanche, firestorm and sandstorm spells, these are all ranger cd area spells.~
+Nicole~
+03/15/03~
+1047705363
+
+Added meteor, sorcerer area attack spell cd.~
+Nicole~
+03/15/03~
+1047753168
+
+Changed fight messeging to a new order~
+Nicole~
+03/16/03~
+1047840994
+
+Made tier work so you have a chance to fail. Must be sublevel 500 to use tier.~
+Nicole~
+03/17/03~
+1047955131
+
+Fixed several minor bugs.~
+Nicole~
+03/21/03~
+1048273763
+
+Added in a new immhost.~
+Nicole~
+03/22/03~
+1048391475
+
+Fixed wear so you now can dual wield, or wear shield while holding something~
+Nicole~
+03/23/03~
+1048457641
+
+Changed help command to not allow numerical arguments due to crashing.~
+Nicole~
+04/07/03~
+1049751066
+
+Added imm spell called godspell.~
+Nicole~
+04/09/03~
+1049897531
+
+Another alteration to xp_compute was made~
+Nicole~
+04/09/03~
+1049914508
+
+Added spec_healer~
+Nicole~
+04/12/03~
+1050186644
+
+Added ironskin spell and halfexp mode.~
+Nicole~
+04/18/03~
+1050719197
+
+Added gratz channel, also changed gratz social to grtz.~
+Nicole~
+04/19/03~
+1050777672
+
+Added an impmsg system, which you might have seen already, the red line of text after the welcome line.~
+Nicole~
+04/21/03~
+1050907799
+
+Added sic command.~
+Nicole~
+04/25/03~
+1051289613
+
+Fixed last to prevent imm lasting by mortals~
+Nicole~
+04/26/03~
+1051383851
+
+Some minor bugs fixed.~
+Nicole~
+04/26/03~
+1051388446
+
+Added a maximum katyr carry limit of 99,999,999.~
+Nicole~
+04/28/03~
+1051585343
+
+Added monitor command, which will allow one to monitor someone in their group.~
+Nicole~
+04/30/03~
+1051733136
+
+Added plague and cure plague spells, be aware, plague can spread.~
+Nicole~
+04/30/03~
+1051756027
+
+New deity system is in. Please hold off while we get the deities set.~
+Nicole~
+05/02/03~
+1051856341
+
+Fixed corpse bug.~
+Nicole~
+05/05/03~
+1052174195
+
+Updated the train system.~
+Nicole~
+05/16/03~
+1053113693
+
+MySQL Connectivity brought in.~
+Nicole~
+05/20/03~
+1053485117
+
+Altered channels to show when deaf toggle on.~
+Nicole~
+05/21/03~
+1053497853
+
+bountylist bug fixed~
+Nicole~
+05/28/03~
+1054175161
+
+Added nopurge flags to both objects and mobs.~
+Nicole~
+06/01/03~
+1054512405
+
+Hopefully fixed a crash bug with cast~
+Nicole~
+06/01/03~
+1054512429
+
+Fixed the ammount of practices needed to adept a skill~
+Nicole~
+06/01/03~
+1054512452
+
+Clan fix~
+Nicole~
+06/08/03~
+1055067179
+
+Slight score fix, only visible to those in clans.~
+Nicole~
+06/08/03~
+1055069227
+
+Fixed feed.~
+Nicole~
+06/11/03~
+1055390085
+
+Shop katyr ammount fixed, shopkeepers should now have enough katyr.~
+Nicole~
+06/13/03~
+1055490785
+
+Updates last command.~
+Nicole~
+06/16/03~
+1055816730
+
+Fixed recall bug.~
+Nicole~
+06/29/03~
+1056915456
+
+Added crank command, help for it will be in shortly.~
+Nicole~
+07/07/03~
+1057636896
+
+Added ability to emote over channels.~
+Kianen~
+07/14/03~
+1058193096
+
+Fixed date problems within changes and bugs~
+Nicole~
+07/23/2003~
+1058978149
+
+Addes racial command~
+Nicole~
+07/23/2003~
+1059014420
+
+Changed aff command~
+Nicole~
+07/23/2003~
+1059014436
+
+Fixed mudschool level limit~
+Nicole~
+09/08/2003~
+1063045356
+
+Updated newbieset~
+Nicole~
+09/08/2003~
+1063045369
+
+Changed newpl to ack like fixed~
+Nicole~
+09/10/2003~
+1063230730
+
+Increased max aliases to 200~
+Nicole~
+09/12/2003~
+1063428227
+
+Fixed transfer.~
+Nicole~
+09/15/2003~
+1063677478
+
+Added safety command for Angels.~
+Nicole~
+09/19/2003~
+1063960137
+
+Made it so the race name shows with racetalk.~
+Nicole~
+09/20/2003~
+1064110890
+
+Fixed devote so that it doesn't need to reset stats~
+Nicole~
+09/27/2003~
+1064720739
+
+Fixed warmboot to turn fight lock off if it is on.~
+Nicole~
+09/27/2003~
+1064721213
+
+Bugs database now online!!!~
+Nicole~
+09/28/2003~
+1064788444
+
+Fixed a stat bug when attaining level 3~
+Nicole~
+09/29/2003~
+1064815733
+
+Finished deity system~
+Nicole~
+10/07/2003~
+1065505409
+
+Updated shop system to be more simple.~
+Nicole~
+10/09/2003~
+1065743177
+
+Fixed socials to allow one to social others in same area not just in same room after level 30.~
+Nicole~
+10/09/2003~
+1065743272
+

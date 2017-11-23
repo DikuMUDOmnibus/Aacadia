@@ -1,0 +1,3137 @@
+Name        Ranger~
+Class       8
+AttrPrime   3
+AttrSecond   4
+AttrDeficient   0
+Weapon      10360
+Guild       0
+Skilladept  95
+Thac0       18
+Thac32      9
+Hpmin       4
+Hpmax       6
+Hpcost       3
+Manacost       3
+Movecost       2
+Mana        0
+CharC       1
+Expbase     0
+Exptnl     1050
+Affected    65536
+Resist	 1057026
+Suscept	 0
+Cweight     999
+Skill 'ablution' 100 1 95
+Skill 'armor' 34 0 95
+Skill 'avalanche' 80 0 95
+Skill 'barkskin' 45 0 95
+Skill 'battle plan' 35 0 95
+Skill 'biofeedback' 14 0 95
+Skill 'bless' 24 0 95
+Skill 'calcify flesh' 35 0 95
+Skill 'creeping doom' 85 0 95
+Skill 'dangle' 100 13 95
+Skill 'detect evil' 3 0 95
+Skill 'detect hidden' 30 0 95
+Skill 'detect invis' 30 0 95
+Skill 'detect magic' 30 0 95
+Skill 'detect traps' 3 0 95
+Skill 'enchant armor' 100 70 95
+Skill 'enchant weapon' 100 70 95
+Skill 'firestorm' 100 30 95
+Skill 'flamestrike' 100 1 95
+Skill 'fly' 10 0 95
+Skill 'frenzy' 45 0 95
+Skill 'hades armor' 24 0 95
+Skill 'heal' 100 1 95
+Skill 'heal ii' 100 1 95
+Skill 'heal iii' 200 1 95
+Skill 'heal iv' 300 1 95
+Skill 'heal v' 400 1 95
+Skill 'holysight' 100 20 95
+Skill 'home' 100 1 95
+Skill 'hurricane' 100 2 95
+Skill 'identify' 2 0 95
+Skill 'infravision' 10 0 95
+Skill 'ironhand' 55 0 95
+Skill 'jer' 100 25 95
+Skill 'jir' 100 25 95
+Skill 'jur' 100 25 95
+Skill 'niaver' 200 1 95
+Skill 'portal' 30 0 95
+Skill 'protect' 35 0 95
+Skill 'purity' 95 0 95
+Skill 'quickness' 94 0 95
+Skill 'regeneration' 65 0 95
+Skill 'remove curse' 35 0 95
+Skill 'sanctuary' 50 0 95
+Skill 'sandstorm' 100 2 95
+Skill 'scry' 100 1 95
+Skill 'shield' 100 14 95
+Skill 'sith fury' 200 95 95
+Skill 'stone skin' 33 0 95
+Skill 'teleport' 45 0 95
+Skill 'terrashift' 100 1 95
+Skill 'true sight' 5 0 95
+Skill 'aggressive style' 1 0 95
+Skill 'armor lore' 4 0 95
+Skill 'defensive style' 2 0 95
+Skill 'dodge' 19 0 95
+Skill 'dual wield' 20 0 95
+Skill 'enhanced damage' 10 0 95
+Skill 'fast healing' 2 0 95
+Skill 'fast healing ii' 100 1 95
+Skill 'fast healing iii' 200 1 95
+Skill 'fast healing iv' 300 1 95
+Skill 'fast healing v' 400 1 95
+Skill 'fifth attack' 200 1 95
+Skill 'fourth attack' 100 1 95
+Skill 'grip' 25 0 95
+Skill 'heighten' 34 0 95
+Skill 'hide' 15 0 95
+Skill 'karaaura' 1 0 95
+Skill 'kick' 1 0 95
+Skill 'knee' 10 800 95
+Skill 'longsight' 62 0 95
+Skill 'lore' 1 0 95
+Skill 'magic lore' 3 0 95
+Skill 'map lore' 5 0 95
+Skill 'meditation' 2 0 95
+Skill 'meditation ii' 100 2 95
+Skill 'meditation iii' 200 2 95
+Skill 'meditation iv' 300 2 95
+Skill 'meditation v' 400 2 95
+Skill 'mount' 7 0 95
+Skill 'move_hidden' 25 0 95
+Skill 'parry' 5 0 95
+Skill 'punch' 25 0 95
+Skill 'rescue' 5 0 95
+Skill 'search' 5 0 95
+Skill 'second attack' 15 0 95
+Skill 'sixth attack' 200 500 95
+Skill 'sneak' 15 0 95
+Skill 'standard style' 1 0 95
+Skill 'stormshift' 100 1 95
+Skill 'strike' 1 0 95
+Skill 'third attack' 50 0 95
+Skill 'track' 10 0 95
+Skill 'trance' 100 1 95
+Skill 'weapon lore' 4 0 95
+Skill 'axes' 1 0 95
+Skill 'blowguns' 1 0 95
+Skill 'daggers' 1 0 95
+Skill 'maces and hammers' 1 0 95
+Skill 'slings' 1 0 95
+Skill 'spears' 1 0 95
+Skill 'staves' 1 0 95
+Skill 'swords' 1 0 95
+Skill 'whips' 1 0 95
+Skill 'common' 1 0 99
+Skill 'elvish' 1 0 99
+Skill 'goblin' 1 0 99
+Skill 'ogre' 1 0 99
+Skill 'pixie' 1 0 99
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+(null)~
+(null)~
+End

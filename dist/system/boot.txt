@@ -1,0 +1,3 @@
+[*****] BOOT: ---------------------[ Boot Log ]--------------------
+[*****] BOOT: Load_resets: cssouls.are (2) 'D': exit 9 not door.
+[*****] BOOT: Load_resets: cssouls.are (22) 'D': exit 6 not door.

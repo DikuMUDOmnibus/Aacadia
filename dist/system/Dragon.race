@@ -1,0 +1,67 @@
+Name        Dragon~
+Race        15
+Evolve      21
+Classes     65535
+Str_Plus    4
+Dex_Plus    2
+Wis_Plus    -2
+Int_Plus    3
+Con_Plus    3
+Cha_Plus    2
+Lck_Plus    -3
+Hit         200
+Mana        100
+Affected    524800
+Resist      3
+Suscept     4
+Language    0
+Align       0
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    -100
+Exp_Mult   100
+Exp_tnl    5000
+Attacks    0
+Defenses   0
+Height     100
+Weight     250
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -17456
+HP_Regen    2104
+Race_Recall 0
+Cweight    0
+WhereName  <used as light>     ~
+WhereName  <worn on finger>    ~
+WhereName  <worn on finger>    ~
+WhereName  <worn around neck>  ~
+WhereName  <worn around neck>  ~
+WhereName  <worn on body>      ~
+WhereName  <worn on head>      ~
+WhereName  <worn on legs>      ~
+WhereName  <worn on feet>      ~
+WhereName  <worn on hands>     ~
+WhereName  <worn on arms>      ~
+WhereName  <worn as shield>    ~
+WhereName  <worn about body>   ~
+WhereName  <worn about waist>  ~
+WhereName  <worn around wrist> ~
+WhereName  <worn around wrist> ~
+WhereName  <wielded>           ~
+WhereName  <held>              ~
+WhereName  <dual wielded>      ~
+WhereName  <worn on ears>      ~
+WhereName  <worn on eyes>      ~
+WhereName  <missile wielded>   ~
+WhereName  <worn on back>  ~
+WhereName  <worn over face>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <worn around ankle>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  <BUG Inform Nivek>  ~
+WhereName  (null)~
+WhereName  &B<&clodged in rib&B>     ~
+WhereName  &B<&cBUG Inform Nicole&B> ~
+WhereName  ~
+End

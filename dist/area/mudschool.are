@@ -1,0 +1,2565 @@
+#AREA   MUD School~
+
+
+
+#VERSION 3
+#AUTHOR Swiftsword~
+
+#PLANE 1
+
+#RANGES
+0 5 0 1000
+$
+
+#RESETMSG Golden rays of light shine down on you from the Heavens.~
+
+#FLAGS
+0 5
+
+#ECONOMY 38 514232820
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#100
+0
+Evil Wabbit~
+&CAn Evil Wabbit&g~
+&CAn Evil Wabbit is here, gasping its last breath.&g
+~
+&g
+This wabbit is a major pain. Kill it and rid the world of its evil.
+~
+131 256 0 C
+11 0 0 2d7+121 2d4+2
+0
+0
+0
+25
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+109 3 0 0 1024 1024 2
+5 5 0 0 0 0 0 0
+#101
+0
+Stupid Rodent~
+&CA Stupid Rodent&g~
+&CA Stupid Rodent is here, gnawing on his own leg.&g
+~
+&g
+A Stupid Rodent is here, gnawing on his own leg.
+Grey hair and a long rubbery tail, it seems preoccupied.
+~
+131 256 0 C
+11 0 0 2d10+150 1d10+3
+0
+0
+0
+45
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+77 3 0 0 128 128 0
+5 5 0 0 0 0 0 0
+#102
+0
+Black Spider Queen~
+&CA Black Spider Queen&g~
+&CA Black Spider Queen is building a nest here.&g
+~
+&g
+A Black Spider Queen glares at you with her beady eyes and scurries away.
+~
+131 256 0 C
+11 0 0 2d7+121 2d4+2
+0
+0
+0
+10
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+63 3 0 0 256 256 0
+5 5 0 0 0 0 0 0
+#103
+0
+Spider-Eyed-Goblin~
+&CA Spider Eyed Goblin&g~
+&CA Spider Eyed Goblin is stalking you.&g
+~
+&g
+A Spider-Eyed-Goblin named after its cross breeding between a goblin and
+a spider is strangely lacking a complete body. Its torso is like a spider
+on the lower part and its upper portion looks like a goblin. Its eyes are 
+multi-faceted. Its skin is a dark green and the lower part is black velvet.
+To look upon this monstrosity is to flirt with death.
+~
+131 256 0 C
+11 0 0 2d7+121 2d4+2
+0
+0
+0
+15
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+101 3 0 0 16384 16384 2
+5 5 0 0 0 0 0 0
+#104
+0
+Slarecian-Muse~
+&CA Slarecian-Muse&g~
+&CA Slarecian-Muse is slithering around the room.&g
+~
+&g
+A Slarecian-Muse is here, smiling innocently at you, licking her lips.
+~
+131 256 0 C
+11 0 0 2d10+150 1d10+3
+0
+0
+0
+25
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+102 3 0 0 512 512 2
+5 5 0 0 0 0 0 0
+#105
+0
+Grease Spot~
+&CA Grease Spot&g~
+&CThere is a Grease Spot lying on the floor.&g
+~
+&g
+There is a Grease Spot lying on the floor. This has to be the strangest 
+thing you have ever seen. It looks like a puddle of grease laying there.
+~
+131 256 0 C
+11 0 0 2d10+150 1d10+3
+0
+0
+0
+55
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 524288 524288 2
+5 5 0 0 0 0 0 0
+#106
+0
+Hunched Backed Brinehag~
+&CA Hunched Backed Brinehag&g~
+&CA Hunched Backed Brinehag is standing here, blocking your way.&g
+~
+Hunched over and green, this monster doesn't look too mean.
+~
+35 256 0 C
+6 0 -10 2d7+121 2d4+2
+0
+0
+0
+75
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+95 3 0 0 64 64 3
+3 3 0 0 0 0 0 0
+#107
+0
+Heruan Wise Ancient Man~
+&CHeruan the Wise Ancient&g~
+&C(Blue Aura) Heruan the Wise Ancient waits to train you.&g
+~
+&g
+This ancient old man looks as though he has seen many young adventurers
+pass through this school on their way to fortune and fame.  Perhaps he
+too was once like you, new to this land, yet full of hopes and dreams.
+Now he seeks to repay in turn the aid that was given to him by helping
+others.
+~
+3587 0 0 C
+805 0 0 3000d1000+30000 100d100+1000
+0
+1000
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+90 5 0 0 1 1 0
+402 402 0 0 0 0 0 0
+#108
+0
+Elvira Witch~
+&CElvira the Witch&g~
+&CElvira the Witch is thinking of a spell to cast upon you.&g
+~
+&g
+With red eyes and a wicked smile, Elvira the Witch is here to
+provide you with the necessities you will need in your travels.
+~
+2051 168 0 C
+805 0 0 3000d1000+30000 100d100+1000
+0
+10
+0
+0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+90 1 0 0 32768 32768 0
+402 402 0 0 0 0 0 0
+#109
+0
+Rogue Pickpocket~
+&CA Rogue Pickpocket&g~
+&CA Rogue Pickpocket is sizing you up.&g
+~
+Kill him quickly before he has a chance to steal your gold!
+~
+131 0 0 C
+11 0 0 2d10+150 1d10+3
+0
+0
+0
+100
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 524288 524288 0
+5 5 0 0 0 0 0 0
+#110
+0
+Grey Mistwalker~
+&CA Grey Mistwalker&g~
+&CA Grey Mistwalker is giving you strange looks.&g
+~
+&g
+A Grey Mistwalker looks exactly like a hazy mist coming off of a pool of water.
+The leggings he is carrying appear to be of a stronger material than yours are.
+~
+131 0 0 C
+11 0 0 2d10+150 1d10+3
+0
+0
+0
+55
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+79 3 0 0 1024 1024 2
+5 5 0 0 0 0 0 0
+#111
+0
+Small Razor Backed Hog~
+&CA Small Razor Backed Hog&g~
+&CA Small Razor Backed Hog attacks you.&g
+~
+&g
+You have never before seen a Small Razor Backed Hog with a black strip down
+it back. An unusal color for such a creature, yet it fits. You start think-
+ing, this beautiful creature catches your eye in a most unusal manner. It is
+a most dangerous animal. Look closer and you will its eyes are red pin points. 
+Its suggested that you run as fast as you can back the other way.
+~
+163 0 0 C
+11 0 0 2d10+150 1d10+3
+0
+0
+0
+150
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+80 3 0 0 512 512 2
+5 5 0 0 0 0 0 0
+#112
+0
+hidden mob one~
+&Ca newly created hidden mob one&g~
+&CSome god abandoned a newly created hidden mob one here.&g
+~
+~
+75497475 40 0 C
+800 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+400 400 0 0 0 0 0 0
+> act_prog p has entered the game.~
+mpapplyb $n
+~
+|
+#113
+0
+dyrthianua auth mob hidden~
+&CDyrthianua&g~
+&CDyrthianua, the auth mob.&g
+~
+~
+75497475 0 0 C
+801 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+400 400 0 0 0 0 0 0
+> speech_prog p May I have a promotion~
+auth $n yes
+~
+|
+#114
+0
+Ivory Horned Unicorn~
+&CAn Ivory Horned Unicorn&g~
+&CAn Ivory Horned Unicorn is here pawing the ground.&g
+~
+~
+67 0 0 C
+12 0 0 2d7+121 2d4+2
+0
+0
+0
+0
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 4096 4096 0
+6 6 369168127 0 0 0 37 0
+#115
+0
+Centurian~
+&Ca Centurian&g~
+&CA Centurian is stomping around kicking his hooves up.&g
+~
+~
+65 32 0 C
+12 0 0 2d7+121 2d4+2
+0
+0
+0
+0
+112 112 0
+15 15 15 15 15 15 15
+0 0 0 0 0
+86 3 0 0 65536 65536 0
+6 6 369166079 0 0 0 33 6146
+#116
+0
+Hagard Hogwarten~
+&CA Hagard Hogwarten&g~
+&CA Hagard Hogwarten is a very strange creature.&g
+~
+~
+67 622849 0 C
+12 0 0 2d7+121 2d4+2
+0
+0
+0
+0
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 1 1 0
+6 6 3839 0 0 0 1107296288 3
+#117
+0
+Crabitian Crytron~
+&CA Crabitian Crytron&g~
+&CA Crabitian Crytron peeks out from under its shell.&g
+~
+~
+67 229677 0 C
+12 0 0 2d7+121 2d4+2
+0
+0
+1
+500
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 2 2 0
+6 6 66623 0 0 0 8391179 14339
+#118
+0
+Moon Hag~
+&CA Moon Hag&g~
+&CMoon Hag is sitting by a log watching.&g
+~
+~
+67 98596 0 C
+10 0 0 2d7+121 2d4+2
+0
+0
+0
+500
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 1 1 2
+5 5 67177535 0 0 0 33554467 6147
+#119
+0
+Brewer Gnome~
+&CA Brewer Gnome&g~
+&CA Brewer Gnome sneers at you.&g
+~
+~
+67 631076 0 C
+12 0 0 2d7+121 2d4+2
+0
+0
+0
+0
+112 112 1
+1 1 1 1 1 1 1
+0 0 0 0 0
+0 3 0 0 1 1 0
+6 6 1791 0 0 0 288 6147
+#199
+0
+Evil Wrabbit~
+&Can Evil Wrabbit&g~
+&CAn Evil Wrabbit is here, gasping its last breath.&g
+~
+This lizard is pathetic. Kill it and rid the world of its evil.
+~
+131 256 0 C
+11 0 0 2d7+121 2d4+2
+0
+0
+0
+25
+112 112 0
+1 1 1 1 1 1 1
+0 0 0 0 0
+79 3 0 0 512 512 0
+5 5 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#100
+Orb Book Knowledge~
+A Book of Knowledge~
+You see a Book of Knowledge lying here.~
+~
+13 0 16385
+0 0 0 0 0 0 0 1
+1 0 0
+E
+You look deeply into the orb and lights begin~
+~
+E
+book~
+&g
+You look deeply into the book and lights be-
+gin to spin and twist before you.  As they
+spin faster and faster, you start to see
+words. If you LOOK close, you might be able
+to read what they mean.
+******************************************
+*                                        *
+*                 .-==--                 *
+*            :==           =-            *
+*         :== Knowledge can   =-         *
+*       :==  be found in this   =-       *
+*      :==  world easilly. To    =-      *
+*     :==  find an answer, just   =-     *
+*     :==   type: help <topic>    =-     *
+*     :==                         =-     *
+*      :==   As an example: Type =-      *
+*       :==    the following:   =-       *
+*         :==    help help    =-         *
+*            :==           =-            *
+*                 .-==--                 *
+*                                        *
+******************************************
+~
+A
+3 1
+#101
+Small Square Lantern~
+A Small Square Lantern~
+Small Square Lantern sits here illuminating the immediate area.~
+~
+1 0 1
+12 0 50 0 0 0 0 1
+1 12 15
+E
+small lan~
+Dazzling inner walls reflect the light from the burning 
+lamp inside. A deep orange hue line the silloette.
+~
+E
+lantern~
+&g
+Dazzling inner walls reflect the light from the burning 
+lamp inside. A deep orange hue line the silloette.
+~
+#102
+&RSmall Red Leather Satchel&g~
+&RA Small Red Leather Satchel&g~
+&RA Small Red Leather Satchel is lying here in the dirt.&g~
+~
+15 0 1025
+100 0 0 12 0 0 0 1
+1 29 20
+E
+satchel~
+&g
+A Small Red Leather Satchel is of the most impressive craftsmanship.
+This satchel was made by the village leather crafter from the hide of
+a Rothe. The hide is dyed a bright red before it is made into different 
+leather articles. Samuel is well known for his skill at hand crafting.
+~
+#104
+Small Thin Sword~
+A Small Thin Sword~
+A Small Thin Sword lies here rusting.~
+~
+5 3 8193
+12 10 20 1 1 0 0 1
+1 12 25
+E
+sword~
+&g
+This blade is sharp and well built for those that need to train with a
+sword. The hilt is plain leather wrapped with the butt in a plain silver
+pommel.
+~
+A
+18 2
+A
+19 2
+#105
+Carved Wooden Bracer~
+(Polished) A Carved Wooden Bracer~
+(Polished) A Carved Wooden Bracer lies floating in a mud puddle.~
+~
+9 0 4097
+10 10 0 0 0 0 0 1
+1 0 15
+E
+bracer~
+You see a well made deeply polished wooden bracer with a high gloss.
+The sheen is so deep, you can see your reflection in it. Its colour 
+is a dark walnut with a redish sheen about it. The craftmanship is 
+most exceptional. 
+~
+A
+2 1
+#106
+Silk Scarf~
+A Silk Scarf~
+A Silk Scarf is crumpled up on the ground~
+~
+9 0 5
+10 10 0 0 0 0 0 1
+1 0 10
+E
+scarf~
+&g
+Made of the finest spider silk, it is sure to keep your neck warm.
+As you look more closely, you notice that it is in superb condition.
+~
+A
+3 1
+#107
+&zSkinny Cloth Belt~
+&zA Skinny Cloth Belt~
+&zA Skinny Cloth Belt is lying here rotting away.~
+~
+9 0 2049
+12 0 0 0 0 0 0 1
+1 0 1
+E
+belt~
+&g
+You see a very well made cloth belt. 
+~
+A
+17 -5
+A
+2 1
+#108
+&YDragon Scale Armored Cloak&g~
+&YA Dragon Scale Armored Cloak&g~
+&YA Dragon Scale Armored Cloak in a neat pile.&g~
+~
+15 1 1025
+200 0 0 12 0 0 0 2
+1 0 15
+E
+cloak~
+&g
+This cloak has been fashioned from the scales of a golden dragon.
+The skill required to fasion such an item are very extensive and
+requires a craftsman of extreme skills.
+~
+A
+17 -5
+A
+2 1
+#109
+&WLarge Bardelo Hat~
+&WA Large Bardelo Hat~
+&WA Large Bardelo Hat is laying here crumpled.~
+~
+9 0 17
+0 0 0 0 0 0 0 1
+1 0 12
+E
+hat~
+&g
+You look at a large bardelo hat that might be a tad over sized on your head.
+The only good thing about it being its made from the skins of the bardelo. A
+bardelo is a small rodent thats very rare and has a very soft skin thats easy
+to work and fashion into all different shapes.
+~
+A
+4 1
+#110
+Alligator Hide Leggings~
+A pair of Alligator Hide Leggings~
+A pair of Alligator Hide Leggings are cluttering the ground.~
+~
+9 2 33
+10 10 0 0 0 0 0 2
+1 0 5
+E
+leggings~
+&g
+These are the finest pair of alligator leggings available in this realm.
+~
+A
+17 -2
+#111
+Leather Sandals~
+A pair of Leather Sandals~
+A pair of Leather Sandals lay here.~
+~
+9 64 65
+12 0 0 0 0 0 0 1
+1 0 5
+E
+sandals ~
+Made of small strips of leather and hemp string, they will only keep the
+smaller rocks from piercing your sensitive skin.
+~
+#112
+Tattoo Official Kara's Storm~
+An Official 'Kara's Storm' Tattoo~
+Some letters lay here ebbing you to wear them.~
+~
+9 0 257
+10 10 0 0 0 0 0 1
+1 0 15
+E
+tattoos oficial kara's storm tat offi tatt~
+In deep red across both your arms is:
+'&RKara's Storm RULES&w' and '&RKara's Storm...JUST DO IT&w'
+Welcome to Kara's Storm, adventurer.
+~
+A
+17 -5
+#113
+&YGolden Chain~
+&YA Golden Chain~
+&YA Golden Chain lays here.~
+~
+9 1 5
+12 0 0 0 0 0 0 2
+1 0 15
+E
+chain~
+&g
+Adorning your neck with this &Ygolder chain&g makes you start feel smarter.
+Craftsmanship of this chain is so beautiful it was worth all the trouble.
+This &YGolden Chain &gwill raise your intelligence +1.
+~
+A
+3 1
+#114
+Lizard Skinned Leggings~
+&GLizard Skinned Leggings&g~
+&GThese Lizard Skinned Leggings sure would offer some protection.&g~
+~
+9 1073741825 33
+10 10 0 0 0 0 0 3
+1 0 10
+E
+green scaly leggings gre sca leg~
+Made of brown strips of various fabrics and tied together around
+your legs with leather string, these leggings don't flatter you.
+~
+A
+17 -25
+#115
+Pink Potion~
+A Pink Potion~
+A Pink Potion sits here.~
+~
+10 1 1
+5 -1 -1 -1 0 0 0 1
+1 0 15
+'detect hidden' 'NONE' 'NONE'
+E
+pink potion pi po pot~
+&g
+This liquid is a florescent pink color. Strange effects could happen from
+the liquid. This liquid was designed to detect a mob that is hidden from 
+view.
+~
+#116
+Ring Holding~
+A Ring of Holding~
+A small ring with a hinge is here collecting dust.~
+~
+15 1 3
+350 0 0 0 0 0 0 2
+1 0 25
+#199
+Dummie Object~
+A Dummie Object~
+The Dummie Object looks strangely like a Portal.~
+~
+46 1073741824 0
+0 0 0 0 0 0 0 10
+1 0 15
+#0
+
+
+#ROOMS
+#100
+Welcome to Mudschool!~
+&g*---------------------------------------------------------------------------*
+Kara's Storm is a text-based adventure game in which the words you type help
+determine where you go and what happens to you.  We hope this self-paced
+introduction will provide you with the information you need to enjoy your
+time here. We will be glad to help you.  Type <nchat help me, please>
+for help at any time.
+ 
+When instructions tell you to type <command>, DO NOT TYPE the < or the >.
+Simply type the enclosed COMMAND and then press your [enter] or [return] key
+ 
+*Please type <look> now to present the current screen again.
+ (You would type only -->    look    <--with no other marks)
+ 
+*Now, please type <n>, then press [enter] or [return] to enter Mudschool.
+ 
+                         WELCOME TO KARA'S STORM MUD
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+ 
+~
+0 -1071644660 0
+D0
+~
+~
+0 -1 101
+S
+#101
+Mudschool 1~
+&g*---------------------------------------------------------------------------*
+Every person has their own reasons for playing a MUD, but the game itself
+is designed with Levels which you try to gain.  Kara's Storm has many levels
+available for you to try to complete, but they are broken down into
+stages which we call Tiers.
+ 
+Your game objective for now is to reach the Hero Tier.  Hero is after
+Level 99, so you better get started!  (If you want more information
+about Tiers, type <help tier> and <help tiers>.
+ 
+There are even Tiers of volunteers who help players and work on the game
+itself. Angels, for example, have specifically volunteered to assist
+new players in need of information and help. Type <help angel> if you
+want more information.
+ 
+Please type <east> or <e> to move on to the next room.
+ 
+Type &YEAST&g
+&g*---------------------------------------------------------------------------*
+ 
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 102
+D2
+~
+~
+0 -1 100
+S
+#102
+Mudschool 2~
+&g*---------------------------------------------------------------------------*
+In Kara's Storm players move their characters around a map made up of many
+single rooms.
+
+Each space on the map is a "room", even if it is outdoors, underground,
+or in the ocean. When you first enter a room you will see a description
+of the room and its contents.
+ 
+The text will move or "scroll" up your screen.
+ 
+*Type <look> or just <l> to see the room description again.
+
+Now go &YEast&g and read about the Compass. The compass show's you dir's at a
+glance.
+
+Type &YEAST&g
+&g*---------------------------------------------------------------------------*
+ 
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 141
+D3
+~
+~
+0 -1 101
+S
+#103
+Mudschool 3~
+*---------------------------------------------------------------------------*
+You are not alone here.  Kara's Storm has a small, international player
+base and may have a dozen players on at anytime of the day or night.
+ 
+In this game you can communicate with other players in many ways.
+The two most important channels for you right now are: 'say' and 'nchat'
+ 
+'say' is used to talk to a person in the same room with you.  If you see
+a player listed below the room description when you type <look> you may
+greet them by typing <say hello>.
+ 
+*Type <say hello> now.  If someone is in the room, they may answer you.
+ 
+If there is no one here, type <south> to move to the next room.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+ 
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 141
+D2
+~
+~
+0 -1 104
+S
+#104
+Mudschool 4~
+*---------------------------------------------------------------------------*
+'nchat' is a channel activated for new players and those interested in
+helping them.  It is a "public" channel and may reach several hundred
+players.  Bad language is not appropriate on public channels.  Typing
+<nchat I need some help, please> will usually get a good response, but
+please remember that:
+ 
+  1. Kara's Storm is a family MUD.
+  2. Our players range in age from children to senior citizens, and come
+     from a wide variety of countries and cultures.  Not everyone speaks
+     English well.  If you need assistance in another language you might
+     find someone by typing <nchat Does anyone speak French?  I am a new
+     player>.
+  3. Good manners and appropriate language are valued here.
+  4. Those violating these standards may be asked or forced to leave.
+ 
+We highly recommend you take some time looking at our language policy.
+Type <help language>, if you want to look at that now.
+ 
+*Please type <west> or <w> to move to the next room.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 103
+D3
+~
+~
+0 -1 105
+S
+#105
+Mudschool 5~
+*---------------------------------------------------------------------------*
+You are standing in a small library.  Exits are to the east and to the
+west. You just came from the east.  Type <west> or just <w> to continue
+your journey
+ 
+If you get lost or need help at any point, type these words:
+   <nchat I am new here. Help me please.>
+Someone will probably answer you on the nchat channel. They may not be
+in the room with you.  Nchat is a mud-wide channel which everyone can see
+no matter where they are.
+ 
+If <look> shows them in your room, you should use 'say' to talk to them.
+If <look> does NOT show them here, use 'nchat' to talk.
+ 
+*Type <west> or just <w> now.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 104
+D3
+~
+~
+0 -1 106
+S
+#106
+Mudschool 6~
+*---------------------------------------------------------------------------*
+You have entered this world with some basic equipment and clothing.  Not
+much, but some.  To see what you are wearing, type <equipment> or just <eq>.
+You may look at your equipment this way at any time.
+ 
+(You may need to type <look> or <l> again when you have finished to see
+this screen again.)
+ 
+Some equipment in the game is temporary in nature and will disappear out of
+your inventory after a period of time. Do not worry or panic if this happens.
+If you want a checklist of equipment you should seek, type <help starting gear>
+ 
+*Go north by typing <n> or <north>.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 107
+D1
+~
+~
+0 -1 105
+S
+#107
+Mudschool 7~
+*---------------------------------------------------------------------------*
+Who are you?  Type <whois yourname> to see basic information about
+yourself.  ( For example, another player called Tim would see himself
+by typing <whois tim>. ) This command will also work on other players.
+ 
+If you want more information on this, type <help whois>
+ 
+*Go north by typing <n>.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 108
+D2
+~
+~
+0 -1 106
+S
+#108
+Mudschool 8~
+*---------------------------------------------------------------------------*
+There are also other commands which will help you look at yourself in a
+more detailed fashion.  The main one is the SCORE command.
+ 
+Type <score> or just <sc>.  Type it several times if you need to.  There
+are many values there to discuss and all of them should have help files.
+You may access this information at any time by typing <score> or <sc>.
+ 
+If your screen moves too quickly, you may have trouble reading everything
+at one glance.  You may have to repeat the command several times (or print
+it out) to read it all. You can also use the command DEAF. It turns off all
+channels so your screen doesn't scroll by so fast. DEAf is a toggle. Type it 
+once and it turns off all channels, type it again and it turns them back on.
+ 
+*Go north to learn more.  Type <n>, of course.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 109
+D2
+~
+~
+0 -1 107
+S
+#109
+Mudschool 9~
+*---------------------------------------------------------------------------*
+Type <score>.  On the left side your statistics are listed.  Strength, Wisdom,
+Intelligence, Dexterity, Constitution, Charisma, and Luck all have their adv-
+antages. Each one has its own help file for more information. We will talk abo-
+ut them more later in the Mudschool.
+
+ 
+On the right side are hit points, mana, and movement as well as other informa-
+tion. All of it is important to some degree but this tutorial will only focus
+on the main ones. Kara's Storm help file system will give you detail on all
+the rest.
+
+* Go east to continue.  Type <e> or <east>.
+ 
+Type &YEAST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 110
+D2
+~
+~
+0 -1 108
+S
+#110
+Mudschool 10~
+*---------------------------------------------------------------------------*
+There are some time saving tools available to you as you play.  Type <sc>
+and look at AUTOS: katyr, loot, sac, and title at the bottom of your
+information.  These are toggles or switches.
+ 
+Type <autos loot>.  Type <autos loot> again. Notice that it turns off and back
+on.  The rest of those work the same way.  Autoloot saves you the effort of
+collecting equipment off of creatures you kill.  The others have similar
+features for different things.  Type <help autos> to see what the set of
+toggles does.
+ 
+Go east to continue.
+ 
+Type &YEAST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 111
+D3
+~
+~
+0 -1 109
+S
+#111
+Mudschool 11~
+*---------------------------------------------------------------------------*
+Now notice the numbers that appear continuously on your screen.....
+something like:  <20hp 100m 100mv>
+These numbers represent your physical condition at this very moment.
+ 
+"hp" is "hit points" which reflect your health.  You could be anything
+from "excellent health" to "bleeding freely".
+ 
+"mana" reflects your ability to use "spells" or "magic" (later!).
+ 
+"mv" is "moves", which are used every time you move.  At zero, you will
+not be able to move at all
+ 
+This prompt is something you can customize. Type <help prompt> if you
+want more information.
+ 
+*Go east to continue.
+ 
+Type &YEAST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 112
+D3
+~
+~
+0 -1 110
+S
+#112
+Mudschool 12~
+*---------------------------------------------------------------------------*
+When you moved, some of your mv points were used.  They may rise with the
+passing of time, or when you sleep.  Sleeping always heals hp, mana, and
+mv.
+ 
+Type <sleep> to sleep, then <wake> or <stand> to wake up.  You CAN NOT
+type <look> while sleeping, and you may miss events in the room.  You CAN
+type <sc> <eq> <whois> while sleeping.  You cannot use 'say' while
+sleeping, but you CAN use 'nchat'.
+ 
+*Try <sleep> and <wake> or <stand>.  You may also <rest>.  Resting heals
+you more slowly than sleeping, but you are more alert and can see events
+in the room.
+Sleep is also a good time to look at the help files Kara's Storm has available.
+ 
+*Go south to continue.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D2
+~
+~
+0 -1 113
+D3
+~
+~
+0 -1 111
+S
+#113
+Mudschool 13~
+*---------------------------------------------------------------------------*
+You now need to kill a "mob" to get some more equipment.  ( A "mob" is a
+general term for any computer creature in the game.) When you get to the
+room (15) with the Evil Wabbit, you need to type <consider wabbit> or <con wab>
+to find out which of you is most likely to die in a fight.
+ 
+It is VERY unwise to kill a mob you have not considered.
+ 
+To initiate a fight type <kill mobname>.  You may type either <kill wabbit>
+or <k wab> to start fighting. ( Please kill each mob you find only ONCE while
+in Mudschool.)
+ 
+*Go south
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 112
+D2
+~
+~
+0 -1 114
+S
+#114
+Mudschool 14~
+*---------------------------------------------------------------------------*
+If you are victorious in your battle you will get the equipment and gold
+the mob was carrying because your autoloot toggle is "on" right now.
+This equipment will appear in your <inventory> of items carried (not
+worn).
+ 
+To see what is in the adjoining rooms, type <scan>.
+This allows you to survey the terrain before entering a room.
+ 
+*Try <scan>...what will <sc> bring you? Right! It will show your score
+screen.  <scan> shows you the obvious exits from your present position.
+
+A Wabbit lerks close by to the south.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 113
+D2
+~
+~
+0 -1 115
+S
+#115
+Mudschool 15~
+*---------------------------------------------------------------------------*
+In this room you see a mob. Type <look wabbit> to look AT the Wabbit.
+ 
+You want to <consider> its strength before attacking it.  Type <con wabb>.
+Think about it and if you feel ready, attack by typing <k wab> or <kill wabbit>
+(If you misspell or mis-space either word, the command will not work.)
+ 
+When the battle has ended, move down. ( Type <down>.)
+ 
+Type &YDOWN&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D0
+~
+~
+0 -1 114
+D5
+~
+~
+0 -1 116
+S
+#116
+Mudschool 16~
+*---------------------------------------------------------------------------*
+If you type <inv> you will see the items you got from the corpse of the
+Evil Wabbit.  There are several ways to get them on your body.
+ 
+<wear book> puts the book on your body.  Try typing <wear book> now.
+ 
+Several commands move armor and equipment from your inventory to your
+body and vice versa.
+ 
+<wear xxx> works on armor and clothing and some other items.
+<wield xxx> is used for weapons in the dominant hand.
+<hold xxx> will put a shield/weapon in your off-hand.
+ 
+Each of these commands will replace the item currently being worn in
+that slot with the item you specify IF the item is in your inventory.
+The command <wear all> will put all suitable items from your inventory
+on your body. The command <remove xxx> or <rem xxx> will remove an item.
+<rem all> will put all worn items into your inventory, removing them
+from your body.
+ 
+*Try <rem book> <wear book> then go north.*
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 117
+D4
+~
+~
+0 -1 115
+S
+#117
+Mudschool 17~
+*---------------------------------------------------------------------------*
+To remove an item from your INVENTORY you may drop it on the floor by
+typing <drop xxx>. Items on the floor are NOT safe.  Imps and mobs may
+steal them.  Short periods of time in empty rooms may be safe.
+ 
+<rem xxx>  removes something from your body.
+<drop xxx> drops it on the floor.  If you type <l> you will see it there.
+           It is no longer in your inventory.  If you leave it there it
+           may disappear.
+<get xxx>  gets something off of the floor and puts it in your
+           inventory.
+
+<rem all>  removes all of your eq from your character. 
+<drop all> drops everything in your inventory.
+<get all>  gets everything off of the floor and puts it in your
+           inventory.
+
+ 
+Try this, and <look> at the room before you leave to be SURE you have left
+nothing behind: <rem book> <drop book> <l> <get book> <wear book> <look>
+ 
+Go north to continue.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 118
+D2
+~
+~
+0 -1 116
+S
+#118
+Mudschool 18~
+*---------------------------------------------------------------------------*
+Your quest now is to kill mobs to get the rest of  your equipment and
+some katyr.  You will also get the "experience points" you need to advance
+to the next level.  The command <worth> or <wo> tells you how much money
+you have, and how close you are to the next level.  (Every race has their
+own requirements for experience necessary for each level.)
+ 
+Once you gain more experience and get closer to level 3, we'll explain
+more about leveling.
+ 
+*Type <wo> now and note the numbers you see... they are about to change!
+ 
+*Go north.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 119
+D2
+~
+~
+0 -1 117
+S
+#119
+Mudschool 19~
+*---------------------------------------------------------------------------*
+You are in a damp, moldy dungeon.  Moans and disturbing noises tell you
+that all is not well here.  In the next five chambers there are creatures
+for you to kill.  Each has equipment you need for your journey. <con xxx>
+and <kill xxx> each.  <wear xxx> the equipment you get.  You may check
+your progress by typing <eq> and <wo>.  -->Watch your hit points!  It is
+safe to sleep here to regain hp, mana, and moves.  Remember <sleep> to
+sleep, <wake> or <stand> to awaken.
+ 
+*Go west.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D2
+~
+~
+0 -1 118
+D3
+~
+~
+0 -1 120
+S
+#120
+Mudschool 20~
+*---------------------------------------------------------------------------*
+There is something to kill here, scuttling around in the shadows.  If
+you don't see it, someone may have just killed it.  Wait a bit until it
+repops (returns), then <con> and <kill> it.  <wear> your new equipment.
+ 
+The game is designed to have creatures regenerate or repop after they've
+been killed.  This repop could take a few seconds or several minutes.
+If there is nothing here, give the system time to reload a new creature
+for you to kill. Once you've killed it, you should go on to the next
+room.
+ 
+*Go west when your battle is over.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D1
+~
+~
+0 -1 119
+D3
+~
+~
+0 -1 121
+S
+#121
+Mudschool 21~
+*---------------------------------------------------------------------------*
+The smell of mildew assails your nostrils.  You see, in the dank
+darkness, an arachnid exploring a crevice.
+ 
+Check your hp.  <con> and <kill> when you are ready.
+
+*Go west when the battle is concluded.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D1
+~
+~
+0 -1 120
+D3
+~
+~
+0 -1 122
+S
+#122
+Mudschool 22~
+*---------------------------------------------------------------------------*
+You hear an odd swishing noise.  As your eyes adjust to the light you see
+that this room is a little tidier than the previous ones.
+ 
+*Go south after the battle.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D1
+~
+~
+0 -1 121
+D2
+~
+~
+0 -1 123
+S
+#123
+Mudschool 23~
+*---------------------------------------------------------------------------*
+At your feet a pool of some dark red sticky liquid glistens in the dim
+light.  You skin crawls and you feel uneasy.
+
+*Check hp, <con> <kill> <wear all> and then move south.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D0
+~
+~
+0 -1 122
+D2
+~
+~
+0 -1 124
+S
+#124
+Mudschool 24~
+*---------------------------------------------------------------------------*
+The gloom deepens.  The creature here does not seem to notice you... yet.
+Half-eaten carcasses make you think leaving soon would be a good idea.
+
+*Go south when you have emerged victorious.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D0
+~
+~
+0 -1 123
+D2
+~
+~
+0 -1 125
+S
+#125
+Mudschool 25~
+*---------------------------------------------------------------------------*
+Stop here for a minute.
+Sleep if your hps are less than maximum (30+, for new players). While you
+do this, check your <eq> and <inv> to see that you are wearing all of your
+equipment.
+
+If you type <worth> or <wo>, you will see how much experience you've gained
+by how much you have left until Level 2.  Typing <score> or <sc> will show
+changes as well.
+
+The next mob you will encounter is AGGRESSIVE.  It will attack you the
+moment you enter the room, so make sure you are at your full strength
+before you move on.  Once you've killed the creature, move on to
+the next room. ( NEVER sleep in a room where you've just killed an "aggie"
+
+*Scan, then move east to face the Hunched Backed Brinehag.
+
+Type &YEAST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 124
+D1
+~
+~
+0 -1 126
+S
+#126
+Mudschool 26~
+*---------------------------------------------------------------------------*
+You barely have time for your eyes to adjust to the gloom of this small,
+cramped cell.
+
+*Move east before the Hunched Back Brinehag repops.
+
+Type &YEAST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D1
+~
+~
+0 -1 127
+D3
+~
+~
+0 -1 125
+S
+#127
+Mudschool 27~
+*---------------------------------------------------------------------------*
+Congratulations!  You have mastered your first challenge.  You are now
+more fully equipped although you may notice some empty spaces when you
+type <eq>.  These spaces will get filled later as you go through and try
+to find the items in <help starting gear>.
+
+You have a few more things to learn in Mudschool and you'll be ready for
+adventuring in Kara Storm's many fascinating areas.
+
+*Type <sc> again..notice your "exp" and your experience "To Next Level"
+           "TNL"
+
+This is also a good place to decide whether or not you like your race and
+class choices.  Take some time and look at our help files on the races
+and classes available( <help race>, <help class>, <help tnl> ). If you
+wish to restart, you can look at <help delete>, otherwise continue on for
+the remainder of Mudschool.
+
+*Go north.
+
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 128
+D3
+~
+~
+0 -1 126
+S
+#128
+Mudschool 28~
+*---------------------------------------------------------------------------*
+Type <sc> yet again.  THIS time, notice your "practices" and your "wisdom".
+Each time you level you will also get practices.  The higher your wisdom
+is, the more practices you get.  Since you "buy" statistic increases and
+spells with practices, you want your wisdom as high as you can manage.
+
+*Type <train wis> until you have used up as many practices as you are
+ allowed to.  Advanced tip: typing <!> at any time in the game REPEATS
+ your last command.  <train wis>, <!>, <!> will train your wisdom 3 times.
+ (Note: Be sure to hit the [enter] key for each <command> above.)
+
+You may have some practices left over.  Save them to train your stats
+when you reach level 3.  At level 4, 5, or 6 you may want to begin to
+learn some spells and skills.  Type <practice> to see the spells and skills
+you will be able to practice.  Type <train> to see the cost of training
+your stats.  You can train anywhere but you can only practice skills and
+spells in rooms with a Trainer like the one here (type <look man>).
+There is a detailed help file on trainers, <help trainers>, when you want
+to find another one.
+
+*Go north, please.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 129
+D2
+~
+~
+0 -1 127
+S
+#129
+Mudschool 29~
+*---------------------------------------------------------------------------*
+You step out into the bright sunshine of a small grassy field.  You are
+wearing a Small Square Lantern...unless it has burned out.
+
+The mob in this room is a shopkeeper.
+        Type <look elvira> to see her.  Type <list> to see what she sells.
+        Type <wo> to see how much money you have.
+
+You need to purchase a lantern, and a satchel.
+        Type <buy lantern> and <buy satchel> to purchase them.
+
+If your Small Square Lantern has burned out or is missing, type
+        <hold lantern> or <wear lantern>
+
+There are many shopkeepers within the game who sell items.  Typing <list>
+in a room is a quick way to see if there are things to sell.
+
+*Go west when you have made your purchases.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D2
+~
+~
+0 -1 128
+D3
+~
+~
+0 -1 130
+S
+#130
+Mudschool 30~
+*---------------------------------------------------------------------------*
+You know how to look at things.
+
+You need to know how to look "into" containers.  Type <look in satchel>
+or <examine satchel> or <exa satch> to see what is inside.  Now type the
+command <put lantern satchel>.  You have just put one of your lanterns
+into the satchel.  The syntax is <put item container>.  To take it out:
+<get item container>
+
+*Type <exa satchel> to see the contents of the satchel.  Then type
+ <get lantern satchel> to move it back to your active inventory.
+ Note that <put 2.lantern satchel> would move the SECOND lantern in your
+ inventory to the satchel.  You can <examine> containers of all sorts,
+ put things in them and get them out using these commands.  You can
+ even open and close them. Type <help container> for more information.
+
+*Go south.
+
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 129
+D2
+~
+~
+0 -1 131
+S
+#131
+Mudschool 31~
+*---------------------------------------------------------------------------*
+A cool breeze brushes your face.  You see an intruder stepping out of a
+small pine forest.  Type <look rogue>.  Kill him and move down quickly.
+
+Type &YDOWN&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D0
+~
+~
+0 -1 130
+D5
+~
+~
+0 -1 132
+S
+#132
+Mudschool 32~
+*---------------------------------------------------------------------------*
+Use <score> to check your stats, particularly your intelligence.  Int
+influences the speed with which you become adept at skills. <wear> the
+golden chain you got from the rouge and check your intelligence again.
+ 
+(in parentheses) is your intelligence at present, enhanced by spells
+and/or equipment.  Check your intelligence with and without the necklace.
+The necklace is magical. It gives the wearer +1 intelligence.
+Example: without the chain, Intelligence 15(15) w/chain Intelligence 15(16)
+ 
+Magical equipment used well can enhance your gameplay. When you are about
+to gain enough experience to level, you should wear WISDOM and CONSTITUTION
+gear.  Higher wisdom will give you more practice points to use and higher
+constitution will give you more hit points. Some people even try to wear
+INTELLIGENCE gear because it will help them gain more mana.
+ 
+When you are about to practice a skill or a spell, wear your INTELLIGENCE
+items. A higher intelligence makes learning easier.  This means that you
+won't need as many practice points to become an expert in casting a
+spell or using a skill.
+
+If you look again at <help starting gear>, you will see that it not only
+tells you what kinds of items are basic but also lists items that you want
+to find quickly for the reasons that were just explained. A great example
+is 'a golden feather' which gives you +1 wisdom and +1 constitution!
+
+*Head north.
+ 
+Type &YNORTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 133
+D4
+~
+~
+0 -1 131
+S
+#133
+Mudschool 33~
+*---------------------------------------------------------------------------*
+You move further into the forest.  As your eyes adjust to the darkness,
+you see a Grey Mistwalker with some very interesting armor on his legs.
+Con, kill, and move east.
+
+*go East <e> now.
+ 
+Type &YEAST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D1
+~
+~
+0 -1 134
+D2
+~
+~
+0 -1 132
+S
+#134
+Mudschool 34~
+*---------------------------------------------------------------------------*
+You now own TWO pieces of gear for the leg slot... <compare> is a command
+that allows you to decide which is "more effective."  Type <compare Alligator
+Lizard>. Read and decide which piece is better, then WEAR the better choice.
+
+If you type <don xxx> an item you do not need will automatically go from your
+inventory to the Donation Room.  Donation is located w and sw of recall, and
+provides a way for players to share excess equipment.
+
+There is also a Donation Room for higher level players (over level 7)
+located in another area.
+
+*Type <don leg> to donate the extra leggings so you won't carry around
+ useless equipment.  (Be careful not to <donate all>.)
+
+*Then go south.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D2
+~
+~
+0 -1 135
+D3
+~
+~
+0 -1 133
+S
+#135
+Mudschool 35~
+*---------------------------------------------------------------------------*
+You have now completed the Kara's Storm Mudschool curriculum.  There are
+Immortals, Angels, Heroes, and Avatar's here to help you.  Try typing <who
+imm> and <who angel>.  <who hero> will fill your screen several times...
+and <who> will blind you!  Heroes and Avatar's  MAY help you, but are under
+no obligation to do so.  Polite thanks are always in order when one is helped!
+
+*You may go south.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0 1 100 0
+D0
+~
+~
+0 -1 134
+D2
+~
+~
+0 -1 136
+S
+#136
+Mudschool 36~
+*---------------------------------------------------------------------------*
+Your next stop after Mudschool will be Koenraad Square, where a healer sits
+in the center of Koenraad Square. A review of the information you have just
+learned and some more advanced material as well can be reviewed while you are
+sleeping and healing.
+
+Read the following help file.
+
+Help Help
+ 
+Go west.
+
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 135
+D3
+~
+~
+0 -1 137
+S
+#137
+Mudschool 37~
+*---------------------------------------------------------------------------*
+West of Mudschool lies the Dyrthianua's Training Grounds, rich with slightly
+stronger mobs, including the golden hawk, whose feather is reputed to bestow
+wisdom and constitution on the one who holds it. Typing <where hawk> while 
+standing in the Training Grounds will reveal where the hawk is. If none is 
+is found, try again in a few minutes, to see if it has repopped.
+ 
+The <where> command is quite useful in finding out where YOU are as well.
+Type <where>.
+
+*Go west to obtain a potion to aid you in your journeys.
+ 
+Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D1
+~
+~
+0 -1 136
+D3
+~
+~
+0 -1 138
+S
+#138
+Mudschool 38~
+*---------------------------------------------------------------------------*
+Ahead you see a flash of color.  Peering through the foliage you see a
+Small Razor Backed Hog wandering across a well-worn path.
+
+Kara's Storm is fraught with dangers such as plague and blindness.  Fortunately
+many classes have healing spells, and there are potions available to cure
+disease, grant special powers, and restore hp.
+
+Con and kill the Hog and keep the potion in your inventory.
+ 
+To use a potion, type <quaff potion>.
+
+Type <help quaff> for more information.
+
+Now go &YUP &gand follow the path. It will lead in a circle to the last room.
+ 
+Type &YUP&g
+*---------------------------------------------------------------------------*
+~
+0 -1071644660 0
+D1
+~
+~
+0 -1 137
+D4
+~
+~
+0 -1 145
+S
+#139
+Mudschool 39~
+*---------------------------------------------------------------------------*
+You should now be a Mudschool graduate. Remember to <save> if you do gain a
+level. As you emerge into Kara's Storm proper, you may need to review what 
+you have already learned and to seek even more information.
+
+There are several ways to do this:
+
+   1. Type <mudschool> to return to the first room of Mudschool. You may
+      leave at any point.
+   2. You may enter Kara's Storm proper to use the Advanced Player School.
+   3. Kara's Storm also has an extensive "help" system. Type <slist> for more
+      information. Type <help mudgrad>, <help newbie> or <help language> for
+      good general information.
+
+*Go South - You are ready to leave this sheltered place.
+ 
+Type &YSOUTH&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 160
+D2
+~
+~
+0 -1 140
+S
+#140
+Mudschool 40~
+*---------------------------------------------------------------------------*
+You will now "recall" to Koenraad Square, a safe haven and meeting place.
+You may often choose to type <recall> to return to Koenraad Square at anytime.
+Make a note that recalling puts a dent in your present movement points, but it 
+is usually reliable, and may even save you from a fight you are losing. (<flee>
+may also help, but it keeps you in the area.)  Check your mv now. It will decl-
+ine when you recall.
+
+You may ask for information by using the nchat channel. Notice your mv BEFORE
+you recall, and check them when you land at Koenraad Square. We STRONGLY enco-
+urage you to read <help mudgrad> and to explore the help files while you are
+sleeping. BE SURE to read <help death> and <help cr> before you begin to kill
+mobs.
+
+Good luck, and welcome to the Kara's Storm family!
+
+Type <recall> now, or walk west to the Training Grounds.
+ 
+Type &YRECALL&g or Type &YWEST&g
+*---------------------------------------------------------------------------*
+~
+0 -1071643636 0
+D0
+~
+~
+0 -1 139
+D2
+~
+~
+0 -1 139
+D3
+~
+~
+0 -1 9055
+S
+#141
+Compass Room~
+Ok, looking at the top right hand corner you will
+see what is called a Compass. Below you will see 
+examples of several compasses. Try going to each
+direction then returning to this room.
+
+            &z-     &YN&z     -
+            &YW&z<---(*)--->&YE&g
+            &z-     &YS&z     -
+
+
+            &YNW    &YN    &YNE&g
+            &YW&z<-&YU&z-(*)-&YD&z->&YE&g
+            &YSW    &YS    &YSE&g
+
+
+
+            &z-     &YN     &z-&g
+            &YW&z<-&YU&z-(*)-&YD&z->&YE&g
+            &z-     &YS     &z-&g
+
+
+Read &RHelp Compass&g
+
+Now kill the Ivory Horned Unicorn and then go &YWEST&g.
+ 
+~
+0 268435460 1
+D0
+~
+~
+0 -1 144
+D1
+~
+~
+0 -1 142
+D2
+~
+~
+0 -1 143
+D3
+~
+~
+0 -1 103
+D4
+~
+~
+0 -1 150
+D5
+~
+~
+0 -1 151
+D6
+~
+~
+0 -1 149
+D7
+~
+~
+0 -1 148
+D8
+~
+~
+0 -1 152
+D9
+~
+~
+0 -1 147
+S
+#142
+Compass Room~
+&g
+*-----------------------------------------------*
+Take the exit &YWEST&g to get back where you started.
+*-----------------------------------------------*
+~
+0 268435460 1
+D3
+~
+~
+0 -1 141
+S
+#143
+Compass Room~
+&g
+*------------------------------------------------*
+Take the exit &YNORTH&g to get back where you started.
+*------------------------------------------------*
+~
+0 268435460 1
+D0
+~
+~
+0 -1 141
+S
+#144
+Compass Room~
+&g
+*------------------------------------------------*
+Take the exit &YSOUTH&g to get back where you started.
+*------------------------------------------------*
+~
+0 268435460 1
+D2
+~
+~
+0 -1 141
+S
+#145
+Mudschool~
+*-----------------------------*
+Continue to follow the path &YUP&g.
+*-----------------------------*
+~
+0 268435460 1
+D4
+~
+~
+0 -1 146
+D5
+~
+~
+0 -1 138
+S
+#146
+Mudschool~
+*-------------------------------*
+Continue to follow the path &YEAST&g.
+*-------------------------------*
+~
+0 268435460 1
+D1
+~
+~
+0 -1 153
+D5
+~
+~
+0 -1 145
+S
+#147
+Compass Room~
+&g
+*---------------------------------------------*
+Take the exit &YNE&g to get back where you started.
+*---------------------------------------------*
+~
+0 268435460 1
+D6
+~
+~
+0 -1 141
+S
+#148
+Compass Room~
+&g
+*---------------------------------------------*
+Take the exit &YSE&g to get back where you started.
+*---------------------------------------------*
+~
+0 268435460 1
+D8
+~
+~
+0 -1 141
+S
+#149
+Compass Room~
+&g
+*---------------------------------------------*
+Take the exit &YSW&g to get back where you started.
+*---------------------------------------------*
+~
+0 268435460 1
+D9
+~
+~
+0 -1 141
+S
+#150
+Compass Room~
+&g
+*-----------------------------------------------*
+Take the exit &YDOWN&g to get back where you started.
+*-----------------------------------------------*
+~
+0 268435460 1
+D5
+~
+~
+0 -1 141
+S
+#151
+Compass Room~
+&g
+*---------------------------------------------*
+Take the exit &YUP&g to get back where you started.
+*---------------------------------------------*
+~
+0 268435460 1
+D4
+~
+~
+0 -1 141
+S
+#152
+Compass Room~
+&g
+*---------------------------------------------*
+Take the exit &YNW&g to get back where you started.
+*---------------------------------------------*
+~
+0 268435460 1
+D7
+~
+~
+0 -1 141
+S
+#153
+Mudschool~
+*-------------------------------*
+Continue to follow the path &YEAST&g.
+*-------------------------------*
+~
+0 268435460 1
+D1
+~
+~
+0 -1 154
+D3
+~
+~
+0 -1 146
+S
+#154
+Mudschool~
+*-------------------------------*
+Continue to follow the path &YEAST&g.
+*-------------------------------*
+~
+0 268435460 1
+D1
+~
+~
+0 -1 155
+D3
+~
+~
+0 -1 153
+S
+#155
+Mudschool~
+*-------------------------------*
+Continue to follow the path &YEAST&g.
+*-------------------------------*
+~
+0 268435460 1
+D1
+~
+~
+0 -1 156
+D3
+~
+~
+0 -1 154
+S
+#156
+Mudschool~
+*--------------------------------*
+Continue to follow the path &YSOUTH&g.
+*--------------------------------*
+~
+0 268435460 1
+D2
+~
+~
+0 -1 157
+D3
+~
+~
+0 -1 155
+S
+#157
+Mudschool~
+*--------------------------------*
+Continue to follow the path &YSOUTH&g.
+*--------------------------------*
+~
+0 268435460 1
+D0
+~
+~
+0 -1 156
+D2
+~
+~
+0 -1 158
+S
+#158
+Mudschool~
+*--------------------------------*
+Continue to follow the path &YSOUTH&g.
+*--------------------------------*
+~
+0 268435460 1
+D0
+~
+~
+0 -1 157
+D2
+~
+~
+0 -1 159
+S
+#159
+Mudschool~
+*--------------------------------*
+Continue to follow the path &YSOUTH&g.
+*--------------------------------*
+~
+0 268435460 1
+D0
+~
+~
+0 -1 158
+D2
+~
+~
+0 -1 160
+S
+#160
+Mudschool~
+*-----------------------------*
+Continue to follow the path &YUP&g.
+This will allow you loop thru
+again. Or go &YSOUTH&g to the last
+two room.
+*-----------------------------*
+~
+0 268435460 1
+D0
+~
+~
+0 -1 159
+D2
+~
+~
+0 -1 139
+D4
+~
+~
+0 -1 138
+S
+#161
+Mudschool~
+~
+0 268435460 1
+S
+#162
+Mudschool~
+~
+0 268435460 1
+S
+#163
+Mudschool~
+~
+0 268435460 1
+S
+#164
+Mudschool~
+~
+0 268435460 1
+S
+#165
+Mudschool~
+~
+0 268435460 1
+S
+#166
+Mudschool~
+~
+0 268435460 1
+S
+#167
+Mudschool~
+~
+0 268435460 1
+S
+#168
+Mudschool~
+~
+0 268435460 1
+S
+#169
+Mudschool~
+~
+0 268435460 1
+S
+#170
+Mudschool~
+~
+0 268435460 1
+S
+#171
+Mudschool~
+~
+0 268435460 1
+S
+#172
+Mudschool~
+~
+0 268435460 1
+S
+#173
+Mudschool~
+~
+0 268435460 1
+S
+#174
+Mudschool~
+~
+0 268435460 1
+S
+#175
+Mudschool~
+~
+0 268435460 1
+S
+#176
+Mudschool~
+~
+0 268435460 1
+S
+#177
+Mudschool~
+~
+0 268435460 1
+S
+#178
+Mudschool~
+~
+0 268435460 1
+S
+#179
+Mudschool~
+~
+0 268435460 1
+S
+#180
+Mudschool~
+~
+0 268435460 1
+S
+#181
+Mudschool~
+~
+0 268435460 1
+S
+#182
+Mudschool~
+~
+0 268435460 1
+S
+#183
+Mudschool~
+~
+0 268435460 1
+S
+#184
+Mudschool~
+~
+0 268435460 1
+S
+#185
+Mudschool~
+~
+0 268435460 1
+S
+#186
+Mudschool~
+~
+0 268435460 1
+S
+#187
+Mudschool~
+~
+0 268435460 1
+S
+#188
+Mudschool~
+~
+0 268435460 1
+S
+#189
+Mudschool~
+~
+0 268435460 1
+S
+#190
+Mudschool~
+~
+0 268435460 1
+S
+#191
+Mudschool~
+~
+0 268435460 1
+S
+#192
+Mudschool~
+~
+0 268435460 1
+S
+#193
+Mudschool~
+~
+0 268435460 1
+S
+#194
+Mudschool~
+~
+0 268435460 1
+S
+#195
+Mudschool~
+~
+0 268435460 1
+S
+#196
+Mudschool~
+~
+0 268435460 1
+S
+#197
+Mudschool~
+~
+0 268435460 1
+S
+#198
+Mudschool~
+~
+0 268435460 1
+S
+#199
+Mudschool~
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+M 1 107 1 128
+M 1 108 1 129
+G 1 101 1
+G 1 102 1
+G 1 104 1
+M 1 110 1 133
+E 1 114 1 1
+M 1 111 1 138
+G 1 115 1
+M 1 100 1 115
+E 1 100 1 17
+M 1 101 1 120
+E 1 105 1 14
+M 1 103 1 122
+E 1 106 1 3
+E 1 107 1 13
+M 1 104 1 123
+E 1 108 1 12
+E 1 109 1 6
+M 1 105 1 124
+E 1 110 1 7
+M 1 106 1 126
+E 1 111 1 8
+E 1 112 1 10
+M 1 102 1 121
+G 1 105 1
+M 1 113 1 135
+M 1 199 1 199
+M 1 109 1 131
+E 1 113 1 3
+G 1 113 2
+M 1 115 1 146
+M 1 116 1 154
+M 1 117 1 156
+M 1 119 1 160
+M 1 115 1 145
+M 1 114 1 141
+E 1 116 1 1
+M 1 116 1 153
+M 1 117 1 155
+M 1 118 1 157
+M 1 114 1 158
+M 1 119 1 159
+S
+
+
+#SHOPS
+ 108    5  1 15  0  0   130 120         0  0    ; &CElvira the Witch&g
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

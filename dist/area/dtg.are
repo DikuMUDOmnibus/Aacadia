@@ -1,0 +1,2201 @@
+#AREA   Training Grounds~
+
+
+
+#VERSION 3
+#AUTHOR Nicole~
+
+#PLANE 1
+
+#RANGES
+0 10 0 1000
+$
+
+#RESETMSG &gThe soft echoes of &zDyrthianua&g and her helpers can be heard...~
+
+#FLAGS
+1
+
+#ECONOMY 999999 993750583
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#9000
+0
+dyrthianua great healer~
+Dyrthianua~
+The great healer, Dyrthianua awaits new trainees.
+~
+~
+67110419 4194984 1000 C
+800 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+85 1 0 0 8192 8193 0
+400 400 0 0 3162111 0 0 0
+> act_prog p has entered the game.~
+curtsey $n
+sayto $n Welcome $n to Kara's Storm
+sayto $n We have some great adventures for you to enjoy, but first,
+sayto $n you should read HELP RULES to learn what you may or may not
+sayto $n do to fully enjoy this realm.
+smile $n
+sayto $n I am capable of helping you with some stuff you may want to do.
+sayto $n To practice your skills/spells you can type prac <skill/spell>
+sayto $n right here and I will instruct you. Also, you can type train
+sayto $n to see what stats you can train. You can train anywhere on
+sayto $n the realm. I also sell some stuff, type list to see what I have
+sayto $n to offer. I also can get your corpse for a fee, type corpse for help.
+smile $n
+if class($n) == Archer
+sayto $n As an archer, to use your bow, type "fire <target>" replacing
+sayto $n <target> with the name of the mob, ie fire doe.
+endif
+~
+> greet_prog 100~
+if ispc($n)
+curtsey $n
+sayto $n I am capable of helping you with some stuff you may want to do.
+sayto $n To practice your skills/spells you can type prac <skill/spell>
+sayto $n right here and I will instruct you. Also, you can type train
+sayto $n to see what stats you can train. You can train anywhere on
+sayto $n the realm. I also sell some stuff, type list to see what I have
+sayto $n to offer. I also can get your corpse for a fee, type corpse for help.
+smile $n
+else
+smile
+endif
+~
+|
+#9001
+0
+brown fox~
+a brown fox~
+A brown fox is here hunting for rabits.
+~
+~
+65 0 0 C
+10 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+76 3 0 0 512 512 0
+5 5 268501053 0 0 0 0 0
+#9002
+0
+rabbit small~
+a small rabbit~
+A small rabbit is looking for a mate here.
+~
+~
+16777281 0 0 C
+15 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+75 3 0 0 512 512 0
+7 7 268501053 0 0 0 0 0
+#9003
+0
+a doe~
+a doe~
+A doe is here grazing.
+~
+~
+16777281 0 0 C
+16 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+76 3 0 0 512 512 0
+8 8 268501053 0 0 0 0 0
+#9004
+0
+pig wild~
+a wild pig~
+A wild pig is here searching for truffles.
+~
+~
+16777281 0 0 C
+15 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+76 3 0 0 512 512 0
+7 7 268435517 0 0 0 0 0
+#9005
+0
+snake garter~
+a garter snake~
+A garter snake slithers by.
+~
+~
+16777281 0 0 C
+15 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+62 3 0 0 1024 1024 0
+7 7 0 0 0 0 0 0
+#9006
+0
+turtle box~
+a box turtle~
+A box turtle paces along.
+~
+~
+16777281 0 0 C
+15 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+79 3 0 0 1024 1024 0
+7 7 268435517 0 0 0 0 0
+#9007
+0
+golden hawk~
+a golden hawk~
+A golden hawk flies here.
+~
+~
+16777281 524328 0 C
+17 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+78 3 0 0 32768 32768 0
+8 8 32825 0 0 0 0 0
+#9008
+5
+ciqua mistress~
+Mistress Ciqua~
+The leader of the Kioni, Mistress Ciqua, is here chanting.
+~
+~
+67 40 1000 C
+20 0 0 10d12+20 15d20+40
+0
+0
+0
+0
+112 112 1
+15 15 15 15 15 15 15
+0 0 0 0 0
+0 1 0 0 1 1 6
+10 10 2047 0 0 0 0 0
+#9009
+0
+squirrel carnivorous~
+a carnivorous squirrel~
+OH NO! It is the carnivorous squirrel! RUN!
+~
+~
+67 40 0 C
+20 0 0 2d6+60 1d6+1
+0
+0
+0
+0
+112 112 0
+15 15 15 15 15 15 15
+0 0 0 0 0
+76 3 0 0 1 1 2
+10 10 268501053 0 0 0 0 0
+> greet_prog 100~
+if level($n) < 10
+mpkill $n
+endif
+~
+|
+#9099
+0
+t~
+a newly created t~
+Some god abandoned a newly created t here.
+~
+~
+65 0 0 C
+1 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#9199
+0
+placeholder mob~
+a newly created placeholder mob~
+Some god abandoned a newly created placeholder mob here.
+~
+~
+1073741889 0 0 C
+1 0 0 0d0+0 0d0+0
+0
+0
+0
+0
+112 112 0
+15 15 15 15 15 15 15
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#9000
+crystal lantern~
+a crystal lantern~
+A crystal lantern sits here.~
+~
+1 0 1
+0 0 -1 0 0 0 0 2
+1 25 2
+E
+crystal lantern cry lan~
+The light source flickers along the side of the lantern making wonderous
+shadows. It almost appears magical.
+~
+A
+4 1
+A
+3 1
+#9001
+rivendale edge sword blade~
+blade of the Rivendale~
+The edge of this blade is coated with a secret mineral.~
+~
+5 1074266114&32 8193
+12 5 30 1 1 0 0 2
+1 100 10
+E
+rivendale edge sword blade riv edg swo bla~
+The Rivendale were an ancient warrior cast who had spectacular weapon
+skills. This blade carries the craftsmenship of the Rivendale.
+~
+A
+19 1
+#9002
+bag holding~
+bag of holding~
+A bag is here crumpled on the ground.~
+~
+15 65 1
+250 0 0 12 0 0 0 2
+1 80 8
+E
+bag holding hol~
+This bag seems to be endless as it is stuffed full of stuff. Maybe dreams
+do come true.
+~
+#9003
+armor breastplate chromium~
+&zChromium Breastplate&D~
+A shiny breastplate sits on the ground here.~
+~
+9 524288 9
+14 14 0 0 0 0 0 2
+1 200 20
+#9004
+leggings chromium~
+&zChromium Leggings&D~
+A shiny set of leggings sits on the ground here.~
+~
+9 524288 33
+14 14 0 0 0 0 0 2
+1 100 10
+#9005
+potion Dyrthianua~
+Dyrthianua's potion~
+A potion is here.~
+~
+10 0 1
+20 -1 -1 -1 0 0 0 2
+1 120 12
+'heal' 'NONE' 'NONE'
+#9006
+golden feather~
+a &Ygolden feather&D~
+A feather lay in the dust catches your eye.~
+~
+9 262144&32 16385
+15 15 0 0 0 0 0 2
+1 0 0
+A
+56 66
+A
+4 1
+A
+5 1
+#9007
+staff ciqua~
+staff of &OCiqua&D~
+A staff lies here against the wall.~
+~
+4 -2147483328 16385
+50 20 20 -1 0 0 0 20
+3 0 0
+'heal ii'
+A
+4 3
+A
+3 3
+A
+19 10
+#9099
+t~
+&RItems after this object are required by code. Please see help codeitems.&D~
+Some god dropped a newly created t here.~
+~
+13 0 0
+0 0 0 0 0 0 0 0
+1 0 0
+#9100
+black poisoning powder~
+black poisoning powder~
+A small amount of black poisoning powder sits in a small container on the ground.~
+~
+65 0 16385
+0 0 0 0 0 0 0 1
+1 200 20
+#9101
+whetstone stone whet sharpening~
+a whetstone~
+A stone is here with scrapes that resemble sharpening strokes.~
+~
+65 0&512 1
+12 0 0 0 0 0 0 15
+1 40 4
+#9102
+Dyrthianua~
+&wDyrthianua&D~
+The ghost of a benevolent healer is traped in a crystal here.~
+~
+55 323 4194305
+12 0 0 0 0 0 0 0
+1 0 0
+A
+22 -10
+A
+21 -10
+A
+20 -10
+A
+23 -10
+A
+24 -10
+A
+26 128
+#9103
+wedding band~
+&YGolden Wedding Band&D~
+A &YGolden Wedding Band&g sits here.&D~
+~
+9 524544 3
+100 100 0 0 0 0 0 1
+1 0 0
+#9104
+angel armor~
+&YGolden Armor&D~
+A beautiful armor of an angel is here.~
+~
+9 256 9
+100 100 0 0 0 0 0 810
+1 0 0
+#9105
+angel Pants~
+&YGolden Pants&D~
+A Pants of an angel is here.~
+~
+9 256 33
+100 100 0 0 0 0 0 810
+1 0 0
+#9106
+angel Boots~
+&YGolden Boots&D~
+A Boots of an angel is here.~
+~
+9 256 65
+100 100 0 0 0 0 0 810
+1 0 0
+#9107
+angel Aura~
+&YGolden Aura&D~
+A Aura of an angel is here.~
+~
+9 256 1025
+100 100 0 0 0 0 0 810
+1 0 0
+#9108
+angel halo~
+&YGolden Halo&D~
+A halo lies here apparently left by an angel.~
+~
+9 0 17
+100 100 0 0 0 0 0 0
+1 0 0
+#9109
+angel wings~
+&WBeautiful Wings&D~
+A pair of white fluffy wings is here cliped from an angel.~
+~
+9 0 524289
+100 100 0 0 0 0 0 0
+1 0 0
+#9110
+padowan lightsaber~
+padowan lightsaber~
+A lightsaber for a padowan is here on the floor.~
+~
+5 524299&294912 8193
+12 12 21 1 12 0 0 0
+1 0 0
+A
+18 1
+A
+19 2
+#9111
+mace academy~
+a finely wrought mace~
+You see a finely wrought mace here.~
+~
+5 64 8193
+12 8 18 4 5 0 0 1
+2 0 0
+E
+mace~
+Made of decent quality this weapon shall servre you well in the battles
+to come.
+~
+A
+18 2
+A
+19 1
+#9112
+academy dagger~
+a finely honed dagger~
+You see a finely honed dagger here.~
+~
+5 64 8193
+12 7 18 6 2 0 0 0
+2 0 0
+A
+18 2
+A
+19 1
+#9113
+sword academy~
+a finely honed sword~
+You see a finely honed sword here.~
+~
+5 64 8193
+12 9 22 1 1 0 0 0
+2 0 0
+E
+sword~
+Made of decent quality, this sword should serve you well in your battles
+to come.
+~
+A
+18 2
+A
+19 1
+#9114
+plate armour academy~
+a plate of armour~
+A plate of armour from the Academy lies here~
+~
+9 0 9
+2 2 0 0 0 0 0 0
+5 0 0
+E
+plate armour~
+This plate of armour will give you protection until you can find
+something better. 
+~
+#9115
+shield crest academy~
+a shield with the Koenraad Academy crest~
+A shield with the Koenraad Academy crest lies here~
+~
+9 0 513
+2 2 0 0 0 0 0 0
+5 0 0
+E
+shield crest~
+This is your first shield, it will help keep you safe until you can
+find something better.
+~
+#9116
+orb eye enlightenment academy~
+an eye of enlightenment~
+A glistening orbs shines as a guiding light to new adventurers.~
+~
+1 65 1
+12 0 999 0 0 0 0 0
+1 0 0
+A
+24 -1
+#9117
+staff ranger wooden stick~
+Ranger Staff~
+Ranger Staff~
+~
+4 256 16385
+10 15 15 -1 0 0 0 0
+1 0 0
+'sanctuary'
+#9118
+arrow projectile make~
+a newly created arrow projectile make~
+An arrow lies here.~
+~
+57 0 16385
+12 0 0 0 1 0 0 0
+1 0 0
+#9119
+quiver make~
+a newly created quiver make~
+A quiver lies here.~
+~
+58 0&65536 524289
+0 0 0 12 0 0 0 0
+1 0 0
+#9120
+bow make~
+a newly created bow make~
+A finely crafted bow lies here.~
+~
+56 0&327680 262145
+12 0 0 0 6 1 0 0
+1 0 0
+#9121
+archer bow elven academy~
+an elven archer's bow~
+An elven bow sits here.~
+~
+56 0&65536 262145
+12 9 20 0 6 1 0 0
+1 0 0
+A
+18 15
+A
+19 15
+#9122
+projectile arrow standard~
+a standard arrow~
+A standard arrow lies here.~
+~
+57 0 16385
+0 9 20 13 1 0 0 0
+1 0 0
+#9123
+quiver newbie~
+a newbie quiver~
+A quiver lies here.~
+~
+58 0 524289
+50 0 0 12 0 0 0 0
+1 0 0
+#9124
+torch knowledge imm~
+torch of knowledge~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+1 524291&524320 1
+12 0 99999999 0 0 0 0 800
+1000 0 0
+#9125
+crimson robe imm~
+a crimson robe of immortality~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+15 524291&524320 1025
+1000000 0 0 12 0 0 0 800
+15 0 0
+A
+17 -10919
+A
+17 -4113
+#9126
+signet ring imm~
+an immortal signet ring~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 3
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9127
+amulet imm~
+an immortal amulet~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 5
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9128
+crimson tunic imm~
+a crimson tunic~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 9
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9129
+crimson hood imm~
+a crimson immortals hood~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 17
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9130
+crimson leggings imm~
+crimson leggings~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 33
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9131
+golden sandals imm~
+golden sandals~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 65
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9132
+gauntlet death imm~
+gauntlets of death~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 129
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9133
+ruby bracelet imm~
+a ruby bracelet~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 4097
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9134
+crimson belt imm~
+a crimson belt of immortality~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 2049
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9135
+sceptre power imm~
+a sceptre of immortal power~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524291&32 16385
+1000 1000 0 0 0 0 0 800
+1000 0 0
+#9136
+scimitar holy imm~
+scimitar of the holy~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+5 524291&2080 8193
+12 995 1000 1 1 0 0 800
+1000 0 0
+A
+18 2000
+A
+19 3000
+#9137
+essence imm~
+the essence of immortality~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+55 524291&524320 4194305
+12 0 0 0 0 0 0 800
+1000 0 0
+A
+26 370190464
+#9138
+crimson imm staff seal~
+a seal of the staff of Kara's Storm~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+70 524291&32 8388609
+1000 1000 0 0 1001 0 0 800
+1 0 0
+#9139
+sanctuary ring imm~
+an immortal ring of sanctuary~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524355&32 3
+1000 1000 0 0 0 0 0 800
+1000 0 0
+A
+26 128
+#9140
+crimson sleeves imm~
+a pair of crimson sleeves~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524355&32 257
+1000 1000 0 0 0 0 0 800
+1 0 0
+#9141
+rainbow wings imm~
+a pair of rainbow coloured wings~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524355&32 524289
+1000 1000 0 0 0 0 0 800
+1 0 0
+A
+26 2621440
+#9142
+dark shades imm~
+a pair of dark shades~
+A piece of immortal gear is here, please contact an imm right away.~
+~
+9 524355&32 131073
+1000 1000 0 0 0 0 0 800
+1 0 0
+A
+26 16777784
+#9143
+radiant ball light~
+a radiant ball of light~
+A radiant ball of light floats here mysteriously.~
+~
+1 65 1
+12 0 9999 0 0 0 0 1
+1 1 0
+#9144
+academy mumeito katana~
+a mumeito~
+A long eastern blade lies here.~
+~
+5 64&6291456 8193
+12 14 22 1 13 0 0 1
+10 0 0
+E
+mu mum mumeito ka kat katana~
+The blade of this weapon is 36 inches long curved and known to be forged folded
+200 times. The handle of the weapon is in itself 12 inches long designed to be
+wielded with two hands. It is covered with a fine ivory-marble rope.
+~
+A
+18 2
+A
+19 1
+#9145
+potion make~
+a newly created potion make~
+A potion lies here on the ground.~
+~
+10 0 1
+0 -1 -1 -1 0 0 0 0
+1 0 0
+'NONE' 'NONE' 'NONE'
+#9199
+placeholder item~
+a newly created placeholder item~
+Some god dropped a newly created placeholder item here.~
+~
+13 1073741824 0
+0 0 0 0 0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#9000
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9010
+D1
+~
+~
+0 -1 9001
+D9
+~
+~
+0 -1 9051
+S
+#9001
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9011
+D1
+~
+~
+0 -1 9002
+D3
+~
+~
+0 -1 9000
+S
+#9002
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9012
+D1
+~
+~
+0 -1 9003
+D3
+~
+~
+0 -1 9001
+S
+#9003
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9013
+D1
+~
+~
+0 -1 9004
+D3
+~
+~
+0 -1 9002
+S
+#9004
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9014
+D1
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9003
+S
+#9005
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9015
+D1
+~
+~
+0 -1 9006
+D3
+~
+~
+0 -1 9004
+S
+#9006
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9016
+D1
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9005
+S
+#9007
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9017
+D1
+~
+~
+0 -1 9008
+D3
+~
+~
+0 -1 9006
+S
+#9008
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9018
+D1
+~
+~
+0 -1 9009
+D3
+~
+~
+0 -1 9007
+S
+#9009
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9019
+D3
+~
+~
+0 -1 9008
+S
+#9010
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9020
+D1
+~
+~
+0 -1 9011
+D2
+~
+~
+0 -1 9000
+S
+#9011
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9021
+D1
+~
+~
+0 -1 9012
+D2
+~
+~
+0 -1 9001
+D3
+~
+~
+0 -1 9010
+S
+#9012
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9022
+D1
+~
+~
+0 -1 9013
+D2
+~
+~
+0 -1 9002
+D3
+~
+~
+0 -1 9011
+S
+#9013
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9023
+D1
+~
+~
+0 -1 9014
+D2
+~
+~
+0 -1 9003
+D3
+~
+~
+0 -1 9012
+S
+#9014
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9024
+D1
+~
+~
+0 -1 9015
+D2
+~
+~
+0 -1 9004
+D3
+~
+~
+0 -1 9013
+S
+#9015
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9025
+D1
+~
+~
+0 -1 9016
+D2
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9014
+S
+#9016
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9026
+D1
+~
+~
+0 -1 9017
+D2
+~
+~
+0 -1 9006
+D3
+~
+~
+0 -1 9015
+S
+#9017
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9027
+D1
+~
+~
+0 -1 9018
+D2
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9016
+S
+#9018
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9028
+D1
+~
+~
+0 -1 9019
+D2
+~
+~
+0 -1 9008
+D3
+~
+~
+0 -1 9017
+S
+#9019
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9029
+D2
+~
+~
+0 -1 9009
+D3
+~
+~
+0 -1 9018
+S
+#9020
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9030
+D1
+~
+~
+0 -1 9021
+D2
+~
+~
+0 -1 9010
+S
+#9021
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9031
+D1
+~
+~
+0 -1 9022
+D2
+~
+~
+0 -1 9011
+D3
+~
+~
+0 -1 9020
+S
+#9022
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9032
+D1
+~
+~
+0 -1 9023
+D2
+~
+~
+0 -1 9012
+D3
+~
+~
+0 -1 9021
+S
+#9023
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9033
+D1
+~
+~
+0 -1 9024
+D2
+~
+~
+0 -1 9013
+D3
+~
+~
+0 -1 9022
+S
+#9024
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9034
+D1
+~
+~
+0 -1 9025
+D2
+~
+~
+0 -1 9014
+D3
+~
+~
+0 -1 9023
+S
+#9025
+Dyrthianua's Teaching Podium~
+The ground is raised abit in a circle in the center of the immediate
+area. Dyrthianua, the great healer, stands here teaching new trainees.
+The hustle of trainees can be heard fighting the little fauna that is
+kept in these training facilities.
+~
+0 1048580 2
+D0
+~
+~
+0 -1 9035
+D1
+~
+~
+0 -1 9026
+D2
+~
+~
+0 -1 9015
+D3
+~
+~
+0 -1 9024
+S
+#9026
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9036
+D1
+~
+~
+0 -1 9027
+D2
+~
+~
+0 -1 9016
+D3
+~
+~
+0 -1 9025
+S
+#9027
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9037
+D1
+~
+~
+0 -1 9028
+D2
+~
+~
+0 -1 9017
+D3
+~
+~
+0 -1 9026
+S
+#9028
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9038
+D1
+~
+~
+0 -1 9029
+D2
+~
+~
+0 -1 9018
+D3
+~
+~
+0 -1 9027
+S
+#9029
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9039
+D2
+~
+~
+0 -1 9019
+D3
+~
+~
+0 -1 9028
+S
+#9030
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9040
+D1
+~
+~
+0 -1 9031
+D2
+~
+~
+0 -1 9020
+S
+#9031
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9041
+D1
+~
+~
+0 -1 9032
+D2
+~
+~
+0 -1 9021
+D3
+~
+~
+0 -1 9030
+S
+#9032
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9042
+D1
+~
+~
+0 -1 9033
+D2
+~
+~
+0 -1 9022
+D3
+~
+~
+0 -1 9031
+S
+#9033
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9043
+D1
+~
+~
+0 -1 9034
+D2
+~
+~
+0 -1 9023
+D3
+~
+~
+0 -1 9032
+S
+#9034
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+ 
+A tree grows here old and thick, easy to climb.
+          WARNING: The mob in the tree is for levels 8 to 10
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9044
+D1
+~
+~
+0 -1 9035
+D2
+~
+~
+0 -1 9024
+D3
+~
+~
+0 -1 9033
+D4
+~
+~
+16777216 -1 9061
+S
+#9035
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9045
+D1
+~
+~
+0 -1 9036
+D2
+~
+~
+0 -1 9025
+D3
+~
+~
+0 -1 9034
+S
+#9036
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9046
+D1
+~
+~
+0 -1 9037
+D2
+~
+~
+0 -1 9026
+D3
+~
+~
+0 -1 9035
+S
+#9037
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9047
+D1
+~
+~
+0 -1 9038
+D2
+~
+~
+0 -1 9027
+D3
+~
+~
+0 -1 9036
+S
+#9038
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9048
+D1
+~
+~
+0 -1 9039
+D2
+~
+~
+0 -1 9028
+D3
+~
+~
+0 -1 9037
+S
+#9039
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D0
+~
+~
+0 -1 9049
+D2
+~
+~
+0 -1 9029
+D3
+~
+~
+0 -1 9038
+S
+#9040
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9041
+D2
+~
+~
+0 -1 9030
+S
+#9041
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9042
+D2
+~
+~
+0 -1 9031
+D3
+~
+~
+0 -1 9040
+S
+#9042
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 3145728 2
+D1
+~
+~
+0 -1 9043
+D2
+~
+~
+0 -1 9032
+D3
+~
+~
+0 -1 9041
+S
+#9043
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9044
+D2
+~
+~
+0 -1 9033
+D3
+~
+~
+0 -1 9042
+S
+#9044
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9045
+D2
+~
+~
+0 -1 9034
+D3
+~
+~
+0 -1 9043
+S
+#9045
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9046
+D2
+~
+~
+0 -1 9035
+D3
+~
+~
+0 -1 9044
+S
+#9046
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9047
+D2
+~
+~
+0 -1 9036
+D3
+~
+~
+0 -1 9045
+S
+#9047
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9048
+D2
+~
+~
+0 -1 9037
+D3
+~
+~
+0 -1 9046
+S
+#9048
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle.
+~
+0 1048576 2
+D1
+~
+~
+0 -1 9049
+D2
+~
+~
+0 -1 9038
+D3
+~
+~
+0 -1 9047
+S
+#9049
+Dyrthianua's Training Grounds~
+Clashing and yelling can be heard all around you as you train here. Total
+concentration is needed to notice the markings along the ground outlining
+the different areas of battle. The plantings of trees along the corner are
+more sparce than the walls of this part of the arena.
+~
+0 1048576 2
+D2
+~
+~
+0 -1 9039
+D3
+~
+~
+0 -1 9048
+D6
+~
+~
+2048 -1 9056
+S
+#9050
+Dyrthianua's Training Grounds~
+~
+0 1048580 2
+S
+#9051
+Cobblestone End~
+The cobblestone walkway ends here as the forrest opens up onto the vast
+training grounds. Dyrthianua awaits at the center to guide all the new
+trainees.
+~
+0 1048580 1
+D6
+~
+~
+0 -1 9000
+D9
+~
+~
+0 -1 9052
+S
+#9052
+Cobblestone Way~
+The cobblestone pathway continues here after a bend northeasterly
+towards the sounds of fighting and yelling.  The forest appears thick
+here and wild life bounds in and out of it onto the pathway.
+~
+0 1048580 1
+D2
+~
+~
+0 -1 9053
+D6
+~
+~
+0 -1 9051
+S
+#9053
+Cobblestone Way, north~
+The cobblestone laid here is even to an almost perfect plane. Surprisingly
+they seem to be millenia old. Sounds of yelling can be heard in the distance.
+~
+0 1048580 1
+D0
+~
+~
+0 -1 9052
+D2
+~
+~
+0 -1 9054
+S
+#9054
+Cobblestone Way~
+The cobblestone laid here is even to an almost perfect plane. Surprisingly
+they seem to be millenia old. Sounds of yelling can be heard in the distance.
+~
+0 1048580 1
+D0
+~
+~
+0 -1 9053
+D2
+~
+~
+0 -1 9055
+S
+#9055
+Cobblestone Way, south~
+The cobblestone laid here is even to an almost perfect plane. Surprisingly
+they seem to be millenia old. Sounds of yelling can be heard in the distance.
+
+Continue north to find where the sounds are coming from.
+~
+0 1048580 1
+D0
+~
+~
+0 -1 9054
+S
+#9056
+A path~
+You find yourself walking on a krough dirt path through a forest. 
+The trees reach their braches overhead, creating a canopy which cuts 
+off most of the sunlight. You hear strange noises coming out of the 
+forest to the north and south, and the path continues.
+~
+0 268435460 3
+D0
+~
+~
+0 -1 9057
+D9
+~
+~
+0 -1 9049
+S
+#9057
+A path~
+You find yourself walking on a krough dirt path through a forest. 
+The trees reach their braches overhead, creating a canopy which cuts 
+off most of the sunlight. You hear strange noises coming out of the 
+forest to the north and south, and the path continues.
+~
+0 268435456 3
+D1
+~
+~
+0 -1 9058
+D2
+~
+~
+0 -1 9056
+S
+#9058
+A path~
+You find yourself walking on a krough dirt path through a forest. 
+The trees reach their braches overhead, creating a canopy which cuts 
+off most of the sunlight. You hear strange noises coming out of the 
+forest to the north and south, and the path continues.
+~
+0 268435456 3
+D1
+~
+~
+0 -1 9059
+D3
+~
+~
+0 -1 9057
+S
+#9059
+A path~
+You find yourself walking on a rough dirt path through a forest.
+The trees reach their braches overhead, creating a canopy which cuts 
+off most of the sunlight. You hear strange noises coming out of the 
+forest to the east and west, in the directions the path continues.
+~
+0 268435456 3
+D1
+~
+~
+0 -1 9060
+D3
+~
+~
+0 -1 9058
+S
+#9060
+The faerie circle~
+You step into the strange circle of trampled grass, and as you do, you
+feel the sudden urge to dance. Along the edge, you notice stones set in
+a perfect circle. Beneath your feet, blades of fresh smelling grass and
+of white daisies lay crushed.
+~
+0 268435456 3
+D3
+~
+~
+0 -1 9059
+> act_prog p gets staff of Ciqua from the corpse of Mistress Ciqua~
+mptransfer $n 21000
+~
+|
+S
+#9061
+Climbing the tree~
+Climbing the tree, one notices the view of Dyrthianua to the southeast
+where one can practice, or shop. The bark is sturdy enough to allow
+tight gripping.
+~
+0 269484032 1
+D4
+~
+~
+16777216 -1 9062
+D5
+~
+~
+0 -1 9034
+S
+#9062
+In the branches~
+Now at the top in the branches of the tree you notice a pair of evilish
+red eyes glowing towards you.
+~
+0 271581184 1
+D5
+~
+~
+0 -1 9061
+S
+#9099
+t~
+~
+0 4 1
+S
+#9199
+place holder~
+~
+0 268435460 1
+S
+#0
+
+
+#RESETS
+M 1 9000 1 9025
+G 1 9003 1
+G 1 9004 1
+G 1 9005 1
+G 1 9000 1
+G 1 9002 1
+M 1 9001 2 9024
+M 1 9001 2 9024
+M 1 9002 2 9023
+M 1 9002 2 9023
+M 1 9002 3 9043
+M 1 9003 2 9043
+M 1 9003 2 9043
+M 1 9004 2 9041
+M 1 9004 2 9041
+M 1 9005 2 9001
+M 1 9005 2 9001
+M 1 9005 3 9004
+M 1 9006 2 9009
+M 1 9006 2 9009
+M 1 9006 3 9039
+M 1 9007 1 9038
+G 1 9006 1
+O 1 9099 1 9099
+M 1 9008 1 9060
+G 1 9007 1
+M 1 9009 1 9062
+S
+
+
+#SHOPS
+ 9000    5  9  1 15 10   120 100         0  0    ; Dyrthianua
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  9000 spec_healer
+M  9008 spec_cast_cleric
+S
+
+
+#$

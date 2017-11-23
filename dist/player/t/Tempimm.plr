@@ -1,0 +1,74 @@
+#PLAYER
+Version      4
+Name         Tempimm~
+Sex          0
+Class        3
+DualClass        -1
+Race         0
+Languages    1 1
+Created      Sat Oct 18 17:03:16 2003~
+Level        1000
+SubLevel        0
+wLevel        0
+Played       86
+Room         1001
+HpManaMove   21 83 100 100 101 130 1 0
+Gold         300
+Silver	   0
+Copper	   0
+Balance     0
+Balance2    0
+Balance3    0
+Pretiti     0
+Exp          999000
+Recall       100000
+Height          66
+Weight          160
+Act          570426960
+AffectedBy   0&2097152
+Position     112
+Style     2
+Practice     66
+SavingThrows 0 0 0 0 -25
+Alignment    0
+Favor	       0
+Glory        0
+MGlory       0
+Rent		 0
+Norares	 0
+Autorent	 0
+Hitroll      25
+Damroll      0
+Armor        100
+ICEListen ~
+Password     tempimm~
+Pretit       ~
+Sname       (null)~
+Title         the Immortal~
+ClanC         0
+Bounty        0
+Bountytype    0
+AuthedBy     Admin~
+Boards       11 General 0 Ideas 0 Quest 0 Announce 0 Bugs 0 Personal 0 Immortal 0 Builder 0 HBuilder 0 Coder 0 Admin 0 
+Quest_Curr    0
+Quest_Accum  0
+WizInvis     0
+Flags        25198592
+PKills       0
+PDeaths      0
+MKills       0
+MDeaths      0
+IllegalPK    0
+Damhigh     0
+AttrPerm     16 13 13 13 13 13 13
+AttrMod      7 7 7 7 7 7 7
+Condition    0 48 48 0
+LastNews     1064018631
+Skill        100 'karaaura'
+Weapon       100 'swords'
+Tongue       100 'common'
+Stage        0 0 0
+Genes        0 0 0 0 0 0 0 0 0 0
+End
+
+#END
